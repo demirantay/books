@@ -1,2 +1,13 @@
-# books
-note system for the books that I am reading
+# Books
+
+### Psychology
+
+- ...
+
+### Art
+
+### Science
+
+### Philosophy
+
+### Uncategorized
