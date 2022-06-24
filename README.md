@@ -1,13 +1,15 @@
 # Books
 
+### Important
+
+- [atomic habits](./atomic-habits.md)
+
 ### Psychology
-
-- ...
-
-### Art
 
 ### Science
 
 ### Philosophy
+
+### Self Improvement/mind
 
 ### Uncategorized
