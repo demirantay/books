@@ -82,4 +82,116 @@ Chapter 10
 - Habits are attracive when we associate them with positive feelings and unattractive when we associate them with negative feelings. Create a motiviation ritual by doing something you enjoy immediately before a difficult habit.
 
 Chapter 11
-- 
+- When you are in motion,you are planning and startegizing and learning. Those are all good things, but they dont produce a result. Action, on the other hand is the type of behavior that will deliver an outcome.
+- If I search for a better diet plan and read a few books on the topic, that is motion. If I actually eat a healthy meal, that is action. Sometimes motion is useful, but it will never produce an outcome by itself.
+- If motion doesn't lead to results, why do we do it? Sometimes we do it because we actually need to plan or learn more. But more often than not, we do it because motion allows us to feel like we are making progress without running the risk of failure. Most of us are experts at avoiding criticism.
+- The 3rd law of behaviour change is make it easy.
+- The most effective form of learning is practice, not planning
+- Focus on taking action, not bein in motion
+- Habit formation is the process by which a behavior becomes progressively more automatic through repetition.
+- The amount of time you have been performing a habit is not as important as the number of times you have performed it.
+
+Chapter 12
+- Conventional wisdom holds that motivation is the key to habit change. Maybe if you really wanted it, you'd actually do it. But the truth is, our real motivation is to be lazy and to do what is convenient. And despite what the latest productivity best seller will tell you, this is a smart strategy, not a dumb one. 
+- Look at any behaviour that fills up much of your life and you will see that it can be performed with very low levels of motivation. Habits like scrolling on phones, checking email and watching television steal so much of our time because they can be performed almost without effort. They are remarkably convenient.
+- This is why it is curicial to make your habits so easy that you wil do them even when you dont feel like it.
+- Habits are easier to build when they fit into the flow of your life. You are more likely to go to the gym if it is on your way to work because stopping doesnt add much friction to your lifestyle.
+- We try to write book in a chatoic household. We try to concentrate while using  smartphone filled with distactions. It doesnt have to be this way. We can remove the points of frictionthat holds us back.
+- The central idea is to create an environment where doing the right thing is as easy as possible much of the battle of bilding better habits comes down to finding ways to reduce the friction associated with our good habits and increase the friction associated with our bad ones.
+- Human behavior gollows the law of least effort. we will naturally gravitate toward the option that requires the least amount of work.
+- Create an enviornment where oding the right thing is as easy as possible.
+- Reduce he friction associated with good behaviours. When firciton is low habits are easy.
+- Increases the fiction associated with bad behaviors. When fiction is high, habits are difficult.
+- Prime your environment to make future actions easier.
+
+Chapter 13
+- I begin each day of my life with a ritual" she writes. "I wake up at 5:30 am put on my workout clothes, my lef warmers, my sweat shirt and my hat. I walk outside my manhattan home, hail a taxi, and tell the driver to take me to the pumping iron gym at 91st street and first avenue where I work out for two hours. The ritual is not streching and weight training I put my body thorugh. The ritual is the cab. The moment I tell the driver where to go I have completed the ritual.
+- Researchers estimate that 40 to 50 percent of our actions on any given day are done out of habit.
+- You check your phone for just a second and soon you have spent twenty minutes staring at the screen.
+- Habits arae entry points not end points. They are the cab not the gym.
+- You have to standardize before you can optimize.
+- As you master the art of showing up, the first two minutes simply become a ritual at begning of a larger routine.
+- Habits can be completed in gew seconds but continue to impact your behaviour for minutes or hours afterwards.
+- Many abits occur at decisive moments - choices that are like a fork in the road - and either send ou inthe direction of a producctive day or an unproductive one.
+- The two-minute rule states, when you start a new habit, it should take less than two mintues to do.
+- The more you ritualize the begining of a process he more likely it bcomes that you can slip into the state of deep focus that is required to do great things.
+- Standardize before you optimize. You can't improve a habit that doesnt exist.
+
+Chapter 14
+- The inversion of the 3rd lawof behaviour change is make it difficult
+- the ultimate way to lock in future behavior is to autmate your habits
+- onetime choices - like buying a better mattress or enrolling in an automatic savings plan are single actions that automate your future habits and eliver increasing returns over time.
+- using technology to automate your habits is the most realiable and effective way to gurantee the right behavior.
+
+Chapter 15
+- Cardinal Rule of ehavior change: What is rewarded is repeated. What is punished is avoided.
+- Positive emotions cultivate habits. Negative emotions destroy them. 
+- Compared to the age of the brain modern society is brand new in the last one hundred years, we have seen the rise of the car, the airplane the television, the personal computer, the internet, the smartphone, and Beyonce. The world has changed much in recent years but human nature has changed little. Similar to other animals on the african svannah, our ancestors spent their days responding to grave threats securing the next meal and taking shelter from a storm. It madesense to place a high value on instant gratification. The distant future was less of a concern. 
+- With a fuller understanding of what causes our brain to repeat some behaviors and avoid others lets update the crdinal rule of behavior change. What is immediately rewarded is repeated. What is immediately punished is avoided.
+- Our preference for instant fratification reveals an important truth about succcess: because of how we are wired, most people will spend all day chasing hits of satisfaction. The road less traveled is the road face less competition and often get a bigger payoff. As the saying goes the last mile is always the least crowded. 
+- Thankfully it is possible to train ourself to delay gratification.  But you need to work with the grain of human nature, not against it. The best way to do this is to add a little bit of immediate pleasure to the habits that pay off in the long run and a little bit of immediate pain to ones that dont.
+- The 4th law of behavior change is make it satisfiyng
+- We are more liekly to repeat a behavior when the experience is satisfiyng.
+- The human brain evolved to prioritize immediate rewards over delayed rewards.
+- The cardinal rule of behavior change: what is immediately rewarded is repeated. What is immediately punished is avoided. 
+- To get a habit to stick you need to feel immediately successful-even if it is in a small way.
+
+Chapter 16
+- One of the most satisfiyng feelings is the feeling of making progress.
+- A habit tracker is a simple way to measure wheather you did a habit like marking an X on a calendar
+- Habit trackers and other visual forms of measurement can make your habits satisfiyng by providing clear evidence of your progress.
+- Dont break the chain. Try to keep your habit streak alive.
+- Never miss twice. If you miss one day, try to get back on track as quickly as possible.
+
+Chapter 17
+- To make bad habits unsatisfiyng your best option is to make them painful in the moment. Creating a habit contract is straightforwards way to do exactly that. 
+- The inversion of the 4rth law of ehavior change is make it unsatisfying
+- We are less liely to repeat a bad habit if it is painful or unsatisfiyng.
+- An accountability partner can create an immediate cost to inction. We care deeply about what others think of us, and we do not want others to have a lesser opinion of us. 
+- A habit contract can be used to add a social cost to any behavior. it makes the cost of violating your promises public and painful.
+- knowing that someone else is watching you can be powerful motivator.
+
+Chapter 18
+- the most proven scientific analysis of personality traits is know as the big five which breaks them downinto five spectrums of behaviors:
+  - 1 - openness to experience: from curious and inventive on one end to cautious and consistent on the other.
+  - 2 - Conscientiousness: orginzied and efficent to easygoing and spontaneous
+  - 3 - Extroversion: outgoing and energetic to solitary and reserved (you likely know them as extroverts vs introverts)
+  - 4 - Agreeblness: Friendsly and compassionate to challenging and detached.
+  - 5 - Neuroticsm: anxious and sensitive to confident, calm and stable
+- In the begining of a new activity there should be a period of exploration. In relationships its called dating, in college its called the liberal arts, in business its called split testing, the goal is try out many possibilities, research a broad range of ideas and cast a wide net. After this initial period of exploration shift your focus to the best solution you ve found but keep experimenting occasioanlly.
+- The secret to maximizing your odds of success is to choose the right field of competition
+- Pick the right habit and progress easy. Pick the wrong habbit and life is a struggle.
+- Genes cannot be easily changed, which means they provide a powerful advantage in faborable circumstances and serious disadvantage in unfacorable circumstances.
+- Habits are easier whent hey alighn with your natural abilities. Choose the habits that best suit you.
+- Play a game that favors your strengths. If you cant find a game that favors you, create one.
+- Genes do not eliminate the need for hard work. They clarify it they tell us what to work hard on
+
+Chapter 19
+- The greates threat to success is not failure but boredom. 
+- Jumping from one workout to the next, one diet to the next, one business idea to the next. As soon as we experience the slightest dip in motivation,, we begin seeking a new strategy - even if the old one was still working.
+- Variable rewards or not, no habit will stay interesting forever. At some point, everyone aces the same challenge on the journey of self improbvement: you have to fall in love with boredom.
+- The only way to become excelletnt is to be endlessly fascianted by doing the same thing over and over. You have to fall in love with boredom. 
+- The goldilocks rule states that humans expereine peak motivation when working ont asks that are right on the edge of their current abilities.
+- The greatest threat to success is not failure but boredom.
+- As habits become ruoutine, they become less interesting and less satisfiyng. We get bored.
+- Anyone can work hard when they feel motivated. Its the ability to keep going when work isnt exciting that makes the difference. 
+- professionals stick to the schedule; amateurs let life fet in the way.
+
+Chapter 20
+- However the benefits of habits come at a cost. At first each repetition develops fluencey, speed and skill. But then as a habit becomes automatic, you become less sensitiev to feedback. You fall into mindless repetition. It becomes easier to let mistakes slide. When you can do it good enough on autopilot, you stop thinking about how to do it better. 
+- "I'm an athlete" becomes "im the type of person who is mentally tough and loves a physical challenge'
+- 'im a great soldier' becomes 'im the type of person who is disciplined, reliable, and great on a team'
+- 'im the ceo' translates to 'im the type of person who builds and creates things'
+- The upside of habits is that we can do things without thinking, the downside is that we stop payin attention to little errors.
+- Habits + delibirate practice = mastery
+- Reflection and review is process that allow you to remain conscious of your performance over time.
+- the tigher we cling to an identity the harder it becomes to grow beyond it.
+
+Conclusion
+- Eforrtless behaviors:
+   - obvious, attractive, easy, satisfying
+- Difficult behaviors
+   - invisible, unattractive, hard, unsatisfiyng
+- this is a continous process. There is no finish line. There is no permanent solution. Wherever you are looking to improve you can rotate through the four laws of behavior change until you find the next bottleneck. make it obvious, make it attractive, make it easy, make it satisfying. 
+- The secret to getting results that last is to never stop making improvements. it is remarkable what you can build if you just dont stop. Its remarkable the busines you can build if you dont stop working it is remarkable the body you can build if you dont stop training it is remarkable the knowledge you ca  build if you dont sotp learning. it is rmarkble the fortune you can build if you dont stop saving. IT is remarable the friendships you can build if you dont stop caring. Small habits dont add up. They compound.
+  
