@@ -8,6 +8,8 @@ Erkeklik hakkinda:
 - Eve hediye ile gelmeli, bahane ile degil.
 - Erkek kirilmali ama asla kusmemeli.
 - Bakimli olmali, beslenbeyin ogluna benzemeli.
+- Guzel seven erkek, kadini guzellestirir.
+- Guzel seven kadin, erkegi guclendirir.
 
 Guc Hakkinda:
 - Vasat olmamali.
