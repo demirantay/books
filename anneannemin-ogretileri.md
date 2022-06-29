@@ -13,7 +13,7 @@ Guc Hakkinda:
 - Vasat olmamali.
 - Yerde aglamamali.
 - Yerde comelerek oturmamali.
-- durarsan dusersin
+- durursan dusersin
 
 Zor Zamanlar Hakkinda:
 - emeklemeden asla kosma (take it one time a day)
