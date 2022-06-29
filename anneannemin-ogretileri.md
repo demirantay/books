@@ -1,0 +1,21 @@
+# Anneannemin Ogretileri
+
+Calismak hakkinda:
+- Vasat olmamali, hep daha iyisini aramali.
+- Hergun okumali.
+
+Erkeklik hakkinda:
+- Eve hediye ile gelmeli, bahane ile degil.
+- Erkek kirilmali ama asla kusmemeli.
+- Bakimli olmali, beslenbeyin ogluna benzemeli.
+
+Guc Hakkinda:
+- Vasat olmamali.
+- Yerde aglamamali.
+- Yerde comelerek oturmamali.
+- durarsan dusersin
+
+Zor Zamanlar Hakkinda:
+- emeklemeden asla kosma (take it one time a day)
+- duygusuzca belirli bir zaman calismali (work without hope or despair)
+- en iyi ilac, ilerlemektir
