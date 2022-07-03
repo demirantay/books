@@ -22,3 +22,6 @@ Zor Zamanlar Hakkinda:
 - emeklemeden asla kosma (take it one time a day)
 - duygusuzca belirli bir zaman calismali (work without hope or despair)
 - en iyi ilac, ilerlemektir
+
+Eglence Hakkinda:
+- hafta sonunu kacmak icin kullanma, hayalini kurdugun hayat icin cabala.
