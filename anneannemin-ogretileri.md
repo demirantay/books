@@ -10,6 +10,7 @@ Erkeklik hakkinda:
 - Bakimli olmali, beslenbeyin ogluna benzemeli.
 - Guzel seven erkek, kadini guzellestirir.
 - Guzel seven kadin, erkegi guclendirir.
+- Ailene ne istediklerini sor, asla farz etme.
 
 Guc Hakkinda:
 - Vasat olmamali.
