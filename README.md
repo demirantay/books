@@ -4,10 +4,11 @@
 
 - [atomic habits](./atomic-habits.md)
 - [anneannemin ogretileri](./anneannemin-ogretileri.md)
-- [intelligence](./intelligence.md)
-- [masculinity](./masc-femin.md)
 
 ### Psychology
+
+- [intelligence](./intelligence.md)
+- [masculinity](./masc-femin.md)
 
 ### Science
 
