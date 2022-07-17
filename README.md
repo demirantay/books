@@ -14,6 +14,8 @@
 
 ### Philosophy
 
+- [Candide - Voltaire](./candide.md)
+
 ### Self Improvement/mind
 
 ### Uncategorized
