@@ -2,13 +2,13 @@
 
 ### Important
 
-- [atomic habits](./important/atomic-habits.md)
-- [anneannemin ogretileri](./important/anneannemin-ogretileri.md)
+- [Atomic habits](./important/atomic-habits.md)
+- [Anneannemin ogretileri](./important/anneannemin-ogretileri.md)
 
 ### Psychology
 
-- [intelligence](./psychology/intelligence.md)
-- [masculinity](./psychology/masc-femin.md)
+- [Intelligence](./psychology/intelligence.md)
+- [Masculinity](./psychology/masc-femin.md)
 
 ### Science
 
@@ -18,4 +18,6 @@
 
 ### Self Improvement/mind
 
-### Uncategorized
+### Literature
+
+- [Factotum - Charles Bukowski](./literature/factotum.md)
