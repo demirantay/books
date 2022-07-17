@@ -1,0 +1,6 @@
+# Kendime Dusunceler - Marcus Aurelius
+
+Kitap 1
+- Babamdan duyduklarimdan ve onunla ilgili hatiralarimdan, yigitligi ve mutevaziligi ogrendim.
+- Bana bakip buyutenden, ne yesilden ne maviden, ne Parmularius'tan ne de Scutarius;tan yana olmayi, caba sarf etmekten kacinmamayi, azla yetinmeyi, kendi isimi kendi basima gormeyi, her ise burnumu sokmamayi ve iftiraya kulak asmamayi ogrendim.
+- Rustericus'tan kisiligimin ihtiyac duydugu degisiklige ve davranislarimin terbiyesine olanak tanimayi; retorikten tat alma egiliminde olmamayi, kendime ait kucuk ahlak konusmalari yaparak salt varsayimlarimi yazmamayil sofulara ve hayirseverlere ozgu siskin bir karakter serfilemeyi, retorikten, siiren ve ince sozlerden uzak durmayi, evde cuppeyle dolasmamayi ve bu gibi seyleri yapmamayi; Rusticusun Sinuessadan anneme yazdigi mektuplar gibi sade bir dille mektup yazmayil gucendigim ya da gucendirdigim insanlara karsi, onlar yeniden barismak istediklerinde sakinlesmeyi ve onlari kolaylikta affetmeye hazir olmayi; cok dikkatli ve titizlikle okumayi, kendi yuzeysel dusuncelerimle tatmin olmayi, cok dikkatli ve titizlikle okumayi, kendi yuzeysel dusuncelerimle tatmin olmamayi ya da baskalarinindan goruslerini hemen kabul etmemeyi ogrendim.
