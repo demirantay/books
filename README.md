@@ -4,6 +4,8 @@
 
 - [Atomic habits](./important/atomic-habits.md)
 - [Anneannemin ogretileri](./important/anneannemin-ogretileri.md)
+- [Kendime Dusunceler - Marcus Aurelius](./important/kendime-dusunceler.md)
+- [Simyaci - Paulo Coelho](./important/paul-coelho.md)
 
 ### Psychology
 
