@@ -2,19 +2,19 @@
 
 ### Important
 
-- [atomic habits](./atomic-habits.md)
-- [anneannemin ogretileri](./anneannemin-ogretileri.md)
+- [atomic habits](./important/atomic-habits.md)
+- [anneannemin ogretileri](./important/anneannemin-ogretileri.md)
 
 ### Psychology
 
-- [intelligence](./intelligence.md)
-- [masculinity](./masc-femin.md)
+- [intelligence](./psychology/intelligence.md)
+- [masculinity](./psychology/masc-femin.md)
 
 ### Science
 
 ### Philosophy
 
-- [Candide - Voltaire](./candide.md)
+- [Candide - Voltaire](./philosophy/candide.md)
 
 ### Self Improvement/mind
 
