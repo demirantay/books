@@ -2,26 +2,27 @@
 
 ## Important
 
+- [Hamza Notes](./important/hamza-notes.md)
 - [Atomic habits](./important/atomic-habits.md)
 - [Anneannemin ogretileri](./important/anneannemin-ogretileri.md)
-- [Kendime Dusunceler - Marcus Aurelius](./important/kendime-dusunceler.md)
-- [Simyaci - Paulo Coelho](./important/paul-coelho.md)
-- [The Science of Well-Being](./important/the-science-of-well-being.md)
 
 ## Psychology
 
 - [Intelligence](./psychology/intelligence.md)
 - [Masculinity](./psychology/masc-femin.md)
 - [Cipolla-Aptalligin Yasasi](./psychology/cipolla-aptallik.md)
+- [The Science of Well-Being](./important/the-science-of-well-being.md)
 
 ## Science
 
 ## Philosophy
 
+- [Kendime Dusunceler - Marcus Aurelius](./important/kendime-dusunceler.md)
 - [Candide - Voltaire](./philosophy/candide.md)
 
 ## Self Improvement/mind
 
 ## Literature
 
+- [Simyaci - Paulo Coelho](./important/paul-coelho.md)
 - [Roll the Dice - Charles Bukowski](./literature/roll-the-dice.md)
