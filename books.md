@@ -16,6 +16,9 @@ Hamza Part
 - [ ] The Way Of The Superior Man | David Delda
 - [ ] Ego Is The Enemy (+ Stillness Is The Key & The Obstacle Is The Way) | Ryan Holiday
 - [ ] Complex PTSD: From Surviving To Thriving | Pete Walker
+- [ ] The way of the Wolf
+- [ ] The thank you economy
+- [ ] Quick Success
 - [ ] The Millionare Fastlane | M. J. DeMarco
 - [ ] The Subtle Art Of Not Giving a Fuck | Mark Manson
 - [ ] How to Win Friends & Influence People | Dale Camegie
