@@ -3,6 +3,7 @@
 ## Important
 
 - [Hamza Notes](./important/hamza-notes.md)
+- [Deep Work](./important/deep-work.md)
 - [Atomic habits](./important/atomic-habits.md)
 - [Anneannemin ogretileri](./important/anneannemin-ogretileri.md)
 
