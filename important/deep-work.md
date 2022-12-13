@@ -36,3 +36,35 @@
 
 - Purdikkat calismayla zor seyleri hizlica ogrenirsiniz
   (Birakin zihniniz, dikkatin tek bir hedefe yonelmis isinlari sayesinde bir mercege donussun; birakin ruhunuz, zihninizi butunnuyle ele geciren, merakinizi cezbeden fikre dort elle sarilsin. Ogrenmek yogun bir sekilde odaklanmayi gerektirir. 
+  
+- Bir dehayi baskalrindan ustun kilan sey, butun gucunu kendisini ispatlamaya karar verdigi konuya yoneltmis olmasidir. Peki maksatli calismanin gerektirdigi seyler nelerdir? Genellikle olmazsa olmaz kabul edilen iki unsuru var: (1) butun dikkatinizi gelistirmeye calisacaginiz belli bir beceri ya da derinlemesine kavramaya calistiginiz belli bir dusunce uzerinde yogunlastimaniz. (2) dikkatinizi en verimli oldugu noktada tutabilmek icin yaklasiminizdaki eksikleri gidermenizi saglayacak geribildirimler almaniz. Nitekim Ericsson'un da burguladigi gibi "ayni anda birden fazla seye yonelen dikkat, maksatli calismanin gerektirdigi odaklanmis dikkatin ziddi sayilabilir. Bu acidan maksatli calismanin iki unsurundan ilki bizi daha cok ilgilendiriyor. 
+
+- Baska bir deyisle bbir eylem olarak ogrenmenin diger adi purdikkat calismadir. 
+
+- Leroy'un yaptigi arastirmaya gore, bu calisma stratejisinin sorunlu yani su: A gorevinden B gorevine fecerken butun dikkatinizi bu yeni goreve aktarmis olmuyorsunuz; dikaktinizden bir parca tortu ilk gorev uzerinde dusunup durmaya devam ediyor, hele ki B gorevine gecmeden once A gorevi uzerinde pek yogunlasmadan calisip bir de isi yarida biraktiysaniz. Bu tortunun miktari artiyor. Hatta baska bir ise gecmeden A gorevini tamamlamis olsaniz dahi bir sure dikkatinizi iki gorev arasinda bolunmus vaziyette kaliyor. 
+
+- Calisirken dikaktin cesitli uyaranlarla dagilmasi, bu yonetici kesim icin kacinilmaz bir durumdur ve butunuyle onlarin mesleklerine ve pozisyonlarina ozgudur. 
+
+- Bu yuzden, bir konuda karar vermeden once e-posta toplanti ve saha ziyareti gibi kanallar aracgiligyla edindigi girdilerin tumunu goz onune almak zorundandir. Bir CEO'dan dort saat boyunca oturup tek bir mesele uzerine derin derin durunsmesini beklemek, onu degerli kilan seyi ziyan etmek demektir. Bunun yerine tek bir sorun uzeirne kafa yorup bulduklari cozumleri son karar mercii CEO'ya sunacak uc ayri uzmani ise almak cok daha akillicadir. 
+
+  Jack Dorsey ve beznerlerinin ele aldgimiz konu acisindan istisna teskil ettigini bilmek neden onemli? Su yuzden: Buyuk bir sirkette ust duzey yonetici olmaniz kosuluyla, kitabin bundan sonraki bolumlerinde yer alan tavsityeleri gormezden gelebilirsiniz. Fakat ayni istisna kousulundan cikaracagimiz vir baska sonuc daha var: Bu turkden yoneticilerin uyguladiklari yol ve yonetmler baska islere uyarlanamaz. Kapisini her isteyene acik tutan Dorsey'in tutum ve aliskalniklarini kopyalayarak basariya ulasacginizin garantisi yoktur: Bunlar, ust duzey yoneticilik gibi istisnai pozisyonlara ozgu davranislardir. 
+
+## Soyu Tukenen Bir Calisma Turu
+
+- Acik ofisler bireyler arasindaki isbirligi olanaklarini artiriyor olabilir, fakat buna karsilik "muazzam bir dikkat daginikligi"na da sebep oluyorlar.
+
+- Elinizdeki ise baslamak uzere oldugunuz sirada arka planda telefon calarsa butun konsantrasyonunuz dagilir. Siz o an bunun farkina varmazsaniz da beyniniz, dikkat celici uyaranlara tepki verir. Benzer sorunlar anlik mesajlasma icin de gecerlidir. E-posta kutunuzun dikkatinizi dagitabilmesi icin nihayetinde onu acmis olmaniz gerekir, ancak anlik mesajlasma sistemlerinin esbabimuicbesi her daim aktif olmalaridir ve bu da calismanin bolumnesinin etkisini katbekat artirir. 
+
+- Ozetlemek gerekirse, gunumuz is dunyasina yon veren egilimler, insanlarin purdikkat calisabilme becerisini her an koreltiyor. 
+
+- Calisma ortamlarini domine eden dikkat dagitici tutum ve aliskanliklar soz konusu oldugunda artik her yerde karsimiza cikan su daima ulasilabilir olma kulturunu listenin basina yazmak zorundayiz. Daima ulasilabilr olma kulturunun hayati daha kolay kilamasinin ikinci nedeni de butun bir gunu gelen kutusunda oyalanarak gecirmeyi makul hale getirmesidir. Geride henuz yanitlanmamais bir yigin varken son gelen e-postaya buyuk bir hevesle yanit verip kendini verimli hissetmek bu kulturun bas taclarindandir. 
+
+## Purdikkat Calisma Hayata Anlam Katar
+
+## Derinlesin
+
+## Can Sikintisindan Kacmayin
+
+## Sosyal Medyadan Cikin
+
+## Sig Sulara Dikkat Edin
