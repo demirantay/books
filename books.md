@@ -13,6 +13,10 @@
 Hamza Part
 - [ ] Deep Work | Cal Newport
 - [ ] The 4-Hour Work Week | Tim Ferriss
+- [ ] Dotcom secrets
+- [ ] Traffic secrets
+- [ ] Expert secrets
+- [ ] The Personal MBA
 - [ ] The Way Of The Superior Man | David Delda
 - [ ] Ego Is The Enemy (+ Stillness Is The Key & The Obstacle Is The Way) | Ryan Holiday
 - [ ] Complex PTSD: From Surviving To Thriving | Pete Walker
