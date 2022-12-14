@@ -59,6 +59,12 @@
 
 - Calisma ortamlarini domine eden dikkat dagitici tutum ve aliskanliklar soz konusu oldugunda artik her yerde karsimiza cikan su daima ulasilabilir olma kulturunu listenin basina yazmak zorundayiz. Daima ulasilabilr olma kulturunun hayati daha kolay kilamasinin ikinci nedeni de butun bir gunu gelen kutusunda oyalanarak gecirmeyi makul hale getirmesidir. Geride henuz yanitlanmamais bir yigin varken son gelen e-postaya buyuk bir hevesle yanit verip kendini verimli hissetmek bu kulturun bas taclarindandir. 
 
+- Baska bir ornek daha: projeler icin surekli ve duzenli araliklarla toplanti yapma aliskanligi. Bu bitevviye toplantilar gundelik is takviminde yariklar aca aca gunun sonunda artik kimse dikkatini toplayamaz hale gelene kadar uzar gider. Bu sonu gelmez toplantilar sisilesi pek cok instan iicn islerini organize etmenin basit (fakat koreltici) bir yolu haline gelir. Insanlar zamanlarini ve sorumluluklarini kendi baslarina yonetmeye calismaktansa o hafta yapilacak toplantidan medet umarlar. 
+
+- Richard Feynman - Eger omru vefa etseydi e-postalarina dogru duzgun bakmayan, acik ofise tasinmaya ya da tweet atmaya zorlandiginda baska bir universiteye gececek biri olurdu heralde. Insan neyin onemli oldugunu bililnce, neyin oemsiz oldugunu da gayet iyi biliyor. 
+
+- Pek cok zihin emekcisinin yasadigi sorunun kaynagi ayni sayilir. Verimli birer calisan olduklarini ve kazandiklari parayi hak ettiklerini kanitlamak istiyorlar. Ancak bunu nasil yapabileceklerine dair pek fikirleri yok. Sahip olduklari degerin kaniti olabilecek h-indeksi skorlari ya da tamir edilmis motosikletleri de yok.
+
 ## Purdikkat Calisma Hayata Anlam Katar
 
 ## Derinlesin
