@@ -65,9 +65,35 @@
 
 - Pek cok zihin emekcisinin yasadigi sorunun kaynagi ayni sayilir. Verimli birer calisan olduklarini ve kazandiklari parayi hak ettiklerini kanitlamak istiyorlar. Ancak bunu nasil yapabileceklerine dair pek fikirleri yok. Sahip olduklari degerin kaniti olabilecek h-indeksi skorlari ya da tamir edilmis motosikletleri de yok.
 
+- Bazi sirketler gercekten de bu sekilde davranmayi zorunlu kiliyor. Ornegin 2013 yilinda Yahoo'nun CEO'luk koltuguna gecen marissa mayer calisanlara evden calismayi yasakladi. Mayer, calisanlarin Yahoo sunucularina uzaktan baglanmak icin kullandiklari sirket ici sanal ag sunucu kayitlarini inceledikten sonra bu karari aldi zira eveden calisanlarin gun icinde sunucuya yeteri kadar giris yapmadiklarini gorup hayal kirikligina ugramisti. Boyle surekli epastalrini kontrol etmedikleri icin calisanlarini cezalandirmayi secti.
+
+  Ote yandan, meseleye objektif bir gozle bakildiginda bu yaklasimin miadini doldurdugu rahatlikla goruleiblir. Zihin emegine dayali isleri montaj hattiyla karistirmamak gerekir ve mesguliyet, bu sektorlerdeki deger uretme faaliyetine genellikle yaradan cok zarar verir. 
+  
+- "Teknolopol [alternatiflerini] yasadisi hale getirmez. Ahlak disi ilan etmez. Hatta populerliklerini azaltmaya dahi kalkismaz. Yalnizca onlari gorunmez kilar ve boylece konunun disinda birakir. 
+
+- Toparlamamiz gerekirse; nitelik, zanaatkarlik ve ustalik gibi teknoloji oncesine ait, insanligin kulturel tarihinde koklesmis geleneklere ve degelere dayanan purdikkat calisma yaklasimi teknopolun dayattigi internet-merkezci kulturun tam karsisinda yer alir. Purdikkat calismayi ender ve kiyetli kilan baslica ozelligi de suruden ayrilmayi, teknopolun disina cikmayi gerektirmesidir. 
+
 ## Purdikkat Calisma Hayata Anlam Katar
 
+- Hic suphe yok ki kendini dunyada el becerisi araciligyla, nesnel yoldan var etmenin sahladigi tatmin duygusu insana sakin huzurlu ve agirbasli bir karakter kazandirir. Fakat zihin emegine dayali isler soz konusu oldugunda bu iliski bulaniklasir. 
+
+- Herhangi bir zihin emekcisinin tam olarka ne yaptigini ve yaptigi isin digerlerinden ne farki oldugunu aciklamak her zaman mumkun olmayabilir. Bazen oyle gunler olur ki, gun boyu yaptigimiz butun isin epostalar ve power point sunumlari arasinda savrulmaktan ibaret oldugu hissine kapiliriz. Bir meslekten veya bir pozisyondan digerine degisen tek seyse, slatytlardaki grafiklerdir. 
+
+- "Hedeflerimi titizlikle sececektim" ve dikaktimi daima olumlu olana yoneltecektim. Kisacasi, odaklanmis bir hayat surecektim, cunku yasanabilecek en iyi hayat buydu. 
+
+- En degerli anlar, genellikle kisinin zor ve muhim bir isi basarmak icin harcadigi istemli caba esnasinda bedeninin veya zihninin sinirlarini zorlamsasindan dogar. Bu ziginsel durumu akis [flow] olarak adlandiririz" Csikszenthmihalyi 1990
+
+- Ne gariptir ki bir iste calisirken gecirilen vakit, bos vakitlere nazaran cok daha hizli ve kolay akar. Cunku tipki akis faaliyetleri gibi her is onceden belirlenmis hedeflere denetim kurallarina ve birtakim zorluklara sahiptir ve butun bunlar kisiyi isin icine dalmaya odaklanmaya ve kendini calismaya kaptirmaya sevk eder. Diger yandan bos zaman dedigimiz sey plansizdir ve keyifli hale getirilmesi daha cok caba gerektirir. 
+
+- Ampirik veirler de tahminlerin aksine bireylerin bir iste calisiken daha mutlu ve dinlenirken daha mutsuz olduklarini ortaya koydu. Anlasilan o ki insanlarin kendilerini en iyi hissettikleri an, mesakkatli bir ise kaptirip gittikleri andi. 
+
+- Daha mutlu ve daha tatminkar bir is hayatina giden en kestirme ve en garantili yol, purdikkat calismanin sagladigi akiis deneyiminden geciyor. 
+
+- Bedensel ya da zihinsel olmasindan bagimsiz olarak, yuksek beceriye alan acan her ugras, boylesi bir kutsiyet duygusuna kaynaklik edebilir. 
+
 ## Derinlesin
+
+- Bugun hepimizin karsi karsiya oldugu gerceklik ayni: kimseye odaklanma firsati tanimayan acik ofislerde gelen kutularina goekten bagli ve bitmek bilmeyen toplantilara esir alinmis halde calisan insanlardan nitelikli is yerine epostalara cauback yanit vermerlinin beklendigi gbir calisma kulturu. Bu bakimdan boyle bir kitabin hvesli ve kararli bir okuru olarak, kendinizi yuzeyselligin bas taci edildigi bir dunyada deirnligin pesine dusmus bir dervis olarak gorebilirsiniz. 
 
 ## Can Sikintisindan Kacmayin
 
