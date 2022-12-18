@@ -2,6 +2,17 @@
 
 ### Self Improvement
 
+
+> Funnel = Jefferey > Struggler > Bloomer > Discipline > Enjoyer
+
+5 pillars of self-improvement:
+- Finance (short, long, emergency)
+- Relationships (yourself, family, community)
+- Career/Mission
+- Education (formal, informal)
+- Health (physical, nutrition, mental, spiritual)
+
+
 ---
 
 - Delayed gratification over instant
