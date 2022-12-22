@@ -101,6 +101,7 @@
 - Delete dating apps → They are just for casual sex and it is like nightclubs. Instead, meet people in social circles or speak to them in person.
 - Mass DM’ing a girl's Instagram is stupid you just get the bottom of the barrel and you get a name for yourself. I will not date a woman who uses Instagram as a dating app also, it just means she will always have a dating app on her phone.
 - To meet more women just go outside more. It is that simple you do not need red pill degenerate ideas like going to the dog park.
+- If she is not going to be the mother of your children do not proimse her marrige, kids or meeting parents. Have a wholeshome short term love like in high school. Be honest about your intentions. 
 - Keep in mind the self-improvement relationship trap → Have a standard, don't let the ones that are coming in like Jessicas, masculine women, dating apps … etc. Remember if she is on self-improvement as well your progress improves not dips. Because they will never be into self-improvement as much as you do. You are gonna have to set some limitations.
 - Apart from beauty and sex what she offers you? Is she a loser? It is okay but will she change herself?
 - Dating apps, nightclubs, and bars are the worst places to find people. “Millet sevgilisini senle aldatti oyle ortamlarda amk”
