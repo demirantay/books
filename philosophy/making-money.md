@@ -1,6 +1,6 @@
 # 4 Ways to Make Money
 
-> Since the dawn of men, weather you are a male or female these are the only way to get rich.
+> Since the dawn of men, weather you are a male or female these are the only way to get rich or have a nice things (Even relationships).
 
 - 1 - Inheritence
 - 2 - Steal
