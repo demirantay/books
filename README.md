@@ -6,6 +6,7 @@
 - [Deep Work](./important/deep-work.md)
 - [Atomic habits](./important/atomic-habits.md)
 - [Anneannemin ogretileri](./important/anneannemin-ogretileri.md)
+- [Uzuntuyu Birak Yasamaya Bak](./important/uzuntuyu-birak.md)
 
 ## Psychology
 
