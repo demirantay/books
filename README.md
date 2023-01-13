@@ -7,6 +7,7 @@
 - [Atomic habits](./important/atomic-habits.md)
 - [Anneannemin ogretileri](./important/anneannemin-ogretileri.md)
 - [Uzuntuyu Birak Yasamaya Bak](./important/uzuntuyu-birak.md)
+- [Stutz Tools](./important/stutz-tools.md)
 
 ## Psychology
 
