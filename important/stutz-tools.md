@@ -11,14 +11,14 @@
 - 2 - Relationship with Others (taking initiative to connect with other people)
 - 3 - Relationship with Unconscious (write, read, travel, new experiences)
 
-## 🦹 Part X
+## 🦹 Part X (Chaos)
 
 > To be aware of the supervillain in your head.
 
 “Part X is the judgmental part of you. The voice of impossibility. An invisible force that wants to keep you from changing or growing.” “You can’t get rid of it. You can defeat it temporarily but it is going to keep coming back. If you could banish Part X, there would be no further progress.”
 
 
-## 😱 Aspects of Reality
+## 😱 Aspects of Reality (of Chaos)
 
 > To see opportunity in adversity.
 
@@ -34,7 +34,9 @@ There’s no getting away from the need for constant work.”
 
 “If you want to be happy, learn how to love the process of dealing with these three things. Because the highest creative expression for a human being is to create something new in the face of adversity. The worse the adversity, greater the opportunity.”
 
-## ⛓ String of Pearls
+## ⛓ String of Pearls 
+
+> Small Incremental Changes
 
 > To keep moving forward.
 
@@ -44,7 +46,7 @@ There’s no getting away from the need for constant work.”
 
 Each action forward (a pearl in the string) will have a turd in it (failure, unintended consequence, bad luck), every action has equal value.
 
-## 👤 The Shadow
+## 👤 The Shadow (The Monster)
 
 > To be enough for yourself.
 
