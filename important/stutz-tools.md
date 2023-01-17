@@ -7,9 +7,9 @@
 > To realign yourself when you feel lost.
 
 “Your life force is the only part of you that is capable of guiding you when you are lost.” “Your life force is the only part of you that is capable of guiding you when you are lost.” Pyramid Steps:
-- 1 - Relationship with Body (sleep, diet, exersice)
+- 1 - Relationship with Body (sleep, diet, exersice, meditation)
 - 2 - Relationship with Others (taking initiative to connect with other people)
-- 3 - Relationship with Unconscious (write, read, travel, new experiences)
+- 3 - Relationship with Unconscious (writing, read, travel, new experiences)
 
 ## 🦹 Part X (Chaos)
 
