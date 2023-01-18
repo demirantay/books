@@ -11,7 +11,7 @@
 - 2 - Relationship with Others (taking initiative to connect with other people, even if it is 1 call or meeting 1 person)
 - 3 - Relationship with Unconscious (writing, read, travel, new experiences)
 
-## 🦹 Part X (Chaos)
+## 🦹 Part X (Part of You touched by Chaos)
 
 > To be aware of the supervillain in your head.
 
@@ -19,7 +19,7 @@
 
 You can never defeat this, you can defeat it temporarily but it is always going to keep coming back. Because this part of your own-self is a evolutionary response to the chaos around you. We need part X, if we did banish it there would be no progess or growth or bravery. Good cannot exist without the bad. 
 
-## 😱 Aspects of Reality (Parts of Chaos)
+## 😱 Aspects of Reality (Chaos)
 
 > To see opportunity in adversity.
 
