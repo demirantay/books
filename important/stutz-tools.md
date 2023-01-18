@@ -67,6 +67,8 @@ You have to visualise your shadow to talk to it. Talk to your shadow, ask him ho
 
 You have to pay him attention for your entire life. 
 
+P.S. The Sick Shadow is unlike the other Shadow figures (Inferrior, Evil). We can bond to these Shadows with words as well as feelings. But the Sick Shadow doesn’t lend itself to words; it only connects energetically, through feelings. Sick shadow is sacraficial in a world with no light.
+
 ## 🖼 The Snapshot
 
 > To free yourself from the illusion of perfection.
