@@ -23,6 +23,7 @@
 - [Kendime Dusunceler - Marcus Aurelius](./important/kendime-dusunceler.md)
 - [Candide - Voltaire](./philosophy/candide.md)
 - [4 Ways for Making Money](./philosophy/making-money.md)
+- [Life](./philosophy/life.md)
 
 ## Self Improvement/mind
 
