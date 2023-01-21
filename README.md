@@ -26,6 +26,8 @@
 
 ## Self Improvement/mind
 
+- [Conceptual-Emprical Knowledge](./self/concept-empric.md)
+
 ## Literature
 
 - [Simyaci - Paulo Coelho](./important/paul-coelho.md)
