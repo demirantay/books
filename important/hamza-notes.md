@@ -195,6 +195,14 @@
     - 8 - when she gives you mixed feelings (you get anxiety instead of confidence and bliss) (this is very important - uncertainty is a very bad sign, please respect yourself)
     - 9 - she is on her phone distracted
     - 10 - friendzones you
-
-(some of them are iron rule some will be introduced later on in the relationship.)
+- About Rejection:
+    - it simply means you are not compatible move on to the next one. 
+    - Be humbled, dont move down your standards, have faith in self improvement until what you want chases you, as a man you biologically don't have the option to chase.
+- Understanding partners attachment style:
+    - Ask them about their relationship with their opposite gender parent (or same gender, if they're gay).
+    - If they say it's great, but can't give any specific details, they're avoidant.
+    - If they talk about how much of a struggle it is, and how they can't be understood and have to lie, anxious.
+    - If they say their same gender partner is their best friend and they talk about everything, also probably anxious.
+    - If they have cut off the relationship completely, it's a sign of severe avoidant trauma (but it could also be a step towards learned secure for an anxious/FA person).
+    - If they have a good relationship with regular communication (1+ times a week), but also aren't relying on their parents for everything, secure.
 
