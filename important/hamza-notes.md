@@ -183,5 +183,18 @@
     - 7 - Drinks and does drugs a lot (kova gibi)
     - 8 - Bad relationship with father
     - 9 - She is a loser
+- For realtionships and responsibility (have authority over the things you are responsible for, if you do not have the authority you cannot be responsible for it, be stoic)
+- 10 signs she is not into you (before or inside relationship):
+    - 1 - she doesn’t pay attention to you
+    - 2 - pulls away from physical contact
+    - 3 - doesn't try to get to know you (1-2 word texts)
+    - 4 - doesn't make much effort with you (not even coming to a coffee that is 20mins away) 
+    - 5 - doesn't hold eye contact (doenst include shy people)
+    - 6 - if she is taking hours to reply 
+    - 7 - she doesn’t wanna be alone with you (brings friends to dates)
+    - 8 - when she gives you mixed feelings (you get anxiety instead of confidence and bliss) (this is very important - uncertainty is a very bad sign, please respect yourself)
+    - 9 - she is on her phone distracted
+    - 10 - friendzones you
 
 (some of them are iron rule some will be introduced later on in the relationship.)
+
