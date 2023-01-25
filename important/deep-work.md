@@ -95,6 +95,10 @@
 
 - Bugun hepimizin karsi karsiya oldugu gerceklik ayni: kimseye odaklanma firsati tanimayan acik ofislerde gelen kutularina goekten bagli ve bitmek bilmeyen toplantilara esir alinmis halde calisan insanlardan nitelikli is yerine epostalara cauback yanit vermerlinin beklendigi gbir calisma kulturu. Bu bakimdan boyle bir kitabin hvesli ve kararli bir okuru olarak, kendinizi yuzeyselligin bas taci edildigi bir dunyada deirnligin pesine dusmus bir dervis olarak gorebilirsiniz. 
 
+- Purdikkat calisma aliskanligi kazanmanin puf noktasi iyi niyetin otesine gecmek ve calisma hayatiniza birtakim rutinler ve ritueller eklemektir. Yapmaniz gereken sey su: purdikkat calisma saatlerini takvime oturturken belli bir duzene bagli kalin ve her seanstan once konsantrasyonunuzu yogunlastirmanizi saglayacak ritueller gelistirin. 
+
+- Purdikkat calismayi is hayatinizin asli unsuru kilarken kendi yaklasiminizi insa etmeniz gerekir (bu kurala girizgah yaparken de belirttigimiz gibi, purdikkat calisma takviminizi gelisiguzel olusturmaya calisirsaniz, kisitli miktardaki iradenizi verimli bir sekilde kullanamazsiniz) fakat verdigim ornek de gosteriyor ki bu tercihte bulunurken hemen herkesin dikkate almasi gereken husus ayni: sectiginiz yaklasimin icinde bulundugunuz kosullarla bahdastigina emin olmalisiniz, zira kosullariniz ile yaklasiminiz arasindaki uyumsuzluk, purdikkat calisma aliskanligi daha yolun basinda berhava etmenize sebep olabilr. 
+
 ## Can Sikintisindan Kacmayin
 
 ## Sosyal Medyadan Cikin
