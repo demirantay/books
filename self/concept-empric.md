@@ -27,3 +27,11 @@
 > 80 - emprical - 20 conceptual 
 
 - 1 - ...
+
+## Reverse Engineering
+
+- 1 - Collect information (without judgment)
+- 2 - Create a model or sketch
+- 3 - Begin dissembly
+- 4 - Evaluate the product
+- 5 - Reassemble
