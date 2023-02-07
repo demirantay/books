@@ -28,6 +28,7 @@
 ## Self Improvement/mind
 
 - [Conceptual-Emprical Knowledge](./self/concept-empric.md)
+- [percentage-income](./self/percentage-income.md)
 
 ## Literature
 
