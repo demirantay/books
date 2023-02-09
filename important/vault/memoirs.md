@@ -2,7 +2,8 @@
 - Kufur, hemde cok fazla, agir bir sekilde
 - Sesi yirtilana kadar bagirma
 - Kardesligin bittigini soyleme
-- Vergi parasi icin hirsizlikla suclama
+- Vergi parasi icin hirsizlikla suclama, kurusuna kadar isteme.
+- Semiramisten para isteyeceksen bana soracaksin deme
 - Cagoglu "benim" diye sahir gibi mafyalik ve haydutluk
 - Fiziksel tehdit
 - "Benim icin Selimden hicbir farkin yok"
