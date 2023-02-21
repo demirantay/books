@@ -81,6 +81,35 @@
 - Quit social media → They are using “interminent reinforcment” it is the most addictive pscyological way to get a mammal to get addicted.
 - Instagram, they literally fucked the brain of your future wife because of the validation she gets from other people. Use whatsapp to fucking message. If they dont have your phone number that conversation is not important.
 
+Purpose:
+- How "purpose works"
+
+  IF we removed all stiumulations what are you gonna desire? It is always about a progress in some form of endavor, how purpose works? Noe one knows what our core purpose is. Around this core we have layers of purposes, we must try to peel it back to the next layer. The one you obsess over is your current layer. 
+  
+  Masculine energy is just about "progress" nothing more do not mistake purpose to masculinity. If you do not know your layer of purpose, remove stimulation and distraction not even journal. Maybe just a pen and pencil just stare at the fucking wall.
+  
+  Once you find your purpose, throw yourself at it fully. It will never be a direct plan it will just be a like a small mental movie. or a small motivational visualization. Align 100% of your life to your purposes. The decisions, the people you talk to. Its 100% make that stick to your fucking brain. If you are gonna do something. Do it fukcing right. This is where some sacrifices has to be made. 
+  
+  We have this perception that the man who settles down and has a stable life is good. What if this is medias making?Dont get me wrong having a wife and family is beaitfiul but change and progress is not about removing your family. Wanting a purpose is not mid life crisis.
+  
+  Fetting to a point in business and doing that for 40 years is not just natural to your manhood. It is nothing more than a snapshot fantasy. Always be in tune with Part X because it is about your evolution.
+  
+  As men when we achieve the goal and complete it we don't care for it. You have to understand you just care about the progress. Just the progress to the next layer. Not achieving it. You have to udnerstand every step you take while progressing to your goal you feel like a man. The moment you stop and complete it, men feel weak.
+  
+  Thats why man who work until 70 when they retire they just die. We are not supposed to be made for comfort and stop. We are made for discomfort.
+  
+  Getting a car, getting the mansion, getting the throphy wife, week-in bad, weekend good, retariment is good mentality.
+  
+  These are all lies
+  
+  Your life is not made to sit around at the beach drinking tequilas.
+  
+  Complete your layer without harming others by destorying it. While moving from layer to layer dont har and cut off the ties with your previous layers. it will come back to bite you in the ass. Leave rightly. Dont end a layer by hurting people. When you completed your layer, you have to maintain it. If it detoriates again, the layer will close again. You have to be able to maintain it by complete it.
+  
+  Find maintanece volume to keep what you have gained. You can do maintanance on a monthly basis on shallow monthly todos. Or some loops in a timely manner. Think like this: when you are 50 you just dedicate one day a month to all of your accomplishments. Body, nesrin vakfi, fighting like a spartan, educated like socrates has businesses that make millions, influecing political things ... etc.
+  
+  Being a man is about progress and responsibility. Dont break your responsoliblities while leaving on the next layers. Server people.
+
 ## Relationships
 
 ---
