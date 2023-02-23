@@ -1,5 +1,10 @@
 # Cipolla - Five Laws of Studitidy
 
+win (self) - win (other) -> Faydali
+win (self) - lose (other) -> Haydut (zeki-aptal) ikiye ayrilir
+lose (self) - win (other) -> Fedakar (zeki-aptal) ikiye ayrilir
+lose (self) - lose (other) -> Aptal
+
 aslında kitaplaştırılmış bir makale olan ekonomi tarihçisi carlo maria cipolla çalışması. üzerinde konuşmayı pek sevdiğim bir toplum yorumlamasıdır.
 
 özet haliyle aptallığın ve aptal insanların gezegendeki en zararlı şeyler olduğundan, aptallığı başka şeylerle karıştırmanın ne kadar kolay olduğundan ve toplumun aptallığın etkilerinin ne kadar yıkıcı olduğunu hafife aldığından bahseder.
