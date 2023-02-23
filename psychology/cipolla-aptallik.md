@@ -1,9 +1,9 @@
 # Cipolla - Five Laws of Studitidy
 
-win (self) - win (other) -> Faydali
-win (self) - lose (other) -> Haydut (zeki-aptal) ikiye ayrilir
-lose (self) - win (other) -> Fedakar (zeki-aptal) ikiye ayrilir
-lose (self) - lose (other) -> Aptal
+- win (self) - win (other) -> Faydali
+- win (self) - lose (other) -> Haydut (zeki-aptal) ikiye ayrilir
+- lose (self) - win (other) -> Fedakar (zeki-aptal) ikiye ayrilir
+- lose (self) - lose (other) -> Aptal
 
 aslında kitaplaştırılmış bir makale olan ekonomi tarihçisi carlo maria cipolla çalışması. üzerinde konuşmayı pek sevdiğim bir toplum yorumlamasıdır.
 
