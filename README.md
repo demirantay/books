@@ -17,6 +17,10 @@
 - [Cipolla-Aptalligin Yasasi](./psychology/cipolla-aptallik.md)
 - [The Science of Well-Being](./important/the-science-of-well-being.md)
 
+## Business
+
+- [DotCom Secrets](./business/dotcom.md)
+
 ## Science
 
 ## Philosophy
