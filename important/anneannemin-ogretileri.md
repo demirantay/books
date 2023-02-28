@@ -12,6 +12,10 @@ Erkeklik hakkinda:
 - Guzel seven kadin, erkegi guclendirir.
 - Ailene ne istediklerini sor, asla farz etme.
 
+Iliskiler Hakkinda:
+- Kimseyi degistiremezsin, dedenin ve semiramisin hatasini yapma.
+- Insan 7'sinde neyse 70'de de odur, bu degismez.
+
 Guc Hakkinda:
 - Vasat olmamali.
 - Yerde aglamamali.
