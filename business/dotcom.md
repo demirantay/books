@@ -7,7 +7,9 @@ Table of Contents
 - [Intro](#intro)
   - [What the wizards do not want you to know](#what-the-online-marketing-wizard-fraternity-doesnt-want-you-to-know) 
   - [Introduction](#introduction)
-- [Ladders
+- [Ladders and Funnels](#ladders-and-funnels)
+  - [The Secret Forumla](#the-secret-formula)
+  - [The Value Ladder](#the-value-ladder)
 
 ## Intro
 
@@ -42,7 +44,9 @@ exponentially increase your sales online. It is an evergreen guide. It will be a
 
 ## Ladders and Funnels
 
-- `THE SECRET FORMULA` -- The secret formula consists of four simple questions. These are the same four questions that I ask anyone who hires me for personal consultations
+### The Secret Formula
+
+- The secret formula consists of four simple questions. These are the same four questions that I ask anyone who hires me for personal consultations
 
   Question #1: Who Is Your Dream Client? The first question you have to ask yourself is, Who do I actually want to work with? Most of us start with a product idea, never thinking about who we want as clients, customers, vendors, and associates. But these are the people you will be interacting with day in and day out. You’ll probably spend more time with these people than your own friends and family. You choose your significant other carefully, so why wouldn’t you take the same time and care in deciding who your dream client or customer will be?
   
@@ -68,7 +72,9 @@ exponentially increase your sales online. It is an evergreen guide. It will be a
   - 3 - What bait will you use to attract them?
   - 4 - What result do you want to give them?
 
-- `THE VALUE LADDER` -- When I walked into the dentist office that morning, I had come in for a free teeth cleaning. And in less than an hour, I walked out paying over two thousand dollars for my whitening kit and my new retainers. This dentist had strategically taken me through a powerful process that I call a Value Ladder. First, he had created bait (free teeth cleaning) that would attract his dream client (me). Second, he provided value to me by cleaning my teeth and noticing that my teeth had become yellow. Because I had received value, I naturally wanted to move forward and get additional value from him. He then found another way that he could provide value to me—the retainers—and again, I naturally took him up on that offer as wel
+### The Value Ladder 
+
+- When I walked into the dentist office that morning, I had come in for a free teeth cleaning. And in less than an hour, I walked out paying over two thousand dollars for my whitening kit and my new retainers. This dentist had strategically taken me through a powerful process that I call a Value Ladder. First, he had created bait (free teeth cleaning) that would attract his dream client (me). Second, he provided value to me by cleaning my teeth and noticing that my teeth had become yellow. Because I had received value, I naturally wanted to move forward and get additional value from him. He then found another way that he could provide value to me—the retainers—and again, I naturally took him up on that offer as wel
   
   Now, ideally we would like to sell everyone our best thing, right? You want to serve your customers in the highest way possible. But the sad truth is that if I were to walk up to you on the street and say, “Give me a million dollars, and I’ll help you to grow your company,” you would either laugh in my face or run away, thinking I was insane, It’s because we just met, and so far, I haven’t provided you any value.
   
@@ -85,36 +91,64 @@ program. Imagine my shock and excitement the first time someone said yes! A perc
   
   They brought people into their funnel, but then the relationship ended. People wanted to give them money, but there was no clear path for them to follow. As soon as they added those things into their business, customers naturally started to ascend the ladder. if you want to succeed and beat out your competition, you need to have this Value Ladder in place. Again, unless you have a complete Value Ladder, it’s impossible to build out an effective sales funnel.
 
-- `FROM A LADDER TO A FUNNEL` --
+### From a Ladder to a Funnel
 
-- `HOW TO FIND YOUR DREAM CUSTOMERS` --
+- a
 
-- `THE THREE TYPES OF TRAFFIC` --
+### How To Find Your Dream Customers
+
+- a
+
+### The Three Types Of Traffic
+
+- a
 
 ## Your Comminucation Funnel
 
-- `THE ATTRACTIVE CHARACTER` --
+### The Attractive Character
 
-- `THE SOAP OPERA SEQUENCE` --
+- a
 
-- `DAILY SEINFELD SEQUENCE` --
+### The Soap Opera Sequence
+
+- a
+
+### Daily Seinfeld Sequence
+
+- a
 
 ## Funnelogy - leading your customers
 
-- `REVERSE ENGINEERING A SUCCESSFUL FUNNEL` --
+### Reverse Engineering A Successful Funnel
 
-- `SEVEN PHASES OF A FUNNEL` --
+- a
 
-- `THE TWENTY-THREE BUILDING BLOCKS OF A FUNNEL` --
+### Seven Phases Of A Funnel
 
-- `FRONTEND VS. BACKEND FUNNELS` --
+- a
 
-- `THE BEST BAIT` --
+### The Twenty Three Building Blocks Of A Funnel
+
+- a
+
+### Frontend VS Backend Funnels
+
+- a
+
+### The Best Bait
+
+- a
 
 ## Funnels and Scripts
 
-- `FRONTEND FUNNELS` --
+### Frontend Funnels
 
-- `FUNNELS FOR THE MIDDLE OF THE VALUE LADDER` --
+- a
 
-- `BACKEND FUNNEL` --
+### Funnels For The Middle Of The Value Ladder
+
+- a
+
+### Backend Funnel
+
+- a
