@@ -10,6 +10,23 @@ Table of Contents
 - [Ladders and Funnels](#ladders-and-funnels)
   - [The Secret Forumla](#the-secret-formula)
   - [The Value Ladder](#the-value-ladder)
+  - [From a Ladder to a Funnel](#from-a-ladder-to-a-funnel)
+  - [How To Find Your Dream Customers](#how-to-find-your-dream-customers)
+  - [The Three Types Of Traffic](#the-three-types-of-traffic)
+- [Your Comminucation Funnel](#your-comminucation-funnel)
+  - [The Attractive Character](#the-attractive-character)
+  - [The Soap Opera Sequence](#the-soap-opera-sequence)
+  - [Daily Seinfeld Sequence](#daily-seinfeld-sequence)
+- [Funnelogy Leading Your Customers](#funnelogy-leading-your-customers)
+  - [Reverse Engineering A Successful Funnel](#reverse-engineering-a-successful-funnel)
+  - [Seven Phases Of A Funnel](#seven-phases-of-a-funnel)
+  - [The Twenty Three Building Blocks Of A Funnel](#the-twenty-three-building-blocks-of-a-funnel)
+  - [Frontend VS Backend Funnels](#frontend-vs-backend-funnels)
+  - [The Best Bait](#the-best-bait)
+- [Funnels and Scripts](#funnels-and-scripts)
+  - [Frontend Funnels](#frontend-funnels)
+  - [Funnels For The Middle Of The Value Ladder](#funnels-for-the-middle-of-the-value-ladder)
+  - [Backend Funnel](#backend-funnel)
 
 ## Intro
 
@@ -93,11 +110,41 @@ program. Imagine my shock and excitement the first time someone said yes! A perc
 
 ### From a Ladder to a Funnel
 
-- a
+- Now it’s time to bridge the gap between a Value Ladder and a sales funnel.  But first, I need you to understand what a sales funnel is and how that relates to everything we’ve discussed so far.
+
+  It’s almost impossible to build a company just offering your high-end services. You need a full range of offers. So instead of trying to convince someone to buy the most expensive offering right away, we build a funnel that will help us to do two things:
+  - 1 - Provide value to each customer at the unique level of service that he or she can afford.
+  - 2 - Make money and be profitable while identifying our dream clients who can afford our highest offer.
+
+  Such as: Traffic > Bait > Frontend > Middle > Backend > $
+  
+  Above the funnel is a cloud that represents all of my potential customers. At the top of my funnel is the “bait” that will attract my dream customers. Notice that this bait is also the first rung of the Value Ladder. As I start to place ads featuring my bait, potential customers will start raising their hands, and a certain percentage of those people will purchase my frontend offer. Every product we sell has its own sales funnel to provide value and convert the buyer into a higher-end customer.
 
 ### How To Find Your Dream Customers
 
-- a
+- Usually my clients can figure out pretty quickly who they want to sell to, but they get stuck figuring out where those dream clients are and how to get them to visit their websites. The process of getting people to come to your website is called “driving traffic.” So when I talk about “traffic” throughout this book, I’m talking about the people you are convincing (through an ad) to come to your website.
+
+  One of the coolest things about the Internet is the power of congregations. These seemingly unimportant groups of people gathering together in little corners of the Internet make it possible for people like you and me to get into business quickly and be successful without all the barriers and expensive hurdles of traditional media.
+  
+   Now, if I have a product to sell to a congregation of people who love Magic: The Gathering, it’s easy and economical to go online, find where they are, and get my message in front of them. are three questions you have to ask yourself to find and really tap into these congregations
+   
+   QUESTION #1: WHO IS YOUR TARGET MARKET? 
+   
+   In the old days, the best you could do was group people in general terms, according to age, gender, income, and geographical location. The Internet has changed all that. Today you can get as granular as you want to with the data available. You can segment people based on musical taste, medical background, and shoe size. If you like, you can even group according to the movies they watched last month or the websites they visited yesterday. Because marketers are now able to target so many different characteristics so accurately, people have lost all patience for generalized, mass media messages.
+   
+   There’s just too much information bombarding us at all hours of the day and night. As modern humans, we are subconsciously forced to screen out anything that doesn’t directly apply to us. To create hyper-targeted messages, you have to know your target market inside and out. Successful businesses get inside of the customer’s mind and find out what the individual really cares about. What are their pains and passions? What do they desire? What do they think about, and what do they search for online?  I suggest digging into your own experience to create as detailed a picture as possible for the product you are selling.
+   
+   QUESTION #2: WHERE IS YOUR TARGET MARKET CONGREGATING?
+   
+   Remember your target market is made up of real people, so you need to look at their real behavior. Where do they hang out online? Where do they spend their time? What email newsletters might they subscribe to? What blogs do they read? What Facebook groups are they a part of? Are they even on Facebook—or do they prefer Instagram? What keywords are they searching for on Google? What books are they buying on Amazon? Answering these questions can take some time and research, but it’s worth taking as much time as you need to develop a clear picture of where your ideal clients are directing their attention.
+   
+   QUESTION #3: HOW CAN YOU GET A CUSTOMER TO LEAVE THE CONGREGATION AND CHECK OUT YOUR PAGE?
+   
+   At this point, you have to figure out what offering is special enough to entice a wrestling fan away from his favorite site. How can you divert attention away from what your prospect is currently doing? I call this process the Enquirer Interrupt.
+   
+- As the entrepreneur for my companies, one of my primary jobs is to identify where the veins of gold are located. This task is not for the person buying the ads, optimizing the ads, or picking the keywords, etc. That’s like expecting a building contractor to know how to pour the foundation, frame the house, put up the sheet rock, and run the electricity. A contractor does not need to know how to do all of those things to build a house
+
+  our job as the entrepreneur is to understand the strategy behind these DotComSecrets and then hire the Facebook guy to run Facebook ads and the Google guy to run Google ads. To this day, I’ve never once run a Google or a Facebook ad, yet I’ve made millions on both platforms. I understand the strategy, and then I set up systems and hire people who are great at the tactics. In this way, we all do what we are best at.
 
 ### The Three Types Of Traffic
 
@@ -117,7 +164,7 @@ program. Imagine my shock and excitement the first time someone said yes! A perc
 
 - a
 
-## Funnelogy - leading your customers
+## Funnelogy Leading Your Customers
 
 ### Reverse Engineering A Successful Funnel
 
