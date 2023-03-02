@@ -148,14 +148,93 @@ program. Imagine my shock and excitement the first time someone said yes! A perc
 
 ### The Three Types Of Traffic
 
-- a
+- Acrucial DotComSecret you must understand to experience exponential growth is this: There are only three types of traffic
+  - 1 - Traffic you control
+  - 2 - Traffic you don’t control
+  - 3 - Traffic you OWN
+  
+  Once you understand how each type of traffic works and how they tie together, you will have the ability to direct the right traffic to the right offers, and convert the highest number possible into buyers and repeat clients. Your one and ONLY goal is to OWN all the traffic you can.
+  
+- TRAFFIC YOU OWN -- Traffic you own is the BEST kind of traffic. It’s your email list or your followers, readers, customers, etc. I call this the traffic that I “own” because I can send out an email, post a message to my followers, or make a blog post, and I will generate instant traffic. I don’t have to buy it from Google or Facebook. I don’t have to do any PR or SEO. This is my own distribution channel; I can send out messages anytime I want, with no new marketing costs
+
+  The first month, I was able to get about two hundred people to join my list, and I made just a little over two hundred dollars that month. When I had increased my list to about one thousand people, I started to average about one thousand dollars per month.
+  
+  Yes, we average about one dollar per month for each name on our email lists. In some of the markets we’re in, the profit is actually a lot higher than that.
+  
+- TRAFFIC YOU CONTROL -- The next type of traffic is traffic you control. You control traffic when you have the ability to tell it where to go. For example, if I purchase an ad on Google, I don’t own that traffic (Google does), but I can control it by buying an ad and then sending those who click on that ad anywhere I want. Any kind of paid traffic is traffic you control, including the following:
+  - Email ads (solo ads, banners, links, mentions)
+  - Pay-per-click ads (Facebook, Google, Yahoo, etc.)
+  - Banner ads
+  - Native ads
+  - Affiliates and joint ventures
+  
+  So my goal is always to send any traffic that I am going to purchase over to a type of website we call a “squeeze page.” This squeeze page is a very simple page with ONE goal: to convert traffic that you control into traffic that you own
+  
+- TRAFFIC YOU DON’T CONTROL -- This last type of traffic just shows up, and I don’t have any control over where it came from or where it goes. For example, if someone mentions my book on Facebook, their followers may search my name in Google, and they may land on some random page in my blog. I didn’t have control over any part of that sequence of events. There are lots of types of traffic that I don’t control, including:
+  - Social media (Facebook, Twitter, Instagram, Google+, LinkedIn, Pinterest, etc.)
+  - Search traffic (search engine optimization or SEO)
+  - Guest blog traffic
+  - YouTube
+  - Guest interviews
+  
+  Now, just like traffic that I control, my ONLY goal with traffic that I don’t control is also to turn it into traffic that I own. To do this, I try to push all traffic that I don’t control. back to my blog. If you visit any of my blogs, you’ll notice that the top third of my blog is nothing but a glorified squeeze page. When people go there, the only real thing they can do is give me their email addresses. After they do that, they become traffic that I own, and I can put them into my communication funnels.
 
 ## Your Comminucation Funnel
 
 ### The Attractive Character
 
-- a
+- People who started my DotComSecrets course used to express this same thought all the time. Business owners often get behind the idea that they should be averaging a dollar per month for every person on their list. So, they focus on growing their lists, yet feel stuck and frustrated when they don’t see results.
 
+  In my experience, the missing link is this concept of the Attractive Character (AC). It’s about the persona you’re sharing with your audience and how you communicate with your list. Most people either don’t bother to create this character, or they don’t do it correctly. So, I want to explain the process to you now. It’s one of the most important steps you can take when it comes to making sales. Once you intentionally create your AC, your business will change forever.
+  
+  An Attractive Character allows you to build a platform anywhere you want, whether on email, Facebook, or YouTube. Think about any business—online or offline. Most successful ones have an Attractive Character front and center.
+  
+  This is why sequels and franchises work so well, generation after generation. If you loved Harrison Ford as Han Solo in 1977, you probably paid to see all the Star Wars sequels and Raiders of the Lost Ark, too. And guess what? Nearly forty years later, guess who’s showing up again to bring you a little more Han Solo? It’s amazing to think that one mediocre movie created over a generation ago can still pack the theaters and sell tickets by the millions. That’s the power of Attractive Characters. We love them. We want to be like them. We relate to their stories. And we buy what they’re selling!
+  
+  This is one of the big secrets behind the most successful online businesses in the most competitive markets, like weight-loss, dating, financial investing, supplements, and ecommerce.
+  
+  The students who implemented what I’m about to teach you here totally transformed their businesses. All of the major success stories from any of our coaching programs got results by building huge brands and platforms around an Attractive Character.
+  
+  This concept can mean the difference between making one thousand dollars a month and making one hundred thousand a month. There are three components to creating an Attractive Character:
+  - Elements
+  - Identity
+  - Storylines
+  
+- THE FOUR ELEMENTS OF THE ATTRACTIVE CHARACTER -- 
+
+  1. Backstory. Every good Attractive Character has to have a backstory. It’s essential if you want results. If you turned on the TV and saw Jared sitting there eating a sub, what would your reaction be? You’d probably think something like, Who’s that annoying skinny guy just sitting there eating subs all day? Without knowing his backstory of amazing weight loss, you would be unable to relate to him. He’d just be a dude eating subs. But if you see Jared’s backstory—pictures of him at 425 pounds and 190 pounds— and then see him eating subs, it’s a whole different story.
+  
+  The key is that the story has to relate to the product you’re selling somehow. If you’re selling a weight-loss product, you want to talk about a weight-loss backstory. If you’re selling investing advice, you want a financial backstory. 
+  
+  2. Attractive Characters Speak in Parables. Parables are little stories, easy to remember, that illustrate a relevant point. For example, when I taught my Expert Secrets course, I needed a way to show people that they can make money with any of their talents or skills. So I shared the story, or parable, about the first product I created: a DVD about how to make potato guns. Now, there is a lot to that story that I won’t cover here in this book, but it illustrates the fact that you can create and make money selling your experience or expertise in almost anything. A parable is a story about something that happened in your Attractive Character’s life.
+  
+  3. Attractive Characters Share Their Character Flaws. This next element is one that most people really struggle with sharing, but it’s one of the most important ones to share because it makes you relatable and real. No one wants to hear about the perfect person—because you can’t relate. Yet most of us try to put on a perfect facade for our audiences, thereby alienating the real men and women we are trying to reach. Conversely, as soon as the audience knows you’re not perfect, that you have character flaws, then they will start to empathize with you. They’ll like you more because you are like them: not perfect.
+  
+  4. Attractive Characters Harness the Power of Polarity. Another challenge people face when communicating with an audience is trying not to offend anyone. So, instead of being a relatable person, speakers become bland and stay neutral on many topics, only sharing safe things everyone will love. Here’s the problem. While that sounds like the logical thing to do— appeasing everyone—the problem is that being neutral is boring. When an Attractive Character tries to win the votes of everyone, they end up reaching no one. Instead, Attractive Characters are typically very polarizing.
+  
+- IDENTITY OF AN ATTRACTIVE CHARACTER -- Your Attractive Character will typically take on one of the following types of identities. You get to pick which one you want to be,
+
+  The Leader: The identity of the leader is usually assumed by people whose goal is to lead their audiences from one place to another. Most leaders have a similar backstory to that of their audiences and, therefore, know the hurdles and pitfalls the audience members will likely face on the journey to get ultimate results.
+  
+  The Adventurer or Crusader: The adventurer is usually someone who is very curious, but he doesn’t always have all of the answers. So he sets out on a journey to discover the ultimate truth. He brings back treasures from his journey and shares them with his audience. This identity is very similar to the leader, but instead of leading his audience on a journey to find the result, he is more likely to bring back the answers to give them.
+  
+  The Reporter or Evangelist: This identity is often one that people use when they have not yet blazed a trail to share with an audience, but have a desire to. So they put on the hat of the reporter or evangelist and go out to discover the truth. Typically, people who use this identity interview dozens, hundreds, or even thousands of people and share those interviews, and all they’ve learned along the way, with their audience.
+  
+  This is the identity I used when I got started. I didn’t know a lot about marketing online myself, so I started interviewing people. I became a reporter, just like Larry King or Oprah. Because I started interviewing all these cool people and sharing their stories and lessons, I started building an audience of my own. Becoming a reporter is a great way to start a business in a niche you don’t know much about.
+  
+  The Reluctant Hero: This is my personal identity now, and typically the one that I try to share with my audiences. This is the humble hero who doesn’t really want the spotlight or any fuss made over his discoveries. But he knows the information or the secrets he has are so important that he must overcome his shyness and share them with the world. There’s a moral duty that compels him to share all he knows. Many of you may feel this way naturally. The spotlight is uncomfortable, but you know you need to be there. If that’s you, the reluctant hero is the perfect identity for you. Play the part.
+
+- ATTRACTIVE CHARACTER STORYLINES -- Stories are a great way to communicate with your audience. And there are six basic storylines that businesses use over and over again in emails, sales letters, landing pages, and other communications. We use them because they work
+  - Loss and Redemption: “I had everything. I was on top of the world. Life was great. Then ___________ happened. I had to figure my way out of ________________. But it turned out to be a blessing in disguise because I went through __________, and I learned/received ___________. Now I ___________.”
+  - Us vs. Them: You want to use us vs. them stories to polarize your audience. Remember the power of polarity? Using these types of stories will draw your raving fans even closer and give them a rallying cry against the outsiders. I often call out the “talkers vs. the do-ers” on my list. I want people to make a choice about who they are, because if they’re with me, then they will be do-ers, continuing to ascend with me.
+  - Before and After: “First I was ______________. Now I’m ___________.”
+These are stories of transformation, and they work great in any market. For example, in the weight-loss market, you might say, “First I was fat. Then I tried Program X. Now I’m skinny.” Or, try this with the dating market: “First I was lonely and unattractive. Then I got Program Y. Now, I’ve got chicks all over me.”
+  - Amazing Discovery: “Oh my gosh, you guys ... wait til you hear about this amazing new thing I just discovered! You’re not going to believe it, but I hit it out of the park on my first try! I wasn’t sure it would work, but it’s amazing. You’ve got to try it!”
+  - Secret Telling: “I’ve got a secret ... if you want to find out what it is, you need to do ___________.” This is my favorite type of storyline. My whole company, DotComSecrets, is built around “secret” storylines. The lure of secrets draws the reader into your funnel and up your Value Ladder.
+  - Third-Person Testimonial: Sharing other people’s successes with your products and programs provides powerful social proof. Get as many third-person testimonials from your customers, clients, and students as you can. Then sprinkle them liberally throughout your stories. Or use them as stand-alone stories and case studies.
+  
+  creating your Attractive Character can mean the difference between making one thousand dollars a month and one hundred thousand.
+  
 ### The Soap Opera Sequence
 
 - a
