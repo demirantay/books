@@ -20,7 +20,7 @@
 ## Business
 
 - [DotCom Secrets](./business/dotcom.md)
-- [Video Essay - Minute Calculator](./business/video-essay-minute.md)
+- [Video Essay - Time Calculator](./business/video-essay-minute.md)
 
 ## Science
 
