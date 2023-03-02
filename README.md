@@ -20,6 +20,7 @@
 ## Business
 
 - [DotCom Secrets](./business/dotcom.md)
+- [Video Essay - Minute Conversion](./business/video-essay-minute.md)
 
 ## Science
 
