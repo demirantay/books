@@ -237,11 +237,47 @@ These are stories of transformation, and they work great in any market. For exam
   
 ### The Soap Opera Sequence
 
-- a
+- When somebody joins your list for the first time, it’s essential that you quickly build a bond between them and the Attractive Character. The way you introduce your character can mean the difference between a subscriber opening your emails consistently or hitting the delete key. 
+  
+  If your first email is boring, you’re done. They probably won’t open the next one. But if you give them something interesting and hook them with an open storyline in the first email, then they will look forward to the next one, and the next, and the next.
+  
+  I’m sure you’ve seen directors do this on soap operas or reality shows. The tactic pulls you from commercial break to commercial break, from episode to episode. You see it every day on TV; now it’s your turn to become a master at it with email. Let me walk you through the five-email Soap Opera Sequence that readers get when they join my lists. I’m going to be selling them in this series is called “Expert Secrets.”
+
+  - Email #1: Set the Stage. This is the first email, a thank you note, that people receive the minute they sign up for your list. It sets the stage for the emails to come and lets people know what to expect. Are you going to email them once a day, twice a day, or once a week? For this first sequence, I recommend once a day for the best results.
+  - Email #2: Open with High Drama. Okay, if you did a good job opening a loop in email number one, then the reader will be anxiously waiting for your next email to come in. For me, this is where the story “selling” process begins. I learned from Daegan Smith that you ALWAYS start any good story at the point of high drama Backstory. Once you have their attention with emotional drama, you’re going to go back and tell them the backstory. Tell them the events that led up to the high-drama moment. How in the world did you get yourself into such a predicament? Typically, your backstory is going to take you back to a similar spot the readers may be in now.
+  
+  This backstory will lead up to a spot where you got stuck and hit a wall. Usually this is where the readers are in their lives right now. They are stuck, and that is why they are open to your answers. You explain to them how you hit that wall and then found the answer. But don’t give them the answer yet. Just open the loop, and promise to close it in email number three.
+- Email #3: Epiphany. Now it’s time to start bringing in the dawn. You have an epiphany. You realize something you hadn’t thought of before. Maybe it’s something that was right in front of you the whole time. It’s the moment that everything turned around for you. By now the reader is so hooked in, they want to know (and hopefully buy) your solution. Most of the time, your epiphany email will lead back to your core offer— whatever you’re selling that solves the problem.
+- Email #4: Hidden Benefits. In this email, you want to point out benefits the reader is getting by knowing you and following your plan or by using your product. You want to focus on benefits that probably aren’t as obvious.
+- Email #5: Urgency and CTA. This is usually the last email in my Soap Opera Sequence. It’s NOT the last email I send people, it’s just the end of my introduction. The goal is to give the reader one last push to go take action right now. You do that by adding urgency into the equation and then using a call to action (CTA). Up to now, you’ve been casually using CTAs, but in this last email, you want to light a little fire under readers.
+
+  Whatever the reason, it needs to be real. Fake urgency will backfire on you, and you’ll lose all credibility. Just think of a reason why you might “run out” of whatever you’re selling. If it’s an evergreen product, then create a special sale that ends soon. Or give readers a coupon that expires in twenty-four hours. Be creative! There’s always some way to create real urgency.
+
 
 ### Daily Seinfeld Sequence
 
-- a
+- When I first started growing my list, I really struggled to send emails. What did I have to say that was important enough that people would want to open and read it? So I started focusing on writing great, content-packed emails that often took days to write. I thought that was the answer. But I later discovered that after someone had gone through my Soap Opera Sequence and bonded with the Attractive Character, content wasn’t what they responded to.
+
+  My emails switched from 100% content to 90% entertainment and just 10% content, and my readership, opens, clicks, and sales all skyrocketed with the change. You want your Attractive Character to be fun and entertaining.
+  
+  I know a LOT of people get VERY nervous about how often they email their lists. I used to feel that way, too. I used to email once a month, and my response rates were horrible. So then I started emailing twice a month. And guess what? I more than doubled my income.
+  
+  Then I decided to email once a week, then twice, then every other day, and what I’ve found now is that if I don’t email my list every day, I lose money every day. The secret to keeping your subscribers happy to hear from you every day is using the Seinfeld format. Be entertaining. Just talk about your day.
+  - What’s going on in your Attractive Character’s life?
+  - What happened that’s embarrassing?
+  - How are you getting through the holiday season?
+  - Where are you planning your vacation this year?
+  - What did you buy recently that you regret?
+  - What did you buy recently that you just adore?
+  - What made you scream with rage yesterday, that you’re laughing about today?
+  - What crazy antics did your kid or your dog get into yesterday?
+  - What funny thing happened in your past that teaches a lesson?
+  
+  These are emails about nothing. Just random episodes and entertaining stories. EXCEPT ... they have a purpose. The goal is to lead people back to whatever you’re selling. It might be your core offer or some other product or service. It might even be someone else’s product. That’s the secret. That’s how you make money.
+  
+  If you just send out entertaining emails and don’t tie in your products or services, you won’t make a dime. Not even if you’re the best storyteller in the world. EVERY EMAIL and each story must be tied back into some type of offer for your audience.
+  
+  Lastly, these emails do double duty when you put them on your blog. People often ask me what they should write about on their blogs, and I always tell them simply to copy and paste their daily Seinfeld email. It’s quick, easy, and consistent blog content that leads people to a sale.
 
 ## Funnelogy Leading Your Customers
 
