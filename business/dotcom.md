@@ -283,15 +283,120 @@ These are stories of transformation, and they work great in any market. For exam
 
 ### Reverse Engineering A Successful Funnel
 
-- a
+- Before I start to build out any new sales funnel, the first thing I want to do is find other people who already have a successful funnel and are selling to my target market. If I can’t find other businesses, then I won’t continue to move forward, Why work hard to generate traffic when it’s already out there waiting for you?
+
+  FIVE VARIABLES OF SUCCESSFUL CAMPAIGNS
+  
+  The first step to reverse engineering existing traffic streams is understanding the five elements that go into any successful online ad campaign. I never start creating a funnel, unless I know at least four of these five things. I never want two unknowns.
+  - Demographics
+  - Offer
+  - Landing page
+  - Traffic source
+  - Ad copy
+  
+  1. Demographics. The demographics are all the characteristics of the people you’re targeting. The demographics define who belongs in the target group and who doesn’t. We’re talking about distinguishing factors, like age, sex, education, geographical location, income level, race, language, and political affiliations—any and all characteristics you can think of that define those people you want to reach with your message. For example, our supplement company has an older demographic of men and women. Our coaching company’s main demographic is entrepreneurs making between one and three million dollars a year. When you know your demographics, you know who your target market is and where they are likely to be hanging out online. You know what sites they’re on and where they get together to talk to each other. 
+  
+  2. Offer. The offer comes down to what you are selling and at what price point you are selling it, including your upsells and downsells. When I want to find out what my successful competitors are offering, I buy their products. Remember, the first offer you see probably isn’t the primary offer. It’s more likely to be what gets people in the door, while the real moneymakers are down the line somewhere. The first offer is just the tip of the iceberg, and I need to see their ENTIRE iceberg during this research phase. When I’m researching competitors, I go in and purchase everything they offer me. And I keep careful notes. This is critical competitive research.
+  
+  3. Landing Page. This is the page a person lands on right after they click on an ad, and I believe it’s the most important page in your entire sales funnel. What does that page look like for your successful competitors? Is it an opt-in page? Is it a sales page? I’m not going to make up my own landing page and hope it works. I’m going to reverse engineer what’s already working and model that for my own page. I’m going to make something very similar to what’s already successful. You need to model what is working. Do NOT try to re-invent the wheel. That’s the secret. Start there, and then you can tweak your funnel, test it, and try to improve on that model after you’re already making money.
+  
+  4. Traffic Source. Where is your competitor’s traffic coming from? What are the specific websites that competitor buys ads on? Is the traffic coming from banner ads or social media or email? Does he use mainly video or text? Do not think that you need to “create” traffic. The traffic is already out there. All you have to do is find it, tap into it, and redirect it back to your offer.
+  
+  5. Ad Copy. This is the last element of a successful campaign. What do successful ads look like? What makes people click on the ad? What’s enticing them to even look at the competitor’s ad in the first place? What pictures are competitors using? What does the headline say? What does the body copy look like? Are the competitors using video? Remember, traffic is made up of real people. People can be persuaded to click, but it can take months or years of trial
+and error to discover how to make that happen. Don’t waste time trying to figure it out by blindly tweaking and adjusting your own advertising methods. Find what’s already working, and model it. Then once you’ve got a predictable, steady income, you can run split tests and try to improve on the ad yourself. One unknown is not good, but you can usually try to guess and get close enough. If there are two unknowns, I’m probably not going into that market. I want as much data as possible before I start building out my offers, landing pages, and ads.
+
+- HOW TO REVERSE ENGINEER A SUCCESSFUL CAMPAIGN
+
+  Step #1: Where Are Your Competitors (Both Direct AND Indirect)? Right now, your customers are where your competitors’ customers are You have two types of competitors: direct and indirect. A direct competitor is a person or company selling something very similar to yours. In the supplement business, anyone else selling the same type of supplements is my direct competitor. We are trying to sell basically the same thing to the same people.
+  
+  There are also indirect competitors. These are people or companies selling something different than you, but to the same demographic. When I started studying indirect competitors, it was a huge eye-opener for me. I remember one day I found this cool supplement company selling weight-loss products to an older demographic. They were an indirect competitor because we were selling different products (weight-loss supplements for them and nerve pain supplements for me) Competitive research is awesome because it can open up new opportunities you never knew about before. The first step is to make a list of your direct and indirect competitors and their landing page URLs. If you don’t know who your competitors are, then just go to Google and start typing in search phrases you would want people to type in if they were searching for you.
+  
+  Look for the paid ads (usually on the right hand side) and start clicking on those ads. This will give you a good idea of who your
+successful competitors are. Now that you have your competitors’ website URLs, let me show you how simple it is to find out exactly WHERE they are already advertising, WHAT ads they’re running, and WHERE they are sending their traffic.
+ 
+  Step #2: What Are They Doing? There are a few products on the market that will do what I’m about to show you. At the time of my writing this book, my favorite is called SimilarWeb.com. As I dig deeper, I can start to see the exact banner ads that are working, including the ad copy that is converting. Do you see how in less than five minutes I can learn EVERYTHING I need to know about a competitor’s campaign. grab the five variables we need to be successful: demographics, offer, landing-page, traffic source, ad copy
+  
+  The last step is actually to purchase my competitor’s product so that I can see the upsells and downsells. What email does this company send to customers? What else happens after the initial purchase? Armed with this information, you now have everything you need to start building out your own successful sales funnels in that niche.
+  
+  Isn’t it amazing? You can literally reverse engineer everything your competitor is doing in less than ten minutes.
 
 ### Seven Phases Of A Funnel
 
-- a
+- What’s the difference between a six-figure, seven-figure, and eight-figure business? I can tell you the main difference is not what you might think. It’s not the products you sell. It’s not the type of business you run—online or local brick and mortar. It’s not the traffic. It’s not a high-converting website. It’s not a product-launch method. These things are all important. They’re all elements of a successful business. But they are not the core difference that sets the levels apart
 
+  The real difference between having a six-, seven-, or even eight-figure business is whether you understand the phases of a funnel and can successfully monetize the different points along the line.
+  
+  Lots of people talk about the lifetime value of a customer, but that’s not what I’m talking about here. I’m talking about the path that you take your customers down. I’m zeroing in on the variables in each step that can be manipulated for maximum monetization—all while keeping a relationship so that the customer will continue to ascend your Value Ladder
+  
+- IT’SALL ABOUT THE PRE-FRAME
+
+  Before we talk about the seven phases of a funnel, you need to understand the concept of a pre-frame because each step in a funnel is a pre-frame for the next step. That is why it’s essential to optimize these steps—not only for monetization, but also to build relationships. He used me as an example: “Consider a person came from a website that said, ‘Russell Brunson is a scam artist. He stole my money. He’s unethical. He’s a liar, and I don’t trust him. Click here to see his new product.’ What do you think will happen when he clicks through to see the product?” The pre-frame was terrible. That visitor is probably not going to like me, and I will have a hard time getting them to buy anything.
+  
+  On the other hand, what if the person comes from a site that says, “Russell is an amazing person. I had a chance to meet him; we talked for an hour, and what he taught me changed my business and my life. My company was able to go from nothing to a million dollars of revenue a year. Click here to see his new product”? The chances of converting that potential customer on my site are much, much higher. I can sell more if the visitor enters my website through a good pre-frame.
+  
+  
+- HOW PRE-FRAMING WORKS
+  
+  Phase #1: Determine Traffic Temperature - The first phase to examine is the mindset of the traffic before it reaches your site—or, your traffic temperature. You may not ever think about it, but there are three levels of traffic that come to your website: hot, warm, and cold. Each group needs special treatment and
+individualized communication. Each needs to come across a different bridge to arrive at your landing page. Yes, that means you may even need three different landing pages, depending on how you’re driving traffic. Trust me, it’s worth taking the extra time to set this up correctly.
+  
+    If your prospect is aware of your product and has realized it can satisfy his desire, your headline starts with the product. If he is not aware of your product, but only of the desire itself, your headline starts with the desire. If he is not yet aware of what he really seeks, but is concerned with the general problem, your headline starts with the problem and crystallizes it into a specific need.
+    
+    Hot Traffic is made up of people who already know who you are. They’re on your email list, they subscribe to your podcast, they read your blog—you have an established relationship with them. You’re going to talk to these people like they’re your friends (because they are). You want to use personality-driven communication. Tell them stories, share your opinions, and let them into your private life a little bit.
+    
+    Warm Traffic consists of people who don’t know you, but they have a relationship with somebody you know. This is where joint venture (JV) partnerships work well. Affiliates or JV partners have relationships with their lists, and they endorse you or your offer to their subscribers.
+    
+    Cold Traffic is made up of people who have no idea who you are. They don’t know what you offer or whether they can trust you. These may be people you find on Facebook or who click on your pay-per-click ads. Maybe they stumble across your blog somehow.
+    
+  Phase #2: Set Up the Pre-Frame Bridge
+  
+  The second phase is your pre-frame bridge. This might be a pay-per-click ad or it might be an article in an email or a blog post. It might be a YouTube video. It’s a bridge that pre- frames people before they get to your landing page.
+  
+  A Hot Traffic Bridge is typically very short. You already have a relationship with these people, so you don’t have to do a lot of credibility building or pre-framing. You can probably just send out a quick email with a link to your landing page, and that’s about it. Or maybe you write a blog post or record a podcast encouraging people to go check out your offer.
+  
+  A Warm Traffic Bridge is a little longer than a hot traffic bridge, but not much. All that traffic needs is a little note of endorsement from a person they trust; then they’ll be in the right frame of mind to go to the landing page. This bridge could be an email, but it could also be a video, article, or some other communication from the list owner, endorsing you and your product.
+  
+  A Cold Traffic Bridge is the holy grail of online marketing. If you really want to scale your business, you have to learn how to convert cold traffic. This bridge is the longest. You need to do a good bit of preliminary work to get the prospect into a desirable frame of mind before he hits your landing page.
+  
+  For hot and warm traffic, the ad or email generally serves as the pre-frame. There’s no need for extra steps before those people understand your offer. They already know, like, and trust you. But for cold traffic, you often need a whole separate page that they go through (the bridge page) before they hit the offer page. As I just explained, this separate, pre-frame page educates people, enabling them to better appreciate the offer and making them more likely to convert.
+  
+  Another cool type of bridge page is a survey or a quiz. We can ask certain questions to get the mind’s wheels spinning in a particular direction. We plant seeds, and the visitors start wondering about a question we asked. Then they click over to the landing page where we reveal the answer or solution. It’s all about influencing what people are thinking about when they see your offer.
+  
+  Phase #3: Qualify Subscribers
+  
+  The whole goal here is to take all the traffic—hot, warm, and cold— and find out who is willing to give us an email address in exchange for more information. (This is known as subscribing to a list.) If people aren’t willing to give their email addresses at this point, they are highly unlikely to give me money later. Qualifying subscribers is done through an opt-in or squeeze page that offers something of value in return for contact information. This is typically the very frontend of your Value Ladder. For my companies, it’s usually a free report or a free video showing the visitor one thing they would really want to know.
+  
+  Phase #4: Qualify Buyers
+  
+  Immediately after you qualify your subscribers, you want to find out who among them is a buyer. How many of those three hundred people who were interested in getting free information are willing to pull out their credit cards and make a purchase? Notice I said you must find your potential buyers immediately after you qualify subscribers. Don’t wait a day or a week. Qualify buyers right away. If someone is willing to buy from you
+once, they’ll continue to buy from you as long as you keep offering value. So as soon as someone fills out their name and email address and clicks the submit button, they should land on a page that offers something to buy. Offer them something of value that will hook them. It’s typically a little higher up your Value Ladder, and this is where I’m usually selling my “bait,” which is something your dream clients will really love. It should be priced so low that it’s an absolute no-brainer for them to buy. You want to qualify every buyer on the list, so don’t put up any barriers. Once I’ve identified who the buyers are, then I can market to them differently. At this point, I have two lists: subscribers and buyers. Each list is unique and gets treated differently.
+
+  Phase #5: Identify Hyperactive Buyers
+  
+  After you’ve identified the buyers, you want to identify the hyperactive buyers. These are the people who are in some kind of pain right now and will buy more than one thing at a time. You want to identify these people as quickly as possible. Who’s in pain right now? And what are they willing to buy right now to alleviate that pain? You want to be able to offer them something—ideally several somethings. If you don’t, they’ll leave your site and go find another site to buy from. People love to buy. And when they’re in pain and want relief, they will spend money in that quest.
+  
+  Phase #6: Age and Ascend the Relationship
+  
+  At this point, the initial sales experience is pretty much over. Points one through five all
+happen in five or ten minutes, and the next two points explain what keeps those people you’ve identified coming back to buy from you again and again. These next steps are what keeps them referring you to friends. During this step, you want to age and ascend the relationship. Remember your Value Ladder? This is where that ladder of products and services really becomes important. If you’ve followed the five phases of the funnel up to here, you’ve already moved people through the first level or two (or three) on your Value Ladder. Now, you’re going to continue to provide value and help people with whatever you offer. Allow some time to pass. How much time is up to you; whatever feels logical for your product is best. Let them dig into whatever products they’ve already purchased, and give them enough time to see the value you give. You’re going to ascend them up the ladder over a longer period of time, eventually moving them to the very top level.
+
+  Phase #7: Change the Selling Environment
+  
+  Typically, it’s difficult to sell super-expensive products or services online. Not many people are going to read a sales letter and click the buy button for a fifteen thousand dollar product. Some might, but usually you have to change the selling environment if you want to sell high-ticket products. if I can get you to click a button and schedule an appointment to chat on the phone, suddenly I have a completely different sales environment. People on the phone are more likely to listen closely to an offer. The sales person has the benefit of live feedback. If you’re stuck in your business, it’s probably because there’s a glitch in one of these seven steps
+  
 ### The Twenty Three Building Blocks Of A Funnel
 
-- a
+- As I said, I think of sales and building funnels kind of like playing with Legos. This is the exact same process I teach my twenty-five-thousand-dollar clients. I go through each phase of the funnel and map out which building blocks will yield the best results. Then we test the funnels to see how well they convert. Sometimes we hit a winner right away, but often we need to move the blocks around a bit; for example, we might change some copy or add a video. Then we test the combination again. This is how direct response marketers have created magic for over a hundred years: Try it. Test it. Tweak it. And start all over again.
+
+  The twenty-three blocks I use most often are used at specific times during four specific phases in the funnel: the pre-frame bridge, qualifying subscribers, qualifying buyers, and identifying hyperactive buyers. Remember, these four points all happen at the point of sale.
+  
+- `PRE-FRAME BRIDGE` --
+
+- `QUALIFY SUBSCRIBERS` --
+
+- `QUALIFYING BUYERS` --
+
+- `IDENTIFY BUYERS IN HEAT` --
 
 ### Frontend VS Backend Funnels
 
