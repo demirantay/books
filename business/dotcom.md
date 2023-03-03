@@ -392,19 +392,101 @@ happen in five or ten minutes, and the next two points explain what keeps those 
   
 - `PRE-FRAME BRIDGE` --
 
-- `QUALIFY SUBSCRIBERS` --
+  Quizzes: A quiz is my new favorite pre-frame tool. If you’re on Facebook, it’s difficult to escape all the “What famous actor are you?” or “What jungle animal are you?” quizzes. They seem to get more and more ridiculous all the time. (This morning, I saw one that asked, “What type of storm are you?” Really.) The questions you ask don’t matter much; you just want to get people engaged in the process. If you require people to opt-in (give you an email address) to get their quiz results, you’ve killed two birds with one stone. The prospect has moved through both the pre-frame and the qualify subscribers phases in the funnel. Then you try to qualify him as a buyer by making an offer immediately after he opts-in. Another great reason to use quizzes is that you can segment your audience according to their answers. You might ask, “Do you have a dog or a cat?” Then you segment your list according to the responses.
+  
+  Articles: I love to use articles as a pre-frame for cold traffic coming from a banner ad. These can be articles on your website, but I find they’re more effective if they appear on someone else’s site. Someone clicks your banner ad and lands on a website with a pre-frame article. It might be a case study of how you helped an individual solve a problem. It might be an article about how your product works. Or it might not have anything to do with you specifically, but it sets up the problem and what is required to solve that problem. Then you add a call to action somewhere on the page. Now, don’t be unethical here. For a while, many Internet marketers used this technique successfully with fake news sites and fake blogs that they controlled. The FTC cracked down on that practice, and you really don’t want them on your case. Use legitimate articles on legitimate websites.
+  
+  News: Anything that’s news or is perceived as news commands more attention than other reading matter. Our brains are programmed to pay special attention to anything that might be a threat. This is why everything on the evening news is a “Special Alert” or “Disaster Update.” You can also design the web page to look like a news page. It might have a special bar with a headline on the bottom or a sidebar with a relevant side story. Marketers have found that just formatting their content to look like news can increase their credibility and pre-frame their offers nicely. Again, don’t go crazy with this strategy, or you’ll have the FTC on your case. Besides, it’s just bad for business. Be ethical. Tell the truth.
+  
+  Blogs: A blog post can be used to pre-frame most any topic. For example, maybe you work in a crowded industry with many competitors who all provide basically the same solution. You could write a blog post explaining how every other company is the same, while yours is different and better.
+  
+  Videos: YouTube videos make great pre-frame material, especially for testimonials. The video should agitate the problem for the viewer or educate them on some process or idea. The goal is to make them desire the solution you offer.
+  
+  Email: Pre-framing with email works well when you buy a solo ad or use JV partners to endorse you to their lists. No matter whose list you’re mailing to, you’re essentially borrowing their credibility to pre-frame you as a great person or to pre-frame your offer as a great solution.
+  
+  Presell Pages: Sometimes you have to educate people before you sell to them. A presell page tells a story. It’s a longer article used to give background information or education that prospects might need. Once they have this information, they are in the right frame of mind to understand and buy the offer. For example, maybe you sell email marketing software, but some of your prospects don’t know what email marketing is or why their businesses need it. You might send them to a presell page on your website that explains exactly how email marketing helps grow businesses. Then you add a call to action, which will take them to your product offer. 
 
-- `QUALIFYING BUYERS` --
+- `QUALIFY SUBSCRIBERS` -- The next phase is to qualify your subscribers. Remember the goal here is simply to get people to opt-in to your list, subscribe to your newsletter, or request a free offer you’ve put in front of them. You’re separating out the casual visitors from the people who are willing to trade their email addresses in return for more information.
+  
+  Pop-Ups: Remember years ago when those annoying little boxes popped up on your screen almost every time you visited a website? “Congratulations! You just won ... blah, blah, blah.” They may have been annoying, but they worked like crazy to get people to opt in to a list. Thanks to pop-up blockers and ad blockers, this method became almost obsolete for years, and marketers all but abandoned them. But recently new types of pop-ups have been created that aren’t as easily blocked The bigger problem is that some advertisers (like Google and Facebook) won’t approve ads that go to pages with pop-ups. So this method doesn’t work all the time.
+  
+  Squeeze Page: The squeeze page is the simplest way to qualify subscribers. It was developed as a way to increase subscribers without using pop-ups. It’s a simple opt-in page that requires people to give you their email addresses to get access to something on the next page (i.e., a free report or a free video). The only choices on the page are to subscribe or leave. The magic of a squeeze page is the complete lack of distractions.
+  
+  Squeeze Pop: The squeeze pop is a way to get people to join your list via a button on your blog or other web pages. When they click on that button, up pops a squeeze-page-style pop-up. If a visitor gives you their email address, they are taken to the next page. Squeeze pop buttons are great because you can place them in a ton of places, places where you traditionally wouldn’t be able to get opt-ins, like articles and blog posts.
+  
+  Free-Plus-Shipping, Two-Step Form: This type of web form takes advantage of buyer psychology and combines the “qualify subscribers” and “qualify buyers” steps into one sequence. Step one qualifies subscribers by asking for contact information (including email addresses). Step two qualifies buyers by asking for credit card information, usually to cover shipping costs. Anyone who fills out step one of this form is automatically added to an email list and is qualified as a subscriber—even if he doesn’t fill out step two.
+  
+  Webinar Registration: We often use free webinars as a way to generate leads. When people register for the webinar, they naturally need to give you their email addresses because you need to send them details about the webinar.
+  
+  Free Account: Signing people up for a free account works especially well with software and membership programs. Create a membership site, or a “lite” version of your software, and give it to people for free.
+  
+  Exit Pop: An exit pop is, not surprisingly, a last-chance pop-up after people click away from your site. It asks if they’re sure they really want to leave without subscribing. You may even make a special offer to people if they decide to subscribe before they close the exit pop. Once people leave your site, there’s a good chance they’ll never come back.
+
+- `QUALIFYING BUYERS` -- When we qualify buyers, remember that the goal is to get people to pull out their credit cards and actually pay for something. The first purchase is the hardest to get, so it’s best to offer something of value for a very low price.
+
+  Free-Plus-Shipping: This is my favorite way to qualify buyers, If you create a great product and give it away for free, it is the perfect bait and gets one of your products into the hands of a new customer. There is no better way than a free-plus-shipping offer to provide value up front and get the buyer interested in ascending. I feel like this tactic is the best way to find out which of your subscribers are also buyers.
+  
+  Trial: A very low-cost trial offer is a great way to get people to raise their hands and tell you that they’re buyers. The easiest and most popular trial is offered for one dollar. Then, you bill them a few days later for the full amount.
+  
+  Tripwire: Tripwires are smaller offers used to get buyers in the door. They are often a “splinter” of your core product. For example, you might pull out one module or one of the training sessions and offer it for a huge discount. Ryan Deiss and Perry Belcher made this technique popular. They usually use a very low-cost offer of around seven dollars per item. These can be physical products or digital downloads, depending on your market.
+  
+  Self-Liquidating Offers (SLO): These types of offers are usually a little more expensive—between thirty-seven and ninety-seven dollars. With a self- liquidating offer, on the other hand, the goal is to have the frontend product liquidate your ad costs so that your upsells can become pure profit.
+  
+  Straight Sale: This is just a regular sale of a high-ticket item, from ninety- seven to five thousand dollars or higher. It usually takes a little more selling to convert these offers, so we typically only introduce this option to people who are in our warm market or who have gone through our initial funnels. It usually takes a stronger bond with the Attractive Character before people will make these larger investments.
 
 - `IDENTIFY BUYERS IN HEAT` --
 
+  Bumps: These are the little offers we add on to our order forms, and they have completely transformed our business. This concept is very similar to the experience you have in a grocery store checkout line. You see the candy bars, gum, and other little things that are all too easy to throw in with your order. With two lines of text and a checkbox, we are often able to get up to 40% of our buyers to upgrade and pay an extra thirty-seven dollars or more at the point of sale.
+  
+  One-Time Offers (OTOs): After someone has purchased any of your frontend offers, you can make them a special, onetime offer. The best OTOs are products that will complement the initial purchase. Often we’ll make two to three separate offers to people after they buy, as long as the sequence of offers adds more value to the initial offer.
+  
+  Downsales: If the buyer says no to the OTO, you can downsell them with either a different product or a payment plan option on the original offer. Don’t give up just because they said no to paying the full amount all at once. Often we find that up to 20% of people who say no to the special offer will say yes to a payment-plan version on a downsell.
+  
+  Affiliate Recommendations: These recommendations typically happen after buyers finish going through my upsale/downsale sequenece and have landed on the “thank you” page in my funnel. On this page, I will usually thank buyers for ordering and then link to other offers that would likely serve them.
+
 ### Frontend VS Backend Funnels
 
-- a
+- Now that you know the building blocks, all you have to do to build your own funnels is put them together. Funnels have a psychology behind them, and you need to use a different psychological approach for a low-priced, introductory product vs. a high-ticket package. 
+
+  Cold traffic is probably only aware of the problem they are facing. They don’t know
+you or your products, so they need to start at the front of the Value Ladder with a low- level funnel, like a Free-Plus-Shipping or Self-Liquidating-Offer Funnel. These potential customers will start to warm up to you after they start going through your communication funnel—building a bond with the Attractive Character. As they do, you can start introducing biggerticket products through the funnels we use in the middle of the Value Ladder. I like to sell these mid-priced offers using a Perfect Webinar Funnel, Invisible Funnel, or Product-Launch Funnel
+
+  Hot traffic already knows you, likes you, and trusts you. They know your products, so it’s time to direct them to the backend as you focus on the highest level of service you can offer. Because these offers have a greater price, you probably aren’t going to be able to close many sales using online methods alone. You need to change the selling environment and get the prospect on the phone or to a live event. My favorite funnel for moving people from the computer to the phone is the High-Ticket, Two-Step Funnel.
+  
+  I’m also including my favorite sales scripts to help you write the sales letters and videos you’ll need to include in your funnels. Think of these scripts like a framework.
+  
+  These funnels start on the landing page. They do not cover the traffic temperature or the pre-frame bridge. They are the sales mechanisms designed to move a person from being a completely anonymous visitor to becoming a paying customer. Traffic and pre-frame are important elements, too, so be sure to consider them carefully when deciding which funnel to use.
+  
+  When you’re ready to “age and ascend” customers on your Value Ladder, all you have to do is create a new funnel. The people you age and ascend will now be considered warm traffic
+  
+  Some of these funnels and scripts are short and sweet. Some are very long and involved. Generally, the higher up on the Value Ladder you are, the more selling you have to do and the longer your script will be.
+  
+- `overall framework` -- Before we move on to the individual funnels, let’s zoom out and look at the big picture. Traffic that we control, we drive to a squeeze page. Traffic that we don’t control, we drive to a blog where the top third of the page collects email addresses. As soon as someone joins, through either of those sources, they become traffic that we own, and we start sending them the Soap Opera Sequence so that they can build a relationship with the Attractive Character. When that sequence is done, we start sending daily Seinfeld emails to help them ascend through the other offerings on our Value Ladder.
+Now, immediately after a person joins my list, through either the squeeze page or the blog, they are taken to my first frontend offer. This is the offer I use to qualify my buyers. Those who purchase that product will immediately see a few point-of-sale upsells.
+After that initial transaction is over, my email sequences will start to encourage people to purchase other products as they ascend my Value Ladder and join my continuity programs. I will use different types of funnels to sell people different products in the Value Ladder.
 
 ### The Best Bait
 
-- a
+- THE ONE-HUNDRED-VISITOR TEST
+
+  If you haven’t read the book Predictably Irrational by Dan Ariely, I highly recommend you pick up a copy and read it. In this book, the author talks about an experiment studying the effects of the word free on buying behavior. So, how can I structure my offer to give something away for free? I call it my One-Hundred-Visitor Test. I ran it many times in different environments with different target audiences and products, and the results were pretty consistent in almost every test we ran.
+  
+  Then we started shifting things around and experimented with offering something for free. We wanted to see how this new offer would change the metrics and our income. So, we splintered off one of the best parts of our product and put it into a form we could ship to our customers for free if they’d help cover the shipping costs. We offered to put this information on a CD, a DVD, or a book. After people signed up for the free-plus-shipping offer, then we’d immediately upsell them on the same $197 product we were trying to sell before. I figured I would lose money because I was making people pull out their credit cards and buy the free-plus-shipping offer before they even saw the $197 offer. I mean, if only one-tenth of potential customers ever even saw the $197 offer, logically I should make less money, right?
+  
+  Here’s what happened: We sent people to the website, and on average, a whopping 8% of people purchased the free-plus-shipping offer. Now, this is where the magic happens. Because the customer had ALREADY pulled a credit card out of their wallet and made a commitment towards the concept we were selling, about 25% of free-plus-shipping customers bought the upsell offer.
+  
+   I almost doubled my money and got seven times more customers by adding in a free-plus-shipping offer! Pretty cool, huh?
+I don’t know what it is about buyer psychology, but once you get someone to say the first yes, it’s so much easier to get the second yes.
+
+- THE FREE-PLUS-SHIPPING ORDER FORM BUMP
+
+  After many initial tests, we started testing our free-plus-shipping concept against our thirty-seven dollar products. What we found is so simple, yet it has been one of our biggest secrets to increasing our frontend revenue with almost no effort.
+  
+  We took our thirty-seven dollar products and tested them against a free CD—a simple audio recording teaching one of the most exciting concepts from the product. We started driving traffic to both landing pages, and we found that, on average, we could get about three times as many customers to pay shipping for the free CD.
+
+  So, we had three times as many customers following the “free” route and that meant three times as many people were now seeing our upsell path. We found that by adding a small box on the order form AFTER someone fills in their credit card information, but BEFORE they click on the submit button worked miracles. The small box offered to add the thirty-seven dollar product on to the order. We wound up with an average of about 34% of our customers adding the thirty-seven dollar product to their order!
+  
+  This meant that by using a free-plus-shipping offer, we immediately got three times as many customers, and by adding the forty-seven dollar order form bump offer, we were also able to get about one out of every three people to also order the more expensive frontend product.
 
 ## Funnels and Scripts
 
