@@ -506,7 +506,7 @@ I don’t know what it is about buyer psychology, but once you get someone to sa
 
 ### Frontend Funnels
 
-- FUNNEL #1:
+- `FUNNEL #1:`
 
   TWO-STEP, FREE-PLUS-SHIPPING
   
@@ -529,6 +529,100 @@ I don’t know what it is about buyer psychology, but once you get someone to sa
   How: How can they get it? Walk them through the order process so they know what to expect.
   “Just fill out the form on the side of this page. Let me know your shipping address, and I’ll send it out right away. “
    The Catch: Tell them why you’re offering this product for such a low price. People
+   always think there’s a catch. So instead of avoiding the topic, let them know, in clear terms, that there is no catch.
+  “There’s no catch. I’m doing this because ___________. All I need for you to do is to help with shipping and handling charges.”
+  Urgency: Explain why they should order this product right now.
+  “I only have a very limited number of copies, so don’t be left behind.” “This offer ends at midnight on ___________. Don’t wait. “
+  Guarantee: Reverse any risk in ordering the product.
+  “If you don’t love it, I’ll refund your money, and you can keep the DVD.”
+  Recap: Remind them what they are getting and why. “One more time, here’s what you’re getting:__.”
+  
+  THE OTO SCRIPT
+  
+  OTO stands for One Time Offer. It’s a special offer you make to people who just purchased a product from you. Usually this OTO video is only three to five minutes long, yet it will close people on price points from ninety-seven dollars to two thousand or more.
+
+  Rule #1: Don’t Sell More of the Same Thing. This is the biggest mistake most entrepreneurs make when it comes to upsells. They try to sell more of what the customer just bought. Instead, if the customer bought an ebook titled How to Lose Weight by Juicing, your next offer shouldn’t be another juicing product. In the visitor’s mind, he has already scratched that itch, so offering more of the same rarely works.
+  
+  Rule #2: Don’t Sell a Random Product. The next worst thing to selling more of the same is to sell a random, unrelated product. I see this all the time. Yet, if there is no logical connection between the frontend product and the upsells, you will kill your conversions. Rather, structure your upsell offer in one of these three ways:
+  
+  Sample Structure #1: The Next Thing. This is my favorite way to do upsells. If a guy just purchased your book, How to Lose Weight by Juicing, what is the next logical product he needs to buy from you to reach his goals? He just secured a way to learn how to juice (so that itch is scratched). But remember that he is juicing to lose weight. So, outside of juicing, what else will help him to accomplish his weight-loss goal? Is it a weight-training manual? Would he be interested in a cardio-related product?
+  
+  Sample Structure #2: Do It Faster. If you have a way, a tool, a technique, or a software program that complements the initial offer and helps the customer get results faster, then the “Do-It-Faster” upsell is the right type of offer.
+  
+  Sample Structure #3: Need Help? This type of upsell pushes people farther up your Value Ladder to your high-end offers. It presents a way to get specially tailored insight from you. Here we are asking the buyers if they want help implementing what they just purchased on the frontend. Now that you understand proven ways to structure the upsell, let me show you how to use the OTO script.
+  
+    Confirm Initial Decision:  “Wait! Your order is not yet complete,” the sales loop remained open, and our conversions went up. Why?           Because subconsciously the reader was still open to being sold on something else. Pretty cool, huh?
+  Congratulations on purchasing ____________. Your order is not quite finished yet.
+  Smart => Why: Tell the buyer he’s made a great decision by making the first purchase and why.
+  
+  The One Thing: Here you need to find the One Thing in your product that is the key to the buyer’s success. This part is often tricky because it is tempting to explain everything about the offer. But if you do that, you will kill the sale. You need to figure out the One Thing that is the most valuable and will yield the best results. For example, in my OTO selling my “Perfect Webinar” system, I have over twenty-four hours of videos. But instead of telling the buyers everything they will learn, I focus on one thing, a special close the video demonstrates called “The Stack.” I explain what it is, how much money it has made me, my results, and what type of results the buyer can expect from this “One Thing.”
+  
+  Scarcity: Give them a reason to order right now! Make this a truly one-time offer.
+  This ___________ (product name) is available on my website for ___________ (higher price). But right now, you have this ONE CHANCE to get it for only_. This one- time offer is only available right here, right now. When you leave this page, it’s gone forever.
+  Second CTA: Repeat your call to action.
+  Don’t miss your chance to _________faster and easier than ever. Click the button
+  now.
+
+- `FUNNEL #2` 
+
+  SELF-LIQUIDATING OFFER
+  
+  Typically, we use the Self-Liquidating Offer (SLO) Funnel when we are trying to sell a product that’s priced anywhere from twenty-seven to ninety-seven dollars. The main goal is to have this frontend product cover the expenses of buying traffic. You hope to break even. That is why we call it a “self-liquidating offer”— because if you structure it right, you won’t have any traffic costs, and your upsells become pure profit. In general, a free- plus-shipping offer will lose money on the frontend offer, but will use the upsells to break even or even make a profit. In contrast, SLOs should break even before any upsells.
+  
+  First, you’re going to attract people with a free video, report, ebook, or other lead magnet on your squeeze page. Then, once the visitors subscribe to your list, they land on your SLO page, which sells your core offer. This is generally a video or a long-form-text sales letter, presenting your SLO using the Star, Story, Solution script described below. Because the price point is so much higher than a free-plus-shipping offer, you normally have to use a longer script to get your visitors comfortable enough to make a purchasing decision. 
+  
+  STAR, STORY, SOLUTION SCRIPT
+  
+  Sometimes it’s easy to feel overwhelmed with all the pieces in this script—there are forty-four! But take it one piece at a time, and you’ll be fine. Each piece can be as short as a sentence or two, while others might be longer as you find places to interject your true stories, which define the Attractive Character. Just think of the forty-four pieces as stepping-stones along the path to the sale.
+  
+  SECTION 1: STAR
+  
+   1. Pattern Interrupt: This is usually the first thing prospects see. It’s important to grab their attention, get them out of their current environment or activity, and suck them into your sales copy. "It happened again, didn’t it? To you ... or someone you love. I know your story ..." Often the “core-desire questions” in step two can also work as my pattern interrupt. I’ve seen a lot of people who will start their sales videos showing a strange picture of an unusual object,
+  
+   2. Core-Desire Questions: Through a series of questions, you get prospects thinking about the things they desire most. These questions move the brain to the topic you want to discuss, which is the outcome or results they wish they could achieve: "I’ve got a quick question for you ...
+  Have you ever wanted to work from home?
+  Own your own business?
+  Come on ... you know you want that lifestyle ... the one that everyone talks about ... Where you can work from home in your underwear ...
+Or on a beach with your laptop ..."
+
+   3. Agitate Past Failures: If prospects are taking the time to read your sales letter, chances are pretty good that this isn’t the first time they’ve thought about solving this problem. This part of the sales letter agitates that failure in their brains. Here’s an example: So ... why hasn’t it happened for you yet? Come on ... admit it.
+   
+   4. Big Promise/the One Thing: Here’s where you introduce your big promise, the One Thing you’re going to focus on for the rest of the sales letter. When you watch this video to the end, you’re going to discover ___________ .
+   
+   5. Introduce the Star: Right after you introduce your big promise, you want to introduce the star of the story. The star is the Attractive Character. "Hey, my name is Russell. And a few years ago, I was just like you ..."
+   
+   SECTION 2: STORY
+   
+   6. High Drama: Whenever you’re telling a story, you want to start at the point of high drama. Don’t start with, “Well, I woke up and had eggs for breakfast ... then I got dressed and went to work ... blah, blah, blah.” Do start with, “The gun was in my face. I was staring down the dark barrel, and I could see the bullet in the chamber.
+   
+   7. Backstory WALL: Next you want to fill in the backstory that led up to the point of high drama. How did you, or your Attractive Character, get there? It’s important that the featured character eventually hit a wall, a point where he was completely stuck. This, by the way, is where your prospects probably are right now.
+   
+   8. Identify the Problem: Now reveal the problem. Let them know why your Attractive Character was stuck. The problem I had was _______________.
+   
+   9. Epiphany OR Declaration of Independence: Once the AC pinpoints the problem, it’s usually not long before they have an epiphany or decide to make a major change in their behavior or mindset.
+   
+   10. Your Path to Finding the Ultimate Solution: Take the reader along your journey. Describe some of the different things you, or your AC, tried before you found success. So, first I tried ______________. That didn’t work at all.
+   
+   11. First Sign of Success: And that’s when I finally tried ____________. And guess what? This time it worked!
+   
+   12. Conspiracy: Show them how you finally realized that the cards were stacked against you from the start. Your prospects are probably convinced that the cards are currently stacked against them. Because they believe it, you need to address this fear through the Attractive Character’s story.
+   
+   13. The Big Lie: Explain why it’s not their fault that they haven’t succeeded before now. For years, they had been telling me __________, and when I figured out that it wasn’t true, I was finally able to break out of their chains and get the results I deserved.
+  
+   14. Common Enemy: This is who or what is really to blame for the big lie that was holding the AC back and blocking his success.
+The real problem is ___________ . They were the ones keeping me from ___________ .
+ 
+   15. Rapid Growth: Now show them how fast the AC progressed once he realized the truth.
+Once I realized ___________ , that’s when we started to ___________ really FAST!
+
+    16. Case Studies: Highlight the stories of others who’ve had success similar to your or the Attractive Character’s story.
+    
+    17. Hidden Benefits: Explain the benefits you didn’t expect that have resulted from
+the product/discovery you are describing to the reader.
+
+  SECTION 3: SOLUTION
+
+  
 
 ### Funnels For The Middle Of The Value Ladder
 
