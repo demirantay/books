@@ -622,12 +622,288 @@ the product/discovery you are describing to the reader.
 
   SECTION 3: SOLUTION
 
+  18. Formal Introduction: Introduce the product. And that’s why I created _____________.
+  
+  19. Pain and Cost: Tell them what you had to go through to create the product.
+This took ____________.time) to create, and cost me ____________. But it was
+totally worth it.
+
+  20. Ease: How much effort does the product save you?
+  
+  21. Speed: How much time does the product save you?
+What used to take me _____________ (time), I can get done in ______(time).
+
+  22. “So” Benefits: Explain why they need this by writing out three or four benefits followed by the words “so _________.”
+  
+  23. Social Proof: These are your testimonials. Let the prospects read what others say about the product.
+But don’t just take my word for it. Here’s what others are saying:
+“This ___________ saves me time and effort every day! I love how it ___________ and ___________ .”
+
+  24. Make the Offer: Explain what the buyers will get.
+  
+  25. Build Value: Add bonuses and additional features, but be sure they support the “One Thing,” the focus of your entire sales letter. Plus, you’ll get __________, ___________, and ___________.
+  
+  27. Emotional Close (If/All): f all this did was give you the house of your dreams, would it be worth it? (Toward pleasure.)
+If all this did was let you fire your boss, would it be worth it? (Away from pain.)
+
+  28. Reveal the Real Price: Now tell the readers how much they are actually going to pay.
+  
+  29. Guarantee (Logic): Reverse any risk the potential buyers may be feeling. Give the guarantee some crazy name.
+  
+  30. Inject Scarcity (Fear Close): Give the buyers a legitimate reason to buy NOW. But you must act now because ___________ .
+  
+  40. Future Pacing: Help them see how awesome their lives are about to become— after they buy your product.
+Just imagine what life will be like when ___________ .
+
+  41. Call to Action: Tell them what to do to make a purchase. Also, tell the prospects what’s going to happen next. So click on the button below right now, and you’ll be taken to a secure order form. After you put in your credit card information, you’ll be taken to a secure members’ area where you can download _____________, even if it’s 2:00 a.m.!
+  
+  42. Post Selling: Make the readers feel like they might be left behind if they don’t hurry.
+For those who are already signing up, this is what’s going to happen next ...
+
+  43. Take Away Selling (Warning): Explain that they need to make a decision, and it doesn’t matter to you whether they order or not.
+You see ... it doesn’t matter to us if you sign up right now or not.
+
+  44. Close with Reminder: This is a summary for the skimmers, but it can remind all readers of the offer.
+Remember, you get ___________ (recap the offer).
+
+
+- `FUNNEL #3:` 
+
+  CONTINUITY
+  
+  The last type of frontend funnel that I want to show you is our Continuity Funnel. One of my mentors, David Frey, said (and I wholeheartedly agree) that if you don’t have continuity, then you don’t have a business. In every business, there are ways to add continuity income, and it’s an essential part of every Value Ladder. Continuity is when you get paid regularly, usually every month, for ongoing access to information or software or some other product.
+  
+  The funnel itself is very simple. Once a visitor has moved through either a Two-Step or an SLO Funnel and made it through my Soap Opera Sequence, then I will usually send them through a short email sequence promoting my Continuity Funnel.
+  
+  Many people ask me where they should use Continuity Funnels. You can use them as a frontend to generate leads (and we do this with some of our Continuity Funnels), but I prefer to use them as the second funnel in my sequence—after my customers have had a chance to bond with the Attractive Character
+  
+  If you are selling a free or one-dollar trial, then the Who, What, Why, How script typically works the best. We’ve also had incredible success adding in order form bumps that give our customers training on how to use the continuity program. If you are planning on selling continuity without a trial, then I would recommend using the Star, Story, Solution script.
+  
+  After people have purchased the membership, you can create OTOs like we discussed earlier. We have found yearly or lifetime accounts to be incredibly effective upsells with continuity programs.
   
 
 ### Funnels For The Middle Of The Value Ladder
 
-- a
+- `FUNNEL #4:` 
 
+  THE PERFECT WEBINAR
+  
+  Webinars have become extremely popular sales tools over the past few years, mainly because they work so well. They take the old teleseminar/speaking model to a whole new level. Webinars change that dynamic completely. With a webinar, you can deliver your presentation online. People don’t have to travel anywhere to catch your speech (and you don’t have to travel anywhere either).
+  
+  At its most basic level, a webinar is nothing more than a PowerPoint presentation that you broadcast live (or record) over the Internet. It allows you to give your sales presentation to just about anyone in any corner of the globe.
+  
+  There are two parts to most webinars: the content and the sales pitch. Occasionally, you may want to give an all-content webinar, but for the most part, you’ll be selling something at the end of your presentation. You promise to teach people something on the webinar. Then, if they want to learn more or dive deeper into the topic, they can purchase your product or sign up for coaching (or whatever you’re selling).
+  
+  SALES WEBINAR FUNNEL
+  
+  The funnel for a sales webinar is very simple. You drive traffic to a registration page where you have some sort of sales letter or video encouraging readers to sign up for the webinar. After watching the video or reading the copy, the interested prospects fill in their name and email to register. (Boom! They’re now on your list.) Then you send them to a confirmation page where they are reminded of the date and time of the webinar and given instructions on how to call in. At the appointed time, they will attend the webinar, and you can sell them your product. Often people can’t make it to the live webinar for some reason. So you may decide to send a recording
+  
+  AUTOMATED WEBINAR FUNNEL
+  
+  Typically I will do a webinar live once, and then I take the recording from that event and build out an Automated Webinar Funnel that will allow me to keep sending traffic to that website every day for the rest of my life. It’s nice because you can keep selling your products twenty-four hours a day, seven days a week, in every country in the world!
+  
+  My team carefully tracks when a participant leaves, and then we send out a different email sequence, depending on how long they watched. Everyone who subscribes gets one sequence. Everyone who shows up and stays all the way to the end gets another sequence. People who show up but leave early get yet another sequence. And the no-shows get an entirely different sequence to encourage them to go back and watch a replay.
+  
+  THE PERFECT WEBINAR SCRIPT
+  
+  Now that you have people signed up, what are you going to say? How you structure your webinar has everything to do with how much you sell at the end. A typical webinar is broken down into three sections: the introduction, the content, and the close (or the sales pitch). There are a lot of pieces to this script, but try not to get overwhelmed. Think of it as just three sections—introduction, content, and the stack
+  
+  INTRODUCTION: This should take about five minutes. It introduces you, your subject, and your credibility. "Hi, I’m Russell Brunson, founder of DotComSecrets and CEO of several multi- million-dollar companies."
+  
+  Big Promise: Repeat your big promise. This is the One Thing that got the participants to sign up in the first place. It’s also the ruler they will use to judge your webinar’s quality. If you don’t set this ruler, then they will measure the value of your webinar based on something outside of your control.
+  
+  Hook to End: Give the participants a reason to stick around all the way to the end of the webinar. Free giveaways are popular. You could also promise to do something funny or show them something cool.
+
+  Command Attention: Tell them to close out of Facebook, turn off their cell phones, and give you their undivided attention. Also, you might ask the participants to grab a pen and paper for taking notes. I know there are distractions all around us, but this strategy I’m about to share can change your life. I don’t want you to miss a single crucial step. So, please ... make a commitment to stay focused.
+  
+  Qualify Yourself: Let the participants know why you are qualified to speak on the subject. You’re probably wondering why I’m qualified to teach on this topic. Here’s my story: _____________.
+  
+  Future Pace: Lead the viewers through some imagination exercises where they can picture what life could be like once they learn the secrets you’re about to reveal. Be descriptive and appeal to all five senses, if possible. Imagine what your life will be like after you know how to Can you see ___________? Would that make things better for you?
+  
+  THE CONTENT: This is the meat of the webinar. It should run about fifty to sixty minutes, and it should deliver whatever content you promised in the registration script
+  
+  The One Thing: The One Thing is the core content of this webinar. It’s the reason the participants showed up. What do they want or need to learn or understand? Every teaching point through the webinar must point back to THIS one thing.
+  
+  SECRET #1
+  Break: The best model for making money online is to sell products.
+  Rebuild: You can make more money in one day selling high-ticket products than you
+  can in a MONTH by selling normal products.
+  
+  SECRET #2
+  Break: To sell high-ticket products, I have to sell on the phone.
+  Rebuild: You don’t personally have to sell anything! (Big plus because I hate phones!) Let me show you how to build a two-person, mini call center to close all of the sales for you.
+  
+  SECRET #3
+  Break: It probably costs a fortune to drive enough traffic to make this work.
+  Rebuild: You only need a little bit of traffic to make this work (about one hundred
+  clicks a day).
+  Remember, teaching these three secrets should take fifty to sixty minutes. So be sure to tell stories, show examples, and use this as an opportunity to get your audience to bond with the Attractive Character.
+  
+  THE STACK: This section of the webinar should last at least ten minutes. Often, I
+allow for twenty minutes or more, depending on what I’m selling.
+
+  The Stack: I consider The Stack my secret weapon. I learned it from one of my mentors, Armand Morin. I saw him speak on stage and close nearly half the room with almost no effort. I pulled him aside to find out what he was doing, and he explained to me The Stack. I started using it immediately, and I went from closing on average 5-10% of a room to consistently closing 20% or more
+  
+  Armand taught me that the only thing your prospect remembers when you sell is the last thing you showed him. He explained that most sales presentations focus on the core offer, then a list of bonuses. So the last thing shown is the last bonus, followed by a call to action to get the prospect to buy. The problem with this is when the person doesn’t think that the last thing you offered is worth the price.
+  
+  So what that means is that you’re first going to get __________and also_______AND also this _______.
+  
+  He keeps doing this throughout the entire close. When he gets to that last part of the offer, he shows the final stack slide, with EVERYTHING listed, and recaps everything on that slide. Then, he finally introduces the price. 
+  
+  
+- `FUNNEL #5` 
+
+  INVISIBLE FUNNEL WEBINAR
+  
+  The Invisible Funnel is a premium webinar that people pay for AFTER the webinar is over—if (and only if) they love what you taught them.
+  
+  We drive traffic to a website that uses The Magic Bullet script to get people to sign up for the Invisible Funnel-style webinar. To register, participants enter their credit card details, but they are not billed anything right then. They watch the webinar, which is usually three or four hours of amazing, high-value content. Then, AFTER the webinar is over, if they agree that the webinar was worth the pre-determined price, then they do nothing, and you charge the card the next day. If the participants don’t think the webinar was worth the money, they must send you an email before a certain deadline so that you won’t charge their card.
+  
+  At the end of the webinar, you can do a very soft sale to push the participants to an application page where they can upgrade to your high-ticket backend products or services. If you structure your Invisible Funnel correctly, you’ll find that it’s a really cool way to get people to buy things—without ever selling them anything. It creates tons of good will and builds a strong bond with the Attractive Character. I taught for four hours. At the end, I told those who didn’t love it to let me know, and I promised not to charge their credit cards. From that offer, we only had about 10% of the people cancel
+  
+  My Magic Bullet: Now you introduce the amazing solution you’re selling. Tell perspective participants about the tangible thing they’re going to get by attending the webinar. If you get your Magic Bullet right, the rest of the sale is very easy. So take some time to craft the best Magic Bullet Solution your business can offer. For clarity, I try to phrase it like this: You’ll get ___________(result) by ___________(short amount of time), or you pay nothing. The more tangible the result, the better.
+  
+  A Magic Bullet in the dating niche might be “Get a girlfriend this weekend —or pay nothing.” A weight-loss example might be something like, “Try my three-day detox and lose seven pounds, or you don’t pay anything.”
+  
+  Don’t Worry (Proof): Now you’re going to introduce the fact that you are offering a premium webinar. You’ll also tell the participants not to worry because you’re going to prove its worth before you charge them any money.
+  
+  Risk Reversal (0 —> $$): Here’s where you offer the “try before you buy” option.
+  
+  If I do deliver what I promise and you love the information, do nothing and we’ll charge your credit card one hundred dollars. If I don’t deliver, or you don’t think the information was worth the price, just send me an email before midnight, and we won’t charge you anything.
+  
+  The Close: Get the reader to commit to giving your webinar a try. So, now it’s your turn to decide. Say yes, and let us prove that our system works.
+
+  INVISIBLE WEBINAR CONTENT
+  
+  Once you have participants signed up for your webinar, you still have some work to do. It’s important to structure the webinar correctly so that all who watch feel like they’ve gotten their money’s worth. Remember, this webinar is going to be three or four hours long! So you may need to bring in multiple pieces of content. Don’t hold anything back. Give viewers your best stuff! Trust me, the four hours will go by before you know it.
+  
+  Re-tell Hook: You got the participants to register for this webinar by using your Magic Bullet script (the “try before you buy” hook) They get a chance to vote with their wallet at the end: did the webinar deliver or not? And remind them they must stick around until the end because only then will you give the secret email address where they can email you if they don’t think the webinar was worth the price of admission.
+  
+  Tell Them What They’ll Learn: Give all participants an overview of the system that you are going to be teaching on this particular webinar.
+  
+  Content (for each content piece): Start teaching your content now. It doesn’t really matter how many pieces you teach—as long as it’s your best stuff and it fills up the three or four hours you promised.
+   - What Is It? Give the content piece a cool name, making it easy to remember.
+   - Parable: Tell a memorable story to demonstrate the concept and cement it in the
+participant’s brain.
+   - Teach Concept: Go through the nuts and bolts of the concept.
+   - Example (real life, if possible): Give some examples of how the concept works in real life. If you have case studies that show your students or clients succeeding, those are the best examples.
+
+  Recap: After you have finished teaching the content for your training, then you want to remind them again about everything they learned while they were on the training with you.
+  
+  Tie It to Value: Help participants see how much this information will be worth after they implement it.
+  
+  Was It Worth $__to You? Ask the participant to decide whether the webinar was worth this price. If so: Do nothing, and we will bill your credit card the agreed-upon price. If not: Email us at ___________before__________, and let us know this
+content wasn’t for you, and we won’t charge your card.
+
+  Pick Your Close: Where will you send people to fill out an application? To Website: Give the URL where a participant can pay for your coaching. Free Application: If this is a free application, make clear that there is no charge to apply. Paid Application: If you’re charging participants to apply, let them know how much and how they should pay.
+  
+- `FUNNEL #6:` 
+
+  PRODUCT LAUNCH
+  
+  Basically, you’re breaking up your sales presentation over four videos —each providing a ton of value, while educating your prospects and selling your products. This funnel works best with warm and hot traffic. This Product Launch Funnel is broken down into four videos:
+  
+  Video #1 is called “Wow and How,” where you will “wow” them with a big idea, and then show them “how” you and others are using this concept.
+  Video #2 is the “Transformational Education” piece, where you will actually let people look over your shoulder as you walk through the process with them.
+  Video #3 is the “Ownership Experience” piece, where you show viewers what it’s like to live when they have this in their lives.
+  Video #4 is “The Offer,” where you will reveal what you’re selling, the price, and how they can get it.
+  
+  VIDEO #1: “WOW AND HOW”
+  
+  Big Promise: This is your One Thing, the valuable principle you have promised to teach during these training videos.
+How to sell high-ticket products without getting on the phone.
+Kill Myths: Dispel any common objections or reasons the potential participant might not believe you. Let’s Look at Others (Content #1): Show how others achieve these results all the time. Tell stories and case studies. Hook to Video #2: Get them excited about the next video.
+
+  VIDEO #2: “TRANSFORMATIONAL EDUCATION”
+  
+  Let’s Do It Together: It’s okay if you don’t think you can do it on your own. Let’s go over it together now. How “I” Do It (Content #2): Here’s how I do it, step by step (just give a brief overview of the steps). Proof That It Works: Show your successful results, case studies, or other proof. Hook to Video #3: Get them excited for the next video.
+  
+  VIDEO #3: OWNERSHIP EXPERIENCE
+  
+  Future Pace Experience: Imagine what your life could be like if you commit to this program.
+I want you to take a moment to imagine what would be different in your life if ___________ .
+What possibilities would open up for you if ___________? How “YOU” Do It (Content #3): Imagine yourself doing this exact process. Here’s what it would look like.
+Now, imagine yourself doing ___________, then ___________, and finally ___________.
+
+  Hinting to the Offer: Would you like the chance to learn in the fastest, easiest way possible? Hook to Offer Video: In the next video, I’ll show you how you can get results just like these.
+  
+  VIDEO #4: THE OFFER
+  
+  Here’s What I’ve Got: Explain the offer. Here’s What You’ll Do with It: Explain how it works. Here’s What It’ll Do for You: Explain the results. Here’s What You Need to Do Right Now: Explain how to order and what to expect next. Let’s Review: Product Launch Funnels are best used with warm or hot traffic. We usually send people to the videos from a link in an email—either to our own list or to an affiliate or JV partner’s list.
+  
 ### Backend Funnel
 
-- a
+- `FUNNEL #7:`
+
+  HIGH-TICKET, THREE-STEP APPLICATION
+  
+  A few years ago, we decided to close down the call center and find a better way to sell our high-ticket coaching services. That’s when this three-step application process was born. It has given us the ability to make almost as much gross revenue without having huge overhead. We can literally make as many sales with just two sales people as we could with sixty! Let me tell you how it works.
+  
+  Step #1: You need to create a simple page that shares a case study video explaining the results your clients can get when they receive coaching from you. After watching the free case study video, potential clients click on the “apply now” button and are taken to an application designed to pre-qualify them as good prospects.
+  
+  Step #2: The prospects fill out a full application, which serves two purposes. It helps your sales people learn about an applicant’s business—where they are now and what their business goals are for the future. More importantly, though, it pre-frames the prospect by getting them to sell you on why you should take them on as a coaching client. The application stage weeds out those who really aren’t ready, so you are ONLY calling the prospects who are ready to start working with you. The application also pre-sells the program in the prospect’s mind. After they finish the application, we take them to a “homework” page.
+  
+  Step #3: The applicants follow the instructions on the homework page, all the while building an even stronger bond with the Attractive Character. My Inner Circle homework page includes three videos for applicants to watch. The first video is a short class with me teaching what it takes to succeed in this business. The second video tells the story of how my wife and I struggled to start our family. It explains exactly why I’m so passionate about helping business owners get their messages out into the world.
+  
+  Another important function of the homework page is explaining what’s going to happen next (the applicants will be contacted by one of three sales people) and offering a way to contact US by phone—if they just can’t wait. My sales team is great at calling people quickly. But when people are in pain NOW, they often want to feel like they’re being proactive. If someone is at that hyperactive buyer stage, I don’t want them to have to wait for us to call. So, I give them a way to call us.
+  
+  The sales script for selling the high-ticket item on the phone is pretty long and involved.
+  
+  Closing a high-end client takes more time and finesse than selling a simpler product.
+  
+  The setter has to find out the why. That’s where you’ll find the emotions. Remember, people buy based on emotion first, then they rationalize the decision with logic.
+  
+  Help the prospect paint a picture of the feelings behind his dreams. You can get all this information with a few questions; within five minutes, the setter knows exactly why the prospect is going to buy this program. He also knows the hot buttons to focus on. The setter should ask the prospect, “What’s holding you back? Why haven’t you achieved your dreams already?” You’ll probably hear some variation of I don’t know how. The prospect doesn’t know how to build a business online. Or, he may say he doesn’t have time—which is really saying he doesn’t know how to build a business in five hours a week.
+  
+  The setter cannot move forward with the script until he understands the prospect’s emotional hot buttons. The prospect must also admit he doesn’t know what he is doing (in some form or another)
+  
+  Blast: Give Him a Taste of What You Offer: Don’t go into great detail about the program; that’s what he’s buying. But the setter should give him an idea of what he could discover or get done.
+  
+  Posture: To set up the closer as the expert, the setter should say the following:
+  Now, I’m not personally an expert at building businesses online in five hours a week. My job is simply to find the people who are qualified to be part of this program. If I feel good about you, I’ll turn you over to our Program Director (the closer). He is the one to decide who will be the right fit for our program. Before I do that, I need to find out a little more about you and fill out a short profile. Is it alright if I ask you a few questions?
+  
+  Probe: Collect Financial Information: Your setter is going to start asking some pretty personal questions next and is going to fill out a form with the information. You want people to answer quickly, without getting too emotional. Start by asking about age, marital status, highest level of education, and things like that. Then the setter must be sure to ask, Is there anyone else involved in your business—a spouse or financial partner? The goal of this next set of questions is to find out the prospect’s financial status and whether you really can help.
+  
+  Finding Credit: Your setter is going to find out details about the prospect’s credit situation. Goals: Talking About a Prospect’s Short-Term Goals:
+  
+  Commitments: Get Four Commitments: Now the setter is getting the prospect to declare himself a good candidate. He is publicly stating he is the kind of person who takes action and finishes what he starts. Once he does this, his brain will have a really hard time reversing that declaration and talking himself out of the purchase.
+  
+  1. You must have a minimum time commitment of ___________ per week. Can you do that?
+  2. We need people who are coachable and willing to learn and follow the advice of our experts. Can you do that? Why are you coachable?
+  3. We’re looking for people who can start today. We want quick decision makers. When do you think is the best time to start working on ___________ (his goals)?
+  4. We want to teach you the concept of using OPM (other people’s money) to invest in ___________. Are you familiar with this idea? Would you like to learn more about it?
+  
+  Now put him on hold while you go talk to your “director.” Discuss the candidate with the closer. If you feel like he would be a good fit for your program, and someone you’d like to work with, then come back to the call.
+
+  Let me have you write down my director’s name; it’s ___________. I’m so happy he’s available to talk with you personally, because he is an expert at ___________. Most importantly, his job is to make sure we have the right kind of people on our team. So, I want you to understand this is not for everybody. Please don’t be offended if he doesn’t offer you a slot. Okay? Okay? Great! My director will call you shortly.
+  
+  THE CLOSE SCRIPT
+  
+  This script for the closer is very similar to the Set Script. Get the candidate to picture exactly what life will be like after he has success with your program.
+  Why are you serious about ___________ right now?
+  How long have you been thinking about ___________?
+  What’s the biggest thing that’s held you back from ____________?
+  What are you looking to do in six months? What would that do for you?
+  What are you hoping for in twelve months? What would that do for you?
+  How about in five years? What would your lifestyle be like?
+  Then you want the prospect to connect you with his dreams.
+  If you have the chance to work with someone like Russell Brunson, how would that make a difference in your life? Anything else?
+  Next, the closer goes through the four commitments again.
+  
+  Don’t move on if you’re not getting the answers you’re looking for. Either back track to find out why the prospect isn’t committed or get off the phone because he is not a likely close. Time: Explain the Time Commitment Are you able to commit to __________hours per week? (Yes or no.)
+  
+  Decision Making: Explain the Decision Commitment Opportunities don’t wait around. Making decisions is very important. Do you see anything that would hold you back from making a decision to work with Russell Brunson today? (Yes or no.)
+  
+  Resources: Investment Commitment
+  
+  Write this number down: ___________________. Now, as long as you see the value, and the program meets all your goals, is there any reason you can think of that would keep you from investing ___________ today? (Yes or no.) If the setter and the closer have done all the previous steps correctly and the prospect says you or your product/service is the next best thing to sliced bread, then suddenly the price tag isn’t such a big deal anymore.
+  
+  Knowledge: Teachability
+  
+  My main concern with taking on students is that they are teachable. They must be willing to learn and then implement what they’ve learned so they are successful. Do you feel like you’re that kind of person? (Yes or no.) So if someone could show you how to do ___________ , you would be successful? (Yes or no.)
+  
+  What’s Included: What the Prospect Gets When He Signs Up Today We’re going to give you everything you need to be successful and avoid mistakes. Your coach will help you work at your own speed.
+  Now, simply list out exactly what buyers get with the product or program.
+  Close: Finalizing the Sale
+  This is probably the most important question ...
+  Why do you feel like you are a good candidate for this program?
