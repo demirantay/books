@@ -488,11 +488,47 @@ I don’t know what it is about buyer psychology, but once you get someone to sa
   
   This meant that by using a free-plus-shipping offer, we immediately got three times as many customers, and by adding the forty-seven dollar order form bump offer, we were also able to get about one out of every three people to also order the more expensive frontend product.
 
+- HOW DOES THIS WORK IF YOU’RE AN
+
+  Author, Coach, or Consultant: Think of the most amazing results you could get for your clients, the one thing that would really solve their biggest problem, and put the information into a book, CD, or DVD.  it’s my secret sauce! Trust me. Give it away for free, and you’ll reap the benefits on the backend.
+  
+  eCommerce Business: Tailor this concept to your space. For example, if you’re selling something like birdcages, you could give away a CD titled How to Teach Your Parrot to Talk. Or, maybe you sell custom suits; you could offer free cuff links.
+  
+  Network Marketer: For this niche, you could create a CD or DVD showing your secret method of finding leads or converting them into distributors
+  
+  Affiliate Marketer: Create your own informational CD or DVD to give away and build your own list and then sell other people’s offers on the backend.
+  
+  Offline Business Owner: Think about your business and the problems you help to solve. Figure out the biggest problem for your potential customers and share your unique solution. Record that solution on a CD or DVD and give it away as a free-plus-shipping offer. anything that will attract consumers and get buyers into your Value Ladder.
+
 ## Funnels and Scripts
+
+-  want to point out that each of these funnels, and their accompanying scripts, serve a different purpose. I use all of them at different points in our company and at different levels of our Value Ladder. I also want to mention that both the sales funnels and the scripts are just a framework that form a starting point. Once we get the basic framework of a funnel working, we add on other components to grow it into a larger, more complete sales funnel.
 
 ### Frontend Funnels
 
-- a
+- FUNNEL #1:
+
+  TWO-STEP, FREE-PLUS-SHIPPING
+  
+  The Two-Step Funnel works really well for the free-plus-shipping offers we discussed earlier. The first page typically has a video using the Who, What, Why, How script you’ll see below. Then the page asks visitors, “Where should I ship this?” They fill out the shipping address form (that’s step one) and then move on to step two where they fill in credit card information for the shipping and handling charge. It’s important that you mention on the first page that the buyers will be charged for shipping and handling. Otherwise, it’s very unethical, and you’ll upset your customers before they even have a chance to get into your Value Ladder, which is never a good idea. As we mentioned before, adding an order form bump on step two is a great way to increase frontend revenues.
+  
+  After the visitors fill out the second step and click the submit button, you take them to a special, one-time offer (OTO), which presents an opportunity to upgrade the order
+  
+  The psychology behind this funnel is amazing. People are more likely to fill out the first step because they don’t see a long form asking for credit card information. Then once they do get to the credit card form, they keep filling it out because their brains are already committed to the process.
+  
+  THE WHO, WHAT, WHY, HOW SCRIPT 
+  
+  This is the script I typically use with the Two-Step Funnel. Inexpensive offers like free- plus-shipping items usually don’t require a long, involved sales letter. You need to hit the main selling points and build credibility as quickly as you can. Just create a little video, answering these four questions, and maybe add in a text version on the page. Present step one on the order form, and you’re all set.
+  
+  Who: Who are you? Introduce yourself very briefly.
+  “Hi, I’m Russell Brunson, founder of DotComSecrets. “
+  What: What do you have? Introduce your product or offer briefly.
+  “I’ve got a free DVD that’s going to show you_________________.”
+  Why: Why do they need it? Explain the benefits of the offer. “If you’ve been struggling with_, then you need this
+  DVD because it will ___________.”
+  How: How can they get it? Walk them through the order process so they know what to expect.
+  “Just fill out the form on the side of this page. Let me know your shipping address, and I’ll send it out right away. “
+   The Catch: Tell them why you’re offering this product for such a low price. People
 
 ### Funnels For The Middle Of The Value Ladder
 
