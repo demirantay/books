@@ -21,6 +21,7 @@
 
 - [DotCom Secrets](./business/dotcom.md)
 - [Video Essay - Time Calculator](./business/video-essay-minute.md)
+- [Cashflow Stages](./business/cashflow-stages.md)
 
 ## Science
 
