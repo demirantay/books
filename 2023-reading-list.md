@@ -2,6 +2,7 @@
 
 # Kendi Sectiklerim
 
+- [ ] Yaban
 - [ ] School of Life
 - [ ] Ataturk
 
