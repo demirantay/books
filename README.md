@@ -9,6 +9,7 @@
 - [Uzuntuyu Birak Yasamaya Bak](./important/uzuntuyu-birak.md)
 - [Stutz Tools](./important/stutz-tools.md)
 - [Alain Tools](./important/alain-tools.md)
+- [1stman](./important/1stman-notes.md
 
 ## Psychology
 
