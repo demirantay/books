@@ -10,7 +10,7 @@ Table of Contents
 - [Creating Your Mass Movement](#creating-your-mass-movement)
   - [The Attractive Character](#the-attractive-character)
   - [The Cause](#the-cause)
-  - [The New Opporunity](#the-new-opportunity)
+  - [The New Opporunity](#the-new-opporunity)
   - [The Opportunity Switch](#the-opportunity-switch)
 - [Creating Belief](#creating-belief)
   - [The Big Domino](#the-big-domino)
@@ -28,7 +28,7 @@ Table of Contents
   - [The Perfect Webinar Model](#the-perfect-webinar-model)
   - [The 4-Question Close High Ticket](#the-4-question-close-high-ticket)
   - [The Perfect Webinar Hack](#the-perfect-webinar-hack)
-  - [Email Epiphany Funnels](#email-epiphany-bridges)
+  - [Email Epiphany Funnels](#email-epiphany-funnels)
   - [Conclusion](#conclusion)
 
 ## Intro
@@ -36,3 +36,34 @@ Table of Contents
 ### What is Expert Secrets
 ### Foreword
 ### Two Types of Expert Businesses
+
+## Creating Your Mass Movement
+
+### The Attractive Character
+### The Cause
+### The New Opporunity
+### The Opportunity Switch
+
+## Creating Belief
+
+### The Big Domino
+### The Epiphany Bridge
+### False Belief Patterns
+### The 3 Secrets
+
+## Your Moral Obligation
+
+### The Stack Slide
+### The Perfect Webinar
+### The One Thing
+### Breaking and Rebuilding Belief Patterns
+### The Stack
+### Trial Closes
+
+## The Funnels
+
+### The Perfect Webinar Model
+### The 4-Question Close High Ticket
+### The Perfect Webinar Hack
+### Email Epiphany Funnels
+### Conclusion
