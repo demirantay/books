@@ -7,5 +7,6 @@ Table of Contents
   - [What is expert secrets](#what-is-expert-secrets)
   - [Foreword](#foreword)
   - [Two types of expert businesses](#two-types-of-expert-businesses)
-- [Creating ]()
-  - b
+- [Creating your mass movement](#creating-your-mass-movement)
+  - [The attractive character](#the-attractive-character)
+  - [The cause](#the-cause)
