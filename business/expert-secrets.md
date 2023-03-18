@@ -27,3 +27,12 @@ Table of Contents
 - [The Funnels](#the-funnels)
   - [The Perfect Webinar Model](#the-perfect-webinar-model)
   - [The 4-Question Close High Ticket](#the-4-question-close-high-ticket)
+  - [The Perfect Webinar Hack](#the-perfect-webinar-hack)
+  - [Email Epiphany Funnels](#email-epiphany-bridges)
+  - [Conclusion](#conclusion)
+
+## Intro
+
+### What is Expert Secrets
+### Foreword
+### Two Types of Expert Businesses
