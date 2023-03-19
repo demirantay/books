@@ -210,10 +210,105 @@ Almost every choice in your life has revolved around status—whether you know i
   
   Status works on both ends of the spectrum. It’s what makes some people fight for earthly possessions, and it’s also what keeps others from desiring them at all. As much as we may hate to admit it, we are all slaves to what we believe other people will think about us.
     
+- WHY PEOPLE CRAVE NEW OPPORTUNITIES
+
+  So now you know why improvement offers don’t work. Here are a few reasons why new opportunities DO work.
+  - 1. New discovery When people discover your new opportunity for the first time, they’re going to want to share it because sharing something new gives them an immediate increase in status
+  - 2. No pain of disconnect Because they don’t have to admit they made bad decisions in the past, there is no longer a huge pain of disconnect from what they are currently doing. No pain of disconnect = no decrease in status.
+  - 3. Dream replacement One reason many people struggle to make the changes they want and need in their lives is the fear of failure. If they try to change and it doesn’t work for them, then their dreams are dead. So they will give up potential success for fear of losing their dreams. We know that “without a vision, the people perish”. When you make a new opportunity, you’re giving them a new dream to move toward.
+  - 4. Greener pastures We’ve all heard a million times that “the grass is always greener on the other side of the fence”, right? Instead of trying to convince people that their grass is green or offering to fix their grass, allow them to follow you to the other side of the fence.
+  
+  CREATING THE NEW OPPORTUNITY, THEIR VEHICLE FOR CHANGE
+
+  While there are lots of ways to structure improvement offers, there are only two ways to position a new opportunity, either as an Opportunity Switch or an Opportunity Stack.
+  
+  Opportunity Switching Each of our prospects has a desire for some result, and they have been trying to get that result through some vehicle. Maybe they are trying to lose weight, and the vehicle they have currently chosen to lose weight is the Atkins diet. So my opportunity switch is to take them out of the vehicle they’re currently using and put them into a new one. So in this example I could switch them from Atkins to something new, like the Paleo diet. If the Paleo diet has become a red ocean with lots of people teaching it, then it is no longer a new opportunity, and I need to create my own sub-niche like we discussed in Secret #1.
+  
+  Other times it’s actually switching them from one submarket to another. For example, maybe they are moving from making an income in real estate, to making their income through internet marketing.
+
+  Opportunity Stacking After someone has made the switch into your new opportunity, then all future sales to that prospect are typically an opportunity stack, not an improvement offer. I don’t want to switch my prospects from opportunity to opportunity because it will cause confusion and break trust. But I can offer them an opportunity stack within the new opportunity that they have just joined.
+  
+  I am trying to switch the career paths that you’ve been following up to this point (your current job, school, real estate, stock markets, or other ways to generate wealth). My goal is to help you see this new opportunity of becoming an expert and having a mass following who will pay you for your advice, and if I do my job right, you will make that switch into a career as an expert.
+  
+  After you’ve decided to make that opportunity switch, then I will look for the other new opportunities within this opportunity that I can offer that will help to serve you at a higher level. 
+  
+  Some people never hear about this book, but they do find out about ClickFunnels or my certification program. When that’s the case, that offer becomes the opportunity switch.
 
 ### The Opportunity Switch
 
+- So far, we’ve discussed the strategy for building a strong foundation so you can
+become a leader people will follow. You’ve chosen a niche you want to create. Notice that I didn’t say “pick a niche”. It’s essential for you to create a NEW niche, a NEW opportunity for your people.
+  
+  In the beginning stages of your expert career, you won’t be good—and that’s okay. As my good friend, Garret White, once said: No matter what you do, in the beginning it’s going to suck, because you suck. But you’ll get better, and you’ll suck less. And as you keep doing this, eventually you’ll suck so little...you’ll actually be good. But you can’t get good unless you start NOW.
+  - 1. What is the RESULT you want for your people?
+  - 2. What is the VEHICLE or process you are going to take them through to get that result?
+  
+  Once you know those two things on a basic level, you can move forward and design the perfect vehicle that your audience will love.
+  
+  STEP #1: GET EARLY RESULTS BY WORKING FOR FREE
+  
+  So Alec spent a couple of hours folding clothes and sweeping up, just
+generally helping out. When he was done, he said, “Thanks so much,” and he left. Everyone at the store was kind of confused, but they were grateful for the helping hand.
+
+  The next day, Alec came back to the store and started folding clothes again. He spent another two or three hours helping these guys out. Then when he was done at the end of the day, he thanked everybody and started walking out. The manager stopped him and asked, “Do you want a job?” My friend smiled and said, “Sure, I’d love one.” And they hired him on the spot.
+
+  This is a perfect example of working for free to get a result. Alec could have tried to sell himself to the manager, but instead he proved his worth first. And he got hired in less time than it would have taken to fill out an application and wade through the interview process.
+
+  The goal with this or any kind of business is not to lead with “How can I sell my product?” Instead, you want to ask, “How can I serve people? How can I prove my stuff works? How can I get results for somebody else?” Those results are going to sell your products and services.
+  
+  STEP #2: DESIGN THE VEHICLE (YOUR NEW OPPORTUNITY)
+  
+  The next questions are where do you find people to serve, and what should you create to teach them?  This process gets the results that you can then build an empire on. You’re going to deliver a six-week opportunity switch masterclass. I’ve found that six weeks is the optimum amount of time. Any less than that, and you run the risk of people wanting refunds Any longer than that, and people will start complaining because they feel like it’s never going to end.
+  
+  I know we’re not selling anything yet, but this beta masterclass will become the core curriculum for the people who will be paying you soon, so it’s important to set it up in the same way that others will experience it in the future.
+The next step is to begin building some of the marketing materials for the class. I know that seems backward. Most people design the class first and then think about marketing, but that is a formula for disaster.
+
+  Who / What Statement As a first step, I like to make a Who / What statement that quickly addresses which submarket my message is for, and what new opportunity they will be switching to “I am going to teach real estate investors how to make money flipping houses on eBay.”
+  
+  The Opportunity Switch Headline Now that you know the WHO and WHAT, you need to give the class a sexy title that will attract your dream customers. How to [result they desire most] Without [thing they fear most]
+  
+  The 5 Curiosity Hooks / Getting Out of The Red Ocean Okay, you’ve written down WHO you’re going to serve and WHAT the vehicle is. Next you need to make that new opportunity as sexy and exciting as possible. You have to figure out the big idea that will draw people to you. Why would they shift from the current vehicle they’re in to yours? They will switch if you position your opportunity so people will believe—and buy.
+  
+  A while back, one of my friends named Jason Fladlien taught me a concept
+called the five curiosity hooks. These are just different ways to present an opportunity.
+
+  1. Little-Known, Big Differences This hook shows people something they aren’t aware of and how knowing it could make all the difference between success and failure.
+  
+  2. Well Known, Little Understood Here is where you take something that everyone THINKS they know about, and show how they’re actually sabotaging their success because they’re missing little nuances or details.
+  
+  3. This Changes Everything With this hook, something new has just
+happened in your submarket. It’s related to the problem your audience wants to solve, and letting them know that if they aren’t aware of it, they’re at risk of missing out big-time.
+
+  4. The Crystal Ball Theory This angle shows how something that’s been done successfully in the past is about to be made obsolete. You’re persuading them that soon this will be common knowledge, but they can get in now and have early success.
+  
+  5. Revisiting the Fundamentals This hook takes the approach that things are getting way too complicated, advanced, or sophisticated for the average person. Your new opportunity, on the other hand, takes things back to basics.
+  
+  Those are the five curiosity hooks. You’ll probably notice that each one is speaking AGAINST a current red-ocean tactic that currently exists in the marketplace.
+  
+  STEP #3: GIVE THEM WHAT THEY WANT (THE ASK CAMPAIGN)
+  
+  At this point, it’s important to remember that people don’t buy what they need, they buy what they want. All too often we create a new opportunity giving people exactly what they need, a vehicle that is capable of getting them to their end result. But when they get into the vehicle, they don’t see what they actually WANTED, like air conditioning, leather seats, radio options, etc. Because of that, they will leave before they ever give you a chance to take them to the result they really desire.
+  
+  You accomplish this by running a simple one-question survey we call an “Ask Campaign”. The Ask Campaign is based on a simple three-step formula. This technique is SO simple, but don’t skip it because of its simplicity. It’s one of the most important steps.
+  - 1. Find a hot market.
+  - 2. Ask them what they want.
+  - 3. Give it to them.
+  
+  Because we’re the experts in our respective niches, it’s easy to assume we know what people want. And while sometimes we may be right, more often we miss the mark. (Probably because we are so close to our own ideas.)
+  
+  It sounds strange, but that’s where I start every time I’m creating a brand-new niche. I post it on Facebook. I text my friends and family members. I try to get everyone I know to come to my very first masterclass. That’s the low-hanging fruit.
+  
+  Using the survey data Run traffic to the Ask Campaign page until you have about 100 responses. Out of those 100, you’re going to find 8 to 10 core questions people are asking over and over. Those questions will become the titles of the modules in your masterclass. After you have the questions and the outline, there’s one more step that.
+  
+  STEP #4: DELIVER YOUR FREE MASTERCLASS
+  
+  To make running your first masterclass simple, you really only need two tools— a Facebook group and Facebook Live (both free!). Set up a private Facebook group so your beta members can interact with each other. A group allows you to post content, give class updates, provide accountability, and deliver any bonuses.
+  
+  After you’ve completed your masterclass and have some great results that prove what you can do for people. That’s the goal from this first section. The results you get from this beta group will become the fuel that grows your expert business.
+  
 ## Creating Belief
+
+- The longer I work in this business, the more I realize how everything comes down to one thing—belief. Belief creates the customer. Belief creates the results. You must persuade people to believe in what you are doing, and you do that by mastering the art of storytelling
 
 ### The Big Domino
 ### The Epiphany Bridge
