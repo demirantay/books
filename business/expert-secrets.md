@@ -369,7 +369,59 @@ But sometimes you have to talk about complex ideas. So how do you take a complic
    By explaining how I felt, you almost instantly will feel something similar. When I tell a story this way, I am controlling the state of the person listening.
 
 ### The Hero Two Journey
+
+- I want to walk you through what I learned from The Hero’s 2 Journeys. It will give you context for what a good story needs to be, and will help you craft your Epiphany Bridge stories.
+
+  Good stories are really simple. There can be layers of complexity, but at the core they are all very simple. Depending on the complexities I share, I can tell the same story in 60 seconds or 60 minutes—all with the same desired effect.
+Every good story is built on three foundational elements (Character, Desire and Conflict), also known as “the plot.”
+
+  Once upon a time, there was a girl named Red Riding Hood. She wanted to take a basket of cookies to her grandma, who lived in the woods. What she didn’t know was that the big, bad wolf was waiting to gobble her up.
+  - Character: Red Riding Hood , Desire: Take a basket of cookies to her grandma, Conflict: big, bad wolf
+  
+  Michael explained, “Every good story is about a captivating character who is pursuing some compelling desire and who faces seemingly insurmountable obstacles to achieving it. 
+  
+  Your Plot Statement The first Epiphany Bridge story you will tell is the one that got you excited about your new opportunity in the first place. You are the character, so that step is easy. But what desire started you on your journey? What did you want to achieve? Write it down. Next, what was the conflict you experienced along the way? Write it down. Boom! You’ve got a plot.
+  
+  - 1 - Build rapport with the hero: (Make the character a victim of some outside force, so we want to root for them., Put the character in jeopardy, so we worry about them., Make the character likable, so we want to be with them., Make the character funny, so we connect with them., Make the character powerful, so we want to be like them.) Sharing flaws is critical to gaining rapport. No one cares about Superman until we introduce kryptonite.
+  - 2 - Introduce the desire for something more. (Every story is about a journey either toward pleasure or away from pain.  There are four core desires that drive most heroes. Two of them move the hero toward pleasure, and two move away from pain.)
+  
+    Toward Pleasure (To Win The hero may be trying to win the heart of someone they love, or they may want to win fame, money, a competition, or prestige., To Retrieve The hero wants to obtain something and bring it back.)
+
+    Away From Pain (To Escape The hero desires to get away from something that’s upsetting or causing pain., To Stop The hero wants to stop some bad thing from happening.)
+
+    But in all good stories, the hero is actually on two journeys—the one that everyone sees (The Journey of Achievement), and one that’s hidden (The Journey of Transformation). The second journey may not be as obvious, yet it’s the key to the whole story.
+
+    The Journey of Achievement -- This is the first journey, the one that everyone listening to the story is aware of. There’s a visible goal with a finish line that everyone can see. While this journey is what drives the story forward, it’s the second journey that actually matters the most. In fact, in many stories, the hero never actually achieves his end desire. 
+
+    The Journey of Transformation -- During the first 10% of the story, we learn about the character and the beliefs they have that make up their identity. A particular identity is very important to the hero at the beginning of the story, but along the way they become someone else, someone better.
+   - 3 - Introduce the conflict. (Desire is essential to the story because it shows the end goal. It provides a reason for the journey to move forward. But emotion doesn’t come from the desire. It comes from the conflict the hero faces while trying to gain the desire.) There are five turning points that create the emotion in almost all films.
+   
+    1) The New Opportunity After you share the character’s backstory, some event causes the character to physically leave where they are and start the journey.
+    
+    2) Change of Plans At some point, the original desire will transform into a very specific, visible goal with a clearly defined end point. This is where the hero’s outer motivation is revealed.
+    
+    3) Point of No Return At this point, the hero must fully commit to reaching the goal. Up to this point, they’ve had opportunities to turn back. But something happens here that makes this a do-or- die situation. It’s no longer a should; it’s a must.
+    
+    4) The Major Setback Something happens to the hero, and we believe that all is lost. This event initially leaves the hero with no chance of success, but then we see a small glimmer of light. The hero has only one option. He has to take one last all-or-nothing shot at the desire.
+    
+    5) The Climax Now our hero must face the biggest obstacle of the entire story and determine their own fate. The journey of achievement will be resolved once and for all, and the journey of transformation will be revealed. Then we move into the aftermath of the story—the hero’s new life is revealed, and the journey is complete.
+
 ### The Epiphany Bridge Script
+
+- The Epiphany Bridge script follows a similar path as the hero’s two journeys, but I built it in a way that makes telling your stories very simple. You’ll be telling a lot of stories, so mastering this script will become one of the most important things you could ever do.
+
+  An Epiphany Bridge story has eight core sections that pull you through the hero’s two journeys. I have a question that goes with each section, and answering each question actually creates the story for me. 
+  - 1. The Backstory: What is your backstory that gives us a vested interest in your journey?
+  - 2. Your Desires: What is it you want to accomplish? (a. External: What is the external struggle you are dealing with?, b. Internal: What is the internal struggle you are dealing with?)
+  - 3. The Wall: What was the wall or problem you hit within your current opportunity that started you on this new journey?
+  - 4. The Epiphany: What was the epiphany you experienced and new opportunity you discovered?
+  - 5. The Plan: What was the plan you created to achieve your desire?
+  - 6. The Conflict: What conflict did you experience along the way?
+  - 7. The Achievement: What was your end result?
+  - 8. The Transformation: What was the transformation you experienced?
+  
+  For many of you, that outline and those questions will be enough to give you the framework to tell any story.
+
 ### False Belief Patterns
 ### The 3 Secrets
 
