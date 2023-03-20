@@ -14,6 +14,8 @@ Table of Contents
 - [Creating Belief](#creating-belief)
   - [The Big Domino](#the-big-domino)
   - [The Epiphany Bridge](#the-epiphany-bridge)
+  - [The Hero Two Journey](#the-hero-two-journey)
+  - [The Epiphany Bridge Script](#the-epiphany-bridge-script)
   - [False Belief Patterns](#false-belief-patterns)
   - [The 3 Secrets](#the-3-secrets)
 - [Your Moral Obligation](#your-moral-obligation)
@@ -311,7 +313,63 @@ happened in your submarket. It’s related to the problem your audience wants to
 - The longer I work in this business, the more I realize how everything comes down to one thing—belief. Belief creates the customer. Belief creates the results. You must persuade people to believe in what you are doing, and you do that by mastering the art of storytelling
 
 ### The Big Domino
+
+- Perry Belcher. He told me how he had gone back and analyzed all the different offers that his companies had created and sold over the past 10 years.
+He discovered that the more things they asked someone to believe in their sales pitch, the worse the offer converted. In fact, he figured out that if they tried to make more than ONE point or ask someone to focus on more than ONE thing in a sales message, conversion rates dropped by half! He then said, “Look at how many things a prospect has to believe in order to buy what you’re selling. If it’s more than one, you need to rework your sales presentation.”
+
+  If A then B:
+  
+  We see this happening everywhere around us from politics to sports to the people we spend time with. That’s why it’s hard to have an argument with someone about something they truly believe in. When that seed of belief is there, it doesn’t matter how much you try to convince them otherwise, it has already knocked down all the other smaller dominos that you’re trying to stack back up.
+  
+  The One Thing, aka The Big Domino Statement
+  
+  If I can make people believe that (my new opportunity) is are key to (what they desire most) and is are only attainable through (my specific vehicle), then all other objections and concerns become irrelevant and they have to give me money.
+
 ### The Epiphany Bridge
+
+- So what is an Epiphany Bridge? It’s simply a story that takes people through the emotional experience that got YOU excited about the new opportunity you’re presenting to them. The first time I learned about funnels, I had an epiphany. We’re having these little “aha” moments all the time.
+
+  The first time you discovered your expert topic, SOMETHING happened that excited you. You had an emotional response that sold you on this new opportunity. Do you remember what the experience was? Do you remember how you felt?
+  
+  That first “aha” moment created so much excitement for you that you started on a journey where you studied everything you could find about the topic. You started geeking out and going deep into the subject, learning all the terminology and understanding the science and technical aspects behind why it worked, and then you became logically sold on the new opportunity.
+  
+  Now at this point you’ve had an emotional connection with the new opportunity as well as a logical connection.
+  
+  But unfortunately for you, the first thing you try to do is logically convince everyone you know about this new idea.
+  
+  The problem is that you started to speak a language we call “technobabble”.
+  
+  We talk about how we’re “leading the industry” with “ground-breaking” products. We share industry numbers and jargon.
+But all the logical stuff that strengthened our own beliefs in the new opportunity will not help people buy unless they’ve ALREADY HAD THE SAME INITIAL EMOTIONAL EPIPHANY that you had. All the logic, features, and benefits you give people before the epiphany will just annoy them. It’s frustrating and often completely offensive. There’s a time and a place for logic, but you have to convince them emotionally first, before they’ll be excited by your logic. 
+
+  If you think about it, there’s a status consideration on BOTH sides of this equation. I’m emotionally attached to the status that the new Ferrari will give me, but then I need to justify it logically to my friends and family so I don’t lose status in their minds.
+  
+  Logic doesn’t sell. Emotions sell.
+  
+  That story—your Epiphany Bridge story—provides the emotional connection, and bridges the gap from the emotional to the logical side.
+If you can tell a story about how you got your big “aha”, and if you structure the story right, they will have the same epiphany and will sell themselves on your product or service.
+
+  I want you to think back to the original experience that gave you your first epiphany, that brought you on this journey. Do you remember what happened? What was happening around you? How did you feel? It’s important to remember those details, because they are the key to telling a good story.
+  
+- EFFECTIVE STORYTELLING
+
+  The first key to telling captivating stories is oversimplification. When you’re telling stories, you need to speak at about a third-grade level. Many of you will struggle with this because you like to use big words and show off your vocabulary and try to sound sophisticated and smart. There may be a time and a place for that, but it’s not when you’re telling stories.
+  
+  Using big words may make you feel smarter, but it will not influence others.
+But sometimes you have to talk about complex ideas. So how do you take a complicated idea and simplify it quickly? You do this using a tool I created called a “kinda like” bridge. Every time I run into a word or a concept that is past a third-grade level, I stop and think about how I can relate that concept to something they already know and understand
+
+  I take this new concept or word that people may not understand and add the phrase “it’s kinda like...” to the sentence. I’m connecting the new word or concept to something they already understand.
+  
+  HOW DOES IT FEEL?
+  
+  The next way to improve your storytelling is to add in feelings and emotions.
+  
+   If you look at a good fiction author, they’ll have the character come into a room, then spend several pages describing the room. They talk about the lights, how things looked and felt, and everything they need to set up the scene. Then they go deep into how the character is feeling. And that is the key. You have to explain how you feel, and when you do that, people will start to feel what you were feeling.
+   
+   By explaining how I felt, you almost instantly will feel something similar. When I tell a story this way, I am controlling the state of the person listening.
+
+### The Hero Two Journey
+### The Epiphany Bridge Script
 ### False Belief Patterns
 ### The 3 Secrets
 
