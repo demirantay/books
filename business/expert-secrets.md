@@ -423,15 +423,210 @@ Every good story is built on three foundational elements (Character, Desire and 
   For many of you, that outline and those questions will be enough to give you the framework to tell any story.
 
 ### False Belief Patterns
+
+- We all create belief systems that support our decisions. We create these beliefs to keep us safe and to safeguard our status. And while they’ve been developed to protect us, oftentimes they’re also the things that keep us from progressing in our lives.
+When I’m trying to sell someone on my new opportunity, almost instantly their subconscious mind will start thinking about all the reasons it isn’t possible, or why it won’t work for them.
+
+  The good news is that when you know what those false belief patterns are, and you understand the experiences and the stories that your prospects have created in their minds, you can actually use Epiphany Bridge stories to replace their old stories—break their false beliefs—and create new ones.
+  
+  Step #1 What “false chains of belief” might your potential customer have about your new opportunity?
+  
+  Step #2 Now that you have the false belief, the next step is to figure out what experience they had in their lives that caused the false beliefs.
+  
+  Step #3 What is the false story they are telling themselves now that’s creating doubt about your new opportunity?
+  
+  Step #4 Now it’s your job to find an Epiphany Bridge story (usually in your own life, but it can also work if you share someone else’s story) that shows how you once had a similar belief, but because of this new story, you now have a new belief pattern, and that the old story you were telling yourself was wrong.
+  
+  Isn’t that exciting? When I first started to understand this concept, I realized that stories are the keys to belief.
+  
+- Step #1 List all the false beliefs your customers might have related to your new opportunity.
+
+  Step #2 What experiences might have caused those false beliefs? List an experience for each false belief on your list.
+
+  Step #3 What stories are they telling themselves now because of those experiences?
+  
+  Step #4 Think about your own Epiphany Bridge story for each of those
+false beliefs.
+
 ### The 3 Secrets
+
+- In a perfect world, One good epiphany story and they’re all in. Many times, though, once you change that big belief for them, they immediately start coming up with other concerns. This is especially true with more expensive opportunities and big life changes. I’ve found that there are three core beliefs that come to the surface and keep someone from buying, even if they believe the new opportunity is right for them.
+  - 1. The Vehicle: other false beliefs they may have about the vehicle or new opportunity you’re presenting
+  - 2. Internal Beliefs: beliefs about their own abilities to execute on the new opportunity
+  - 3. External Beliefs: false beliefs they have about outside forces that could keep them from success; things beyond the individual’s control, such as time or the economy
+
+  When all three of the core false beliefs have been knocked down, the Big Domino tumbles. When that happens, you have introduced the belief necessary for them to take action. It’s all about breaking the false belief patterns holding your prospects back and rebuilding true beliefs.
 
 ## Your Moral Obligation
 
 ### The Stack Slide
+
+- Before I ever start selling anything, my first step is to create an irresistible
+offer. This is the product I am selling at the end of my presentation. I do that with something I call the “stack slide”.
+
+  To start this process, I normally stand in front of a white board and write down everything I could create for my dream customer to get them their desired result. I spend a few hours brainstorming everything I can think up—from providing a cool template to speed up their success to flying to their house and helping them in person! After my initial brain dump, I sit down and create the stack slide.
+  
+  Every item on the stack slide has a value attached to it. The goal is to show that you’re giving 10 times as much value as you’re asking for in price. So if you’re selling a $97 product, you want the stack slide to add up to at least $997, preferably more. If you’re selling a product for $997, then the value needs to be at least $9,997.
+  
+  Some people get concerned about assigning a value to each of the offer components. Think of it not as the value you’d sell it for, but the value they get from it. Over the years, I’ve developed six types of elements that work best in my offers.
+  
+  Element #1: The Opportunity Switch Masterclass The first thing to include on your stack slide is the actual system that teaches them the new opportunity.
+  
+  Element #2: The Tools As someone participates in your masterclass, what are some tools you can give them to make the process easier for them and help them succeed? A tool can be something complex, such as software (one of the best tools), or something more simple, such as a template they need to fill in or checklists to follow.
+  
+  Element #3: Tangible #1 (Related to the Vehicle) You’ll get deeper into false belief patterns in the next secret, but ask yourself this question: What false beliefs do your customers have about the vehicle / new opportunity that you’re presenting to them? What would keep them from believing that this vehicle is right for them? What tangible thing can you create to help them change their belief?
+  
+  Element #4: Tangible #2 (Related to Their Internal Struggle) Once they believe the vehicle is right for them, what beliefs do they have about THEMSELVES that make them think they can’t succeed? So you need to create something specific to help them overcome these false beliefs about themselves. What tangible can you create that will help them overcome this internal struggle?
+  
+  Element #5: Tangible #3 (Related to an External Struggle) This is usually the last thing holding someone back from getting results. They believe that the vehicle is right, they believe they can do it, but there is still some outside force that might make it difficult for them to succeed. This outside force might be a bad economy, lack of time, or something else outside their direct control.
+  
+  Element #6: Exclusive Bonus Finally, we need to create something that will cause urgency and scarcity. In my ClickFunnels presentation, I offer an upgraded account for those who sign up before a certain deadline. In my high- ticket secrets course, I give the first 10 people a consult call with one of my sales guys.
+
 ### The Perfect Webinar
+
+- Ihesitated to call this secret the “Perfect Webinar” because I don’t want you to
+think this script only works for webinars. It was initially created for webinars under that name. But since then, we’ve successfully used it for video sales letters, teleseminars, webinars, stage presentations, email sequences, and more. It should probably be titled the “Perfect Presentation”, but our community has adopted the name the “Perfect Webinar”
+
+  while it may seem like we’re doing a lot in this script, there is just one goal.
+  
+  Get them to believe One Thing.
+That’s it. If you ask someone to believe in more than one thing, your sales will suffer.
+
+  The idea is to have a single point of belief that your message is built around and is emphasized over and over and over again from a variety of different angles.
+
+  The whole presentation is created to knock down that one domino,
+  
+  There are three major parts.
+  
+  Part 1: The Introduction / Building Rapport This is where you’ll welcome people to the presentation, build rapport, pique their curiosity,
+  
+  Part 2: The One Thing During this section, you’ll try to pique their curiosity, you’ll identify the Big Domino (the One Thing), and tell your first Epiphany Bridge story (your origin story)
+  
+  Part 3: The Three Secrets (Breaking and Rebuilding Belief Patterns)
+This is the content section of the presentation. You need to identify the false beliefs they have around the following:
+  - 1. The vehicle or new opportunity
+  - 2. Their ability to use the vehicle (internal beliefs)
+  - 3. The #1 thing they believe is keeping them from getting started (external beliefs)
+
+  so all you have to do is tell Epiphany Bridge stories that break their false belief systems and rebuild them
+  
+  Part 4: The Stack Here is where you move from the teaching to the sales portion of the presentation.
+  
+  You’ll then present your offer in a very precise format we call the stack, and you’ll weave in some very specific closes that have been proven to persuade people to take the action they need in order to get results
+  
 ### The One Thing
+
+- Typically, I create this either in PowerPoint or Keynote, so I’m going to teach the next few sessions slide by slide with an image to show the concept behind each one. If you’re doing a webinar, this graphic shows what you’d put on the slides. If you’re using this script as an email sequence or some other selling system, use the slides as a reminder of what you need to cover at each phase.
+  
+  THE INTRODUCTION AND THE ONE THING
+  
+  In a traditional webinar, this first part of the presentation should take 5 to 10 minutes.
+  - 1 - Title Slide -- The title slide is the first thing people will see when they log on to the webinar or watch the replay. The goal here is to encourage curiosity
+  - 2 - Intro / Rapport -- Earlier you learned about One Sentence Persuasion by Blair Warren.I like to cover this at the very beginning of my presentations as a way to build instant rapport with my audience. Here’s how we do it.
+    
+      Justify their failures. “Now I’m guessing for a lot of you this is probably not your first webinar. The first thing I want to mention is that if you’ve failed at __________ in the past, it’s not your fault.
+    
+      Allay their fears. “If you’ve been concerned in the past that you just can’t succeed with __________, I want to put those fears to rest.
+    
+      Throw rocks at their enemies. “The big corporations want you to think you need a lot of venture capital or some fancy college degree to be successful.
+    
+      Confirm suspicions. “If you’ve ever thought that the government and the banks actually want you to fail, you’re probably right. They don’t benefit from you succeeding.
+    
+      Encourage their dreams. “So that’s what we’re here for. I know you have a dream to change the world and make an impact
+  - 3 - The Ruler: Goal #1—The New Opportunity (Make It Inclusive) -- The next slide is what I call the “ruler.” It’s the measuring stick people will use to judge your webinar. So I like to tell people right away what my goals are, what I want them to get from the presentation. If they aren’t looking for a similar goal, they have the opportunity to leave at that point.
+The goal is always to help them to see that this new opportunity will give them their greatest desires, increase their status, and help them achieve their goals.
+  
+   My goal for this presentation is to help two types of people. For those who are beginners, you’ll get [what the presentation / new opportunity will do for them, or how it will fulfill their desires]. For more experienced people, you’ll get [alternative].
+  - 4 - The Ruler: Goal #2—The Big Domino -- This next slide is typically an extension of my goal, and it’s where I first show them the Big Domino. If I can make them believe that [new opportunity] is key to [what they desire most], and / but it is only attainable through [specific vehicle], then all other objections and concerns become obsolete.
+So this slide restates that sentence in the form of goals. Remember, they need to believe that your specific vehicle is the ONLY way to get what they desire most.
+  - 5 - Qualify Yourself -- Here is where you introduce yourself and let people know why they should listen to you. I’m not a big fan of bragging, but you need to make sure you have postured yourself in a way that they see you as an expert and an authority. Don’t get into the game of sharing every stat about yourself and reading a 10-page bio. 
+  - 6 - Epiphany Bridge Story #1 (Origin Story) -- This is where you transition into your backstory for your first Epiphany Bridge story. Tell your origin story, the series of events that first convinced you this new opportunity was the vehicle for you. This will be your first attempt to knock down the Big Domino.
+  - 7 - Liken Your Story to Them -- After you tell your epiphany story, some people will think, “That’s great, but it has nothing to do with me.” So next you need to make it relevant for them. The way you do that is to reframe it in some way that’s familiar to their situation.
+  - 8 - Case Study / Proof -- If you have a quick case study of someone you’ve worked with having success with this, or an example that helps them see how it will work for them, you would include that here.
+  - 9 - Transition to the 3 Secrets -- For many people, the initial story will get them excited, but objections and false beliefs will also start to pop up as soon as you introduce the new opportunity. This is where you transition to the content section of the webinar, where you will start breaking and rebuilding their false belief patterns. You already created the titles of these 3 Secrets, so you can plug them in here and introduce them to everyone.
+Here’s what we’re going to cover during the next 45 minutes or so.
+
 ### Breaking and Rebuilding Belief Patterns
+
+-  The teaching is what you do AFTER they have purchased. Teaching does not have a place in the webinar. It’s the surest way to kill sales. Remember, you are focusing on identifying their false belief patterns, breaking them, and rebuilding them with the truth.
+
+  I honestly believe that the greatest service you can provide for someone is getting them to buy something. The act of buying creates a commitment that causes them to actually take action.
+Dozens of my friends have come to my events as free guests, where someone sitting next to them had paid $25k to be in the same room. The strange thing is that so far none of those friends have ever actually launched successful businesses from the info they got at the event. None. Yet for those who paid to be in the room, our success rate is almost 100%.
+
+  But you need to understand that the type of teaching you are doing here is the foundation for change.
+I remember being frustrated the first time I did a presentation this way, but when I was done, two very distinct things happened. Instead of making just a few sales like I normally did, I made hundreds of sales. And second, 10 times more people than usual told me that the content changed their lives.
+It’s kind of funny. Even though I wasn’t “teaching” them, I was breaking beliefs that had held them back for years and giving them new, empowering beliefs. This is actually teaching in its most pure form,
+
+- 10 - State the Secret  -- Here you quickly state the first secret ... Then you transition immediately into the next slide by saying, “Now let me tell you a quick story...”
+- 11 - Share Your Epiphany Bridge -- Next, you will tell your second Epiphany Bridge story, which will kill the #1 false belief they have about the new opportunity you are presenting. This story will help the audience better understand the new opportunity. 
+- 12 - Show Other People’s Results -- The audience will immediately think, That’s great for Russell, but he’s like a superhero! So you show some results that ordinary people have gotten from your vehicle. The cool thing is it didn’t just work for me, it works for all kinds of people.
+- 13 - Break the Related Beliefs -- It’s time to break any other core beliefs they might have related to the vehicle. You’re probably thinking you need a lot of money to drive traffic, right? Well actually, you only need 100 clicks a day. So go back to your lists of false beliefs you created in Secret #9, find the ones associated with this secret, and quickly break those beliefs that may be holding your followers back. These stories are usually told in 30–60 seconds. Just mention the false belief and give a quick story or one or two sentences about why that belief is wrong and what the truth is.
+- 14 - Restate the New Belief as an Undeniable Truth -- Finally, you’re just going to restate the secret as an undeniable truth. The old belief pattern has been shattered, and you’ve installed a new one.
+- 15.–24 - Rinse and Repeat for Secrets #2 and #3 -- Once you’ve gone through these steps for the first secret, go back and repeat steps 10 through 14 for the other two secrets. That’s going to be the majority of your webinar content. You’re changing their world from I CAN’T to I CAN and I WILL. That’s the biggest gift you can give people—hope and belief in themselves. 
+- 25 - The Transition to Selling  -- As I start to move from the content section to the stack and closes, I use a few techniques to cement the new concepts into their minds and make a simple, non- stressful transition to the selling section of the presentation.
+
+  So let me ask you a question. If you followed what I showed you in Secret #1 and found a funnel that is already working, then you did what I showed you in Secret #2 and used ClickFunnels to build out a similar funnel in just 10 minutes, and then you used Secret #3 to get traffic from the SAME place your competitors are getting it from, do you think you could be successful?
+  
+  When you break it down like that so they can connect the dots, they have to say yes. If they’ve said yes to that question, that means all the internal beliefs have been knocked down, and the Big Domino has fallen.
+- 26 - The Question --  Now it’s time to start the actual sales section of the webinar. The hardest part of selling on a webinar for most people is transitioning into the close. They get nervous and shaky. He taught me that the best way to make that transition is to simply say:
+
+  Let me ask you a question...
+  
+  That’s the secret. It takes off all pressure and lets you make a seamless transition. I then ask them a few things. How many of you are excited about what we just talked about?!
+How many of you are feeling a little overwhelmed because we’ve covered so much?
+
+  Is it okay with you if I spend 10 minutes going over a very special offer I created to help you implement __________?
+  
+  Then I wait until they say yes or I see heads nodding. I want them to say yes first. Once you get permission, all the awkward feelings about selling disappear.
+  
+  Once you transition into your sales pitch, you’re going to use one of my favorite techniques—the stack.
+
 ### The Stack
+
+- I consider this my secret weapon. It’s worked so well and so consistently that I will never give a sales presentation again without it.
+The big idea is that the only thing prospects remember when you sell is the last thing you showed them. He explained that most sales presentations focus on the core offer, then a list of bonuses and a call to action. So all people remember is the last bonus mentioned. If they don’t think the last thing you offered is worth the price, they simply won’t buy.
+
+  The LAST thing you show them before you reveal the price is the full stack slide with the entire offer. When you present this way, the audience associates the price with the FULL OFFER, and not just the last thing you mentioned.
+  
+- 27 - What You’re Gonna Get... -- Here I usually show a digital image representing the course content. I explain that when they invest right away, they will get instant access to my masterclass.
+- 28 - Quick High-Level Recap of Deliverables -- A big mistake people make is going deep into each module explaining what will be covered each week. Don’t do that. It overwhelms and confuses your audience. Just give them a high-level look at each module. Go through this really quickly. It should only take about 30 seconds.
+- 29 - Show 3 Case Studies -- Here you will highlight the success stories from the beta group you ran earlier. Over time, you’ll add in other success stories as they happen.
+- 30 - Who This Works For (All-Inclusive) -- After you present the case studies, people often think: That’s great, but it won’t work for me. This is where you make a blanket statement about all the different people it works for.
+- 31 - Destroy the #1 Reason People Don’t Get Started -- Usually there’s a common reason people don’t get started right away. It’s the elephant in the room. Address it head on so they don’t keep thinking about it through the rest of your presentation.
+- 32 - Stack Slide #1 -- Reveal the first stack slide with the six-week masterclass on it. Be sure to include the value of the item on the slide. When you sign up, you’re going to get instant access to my six-week masterclass, a total value of $__________.
+- 33 - Introduce Element #2: The Tools -- It’s time to introduce the tools you created on your stack slide in Secret #11. I tell them that when they invest today, they will also receive this extra cool thing. Quickly review the tools they’re going to get. Don’t go too deep or you’ll overwhelm people.
+- 34 - You’ll Be Able To... / You’ll Be Able to Get Rid Of... -- I want them to realize that investing in this thing shouldn’t cost them any money, it should only save them money. So remind them what they are now able to do, but also what they will be able to get rid of. Hopefully the money they save will be more than what they are actually paying. That way, it’s a truly irresistible offer.
+- 35 - The Problem This Tool Solved for You -- When I was first figuring this stuff out, I ran into a big roadblock. I didn’t know how to __________. So I had to create __________ for myself.
+- 36 - How Much Time / Money This Tool Will Save Them -- Talk about all the time and money you had to spend to overcome that big roadblock that the tool saved you from. Maybe you had to spend a year developing email templates, or you had to hire expensive lawyers to draft just the right contracts. Then explain that they won’t have to because you’re just going include the tool for them.
+- 37 - Break Related Beliefs About the Tools -- As we’ve done in other sections, here I mention any false beliefs they may have about the tools or their abilities to use them, and I quickly break and rebuild those belief patterns.
+- 38 - Stack Slide #2 -- This is where the magic starts happening. Show the stack slide again with the masterclass on top and the tools on the second line.
+- 39 - Introduce Tangible By-Product #1 (Related to Secret #1) -- Here you introduce the next component of the offer they’ll receive when they invest. It’s the tangible by-product you identified previously.
+- 40 - Pain and Cost -- Here you talk again about the pain and cost you had to go through to create this first by-product.
+- 41 - Ease and Speed for Them -- Whatever the pain and cost was to you doesn’t matter, because the bonus is going to make it easier and faster for them to get results.
+- 42 - Break Related Beliefs -- As we’ve done in other sections, here I discuss any false beliefs they may have about the bonus or their abilities to use it. Then I quickly break and rebuild those belief patterns.
+- 43 - Stack Slide #3 -- Do you see how this works now? You mention an element, then add it to the stack. Mention another element and add it to the stack. Sometimes you may feel you’re getting repetitive, but that is the key. This is the KEY to success when selling to the masses.
+- 44.–53 - Introduce Your Other Two Tangible By-Products -- Repeat steps 39 through 43 for your second and third tangibles. Show the pain and costs you had to go through to create it, then show the ease and speed of use this will create for them. Break any false beliefs, then stack again.
+After you’ve done that for the second and third tangibles, you have your full stack slide.
+- 54 - Stack Slide #5 (The Big Stack) -- I call this the Big Stack slide, because it has the entire contents of your offer, including the value of each piece.
+- 55 - If / All Statements -- 55. If / All Statements
+- 59 - Price Reveal -- Here is the first time you reveal the actual price. Tell them the real price and give your first call to action (asking them to click on a button, go to a certain website, or call a phone number). Every slide after this will have a call to action link, so when they are ready, they can sign up.
+- 60 - Price Justification -- So we give the initial price, and some people will still have sticker shock. I need to let that price marinate for a while as I justify why it’s actually not that expensive.
+My first price justification is usually related to either showing them what the full price would be outside of the current presentation or comparing it to the price of other options for getting a similar result (apples vs. oranges).
+- 61 - You’ve Got 2 Choices -- So at this point you have two choices. Choice #1 is to do nothing. If you do nothing with the information you’ve learned over the last hour, what will you get? Nothing.
+Or you can choose to take a leap of faith. Just test it out to see if it will work for you.
+- 62 - Guarantee -- Then I reveal that it’s okay if it doesn’t work for them, because they’re covered with our 30-day money-back guarantee.
+- 64 - Stack Slide -- Next I show them the Big Stack slide one last time, with everything they’re going to get and the total value. I go through each element line by line one last time to cement the offer in their minds before my final pitch.
+- 65 - Urgency / Scarcity Bonus -- The two most valuable tools in marketing are urgency and scarcity. Here you’re going to add a bonus upgrade that’s only available right then. You can create urgency and scarcity by offering something special to a certain number of people, or for a certain amount of time (or both). Do not skip this part! It is the key to getting people to buy immediately. If they leave the webinar, the chances of them coming back and buying later are almost zero. In fact, I usually give a bonus only for those who are actually on live that I don’t offer to those who only watch the replays later.
+- 66 - Closing Call to Action / Q&A Slide -- This is the slide I end my presentation with, and it stays up during the entire question and answer session. There are a few key components to this slide.
+  -  Recap of the offer
+  -  Countdown clock for 30 minutes
+  -  Price
+  -  Call to action
+  Sometimes I’ll take questions live from the audience, and other times I’ll actually pre-write many of the questions I know people typically have. 
+And that is the stack. That single concept has made me more money than anything else I’ve ever done in this business. Study it. Master it. There is no greater gift I could give you than this.
+  
+
+
 ### Trial Closes
 
 ## The Funnels
