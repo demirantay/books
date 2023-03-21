@@ -625,14 +625,218 @@ Or you can choose to take a leap of faith. Just test it out to see if it will wo
   Sometimes I’ll take questions live from the audience, and other times I’ll actually pre-write many of the questions I know people typically have. 
 And that is the stack. That single concept has made me more money than anything else I’ve ever done in this business. Study it. Master it. There is no greater gift I could give you than this.
   
-
-
 ### Trial Closes
+
+- I use two types of closes in my presentations. . The first type, “trial closes”, I use
+almost every 60 seconds or less. The other I use throughout the stack. You’ll want to use both kinds in your presentations as well.
+
+  TRIAL CLOSES
+  
+  Years ago, I had heard rumors of a guy nicknamed “The Pied Piper of Real Estate”. His real name is Ted Thomas, and he is a real estate speaker famous for being so good at selling. 
+  
+  He said, “What I’ve been doing is a little technique I call trial closes.” I’ve been asking you dozens of little yes-or-no questions where the only answer is yes.
+  
+  I am constantly asking simple questions to get people to say yes over and over again, so when I ask them to give me money at the end, they’ve already told me yes hundreds of times before that.”
+  
+  I was sold. I wrote out simple trial closes on note cards and put them around my desk. As I worked through my various presentations, every time I’d see a card, I’d use that trial close. Here are some examples of trial closes that I’ve used dozens of times in each of my presentations.
+  -  Are you ready to get started?
+  -  Are you all getting this?
+  -  Is this making sense?
+  -  Can you imagine if that happened to you?
+  -  Who here wants a free copy of __________?
+  - Would you like to be our next case study?
+  - You’ve heard them talk about this before, right?
+  - Isn’t that cool?
+  - Isn’t that exciting?
+  - Am I right?
+
+  Get used to using lots of little statements that get your audience to think or say yes over and over again. The more you can get them to say yes, the more likely they will accept the epiphanies
+  
+- THE 16 CLOSES -- When you get to the end of the presentation and start the stack, there are lots of really good closes you can use. But I have 16 favorites that I use repeatedly. I don’t use all of them in all presentations, but I pick a handful of those that help strengthen my argument. or each close below, I will briefly explain the concept then show you how I would use that close in my own presentations.
+  - Money is Good: The goal is to get people to disassociate their fear about spending money with you. Money is a tool for exchange. You spend money to get something greater in return.
+  - Disposable Income: The goal is to help them realize that they are spending the disposable income on things that aren’t serving them well, and by spending that money on things that will help them grow, they will have long-term fulfillment. When you use the Disposable Income close, they get that they DO have the money to invest.’
+  - Money Replenishes: The goal for this close is to help people realize that while each month money comes back, time does not, and if they’re not careful, they will run out of time.
+  - Break Old Habits: The goal for this close is to help them realize that if they leave today without investing, nothing in their life will change.
+  - Information Alone: My goal for this close is to help them understand that, while they have gotten some awesome information, they can’t rely on information alone. They need coaching and accountability, too.
+  - Money or Excuses: The goal of this close is to get them to quit making excuses about why they can’t buy.
+  - Your Two Choices: The goal of this close is for them to understand why you are charging so much money, and to make sure they are okay with that.
+  - Their Two Choices: The goal for this close is to help them realize they are crazy if they don’t invest with you today.
+  - Us vs. Them The goal for this close is to call out people as either do-ers or dabblers.
+  - The Hand Hold: This close is where you actually walk them through the sign-up process.
+  - Say Goodbye: In this close I want to show them all the pain that will instantly disappear after they invest.
+  - Now & Later: In this close, I want to paint a picture of their life now compared to what it could become if they invest.
+  - Only Excuses: The goal of this close is to call out any excuses that might be keeping them back, and then diffuse them.
+  - Reluctant Hero: The goal of this close is to help them believe they can actually do it.
+  - If You Only Got: The goal of this close is to show them what they already got for free, and what they can possibly achieve when they invest with you.
+  - Close Close: This close is the final push to get them over the edge. I typically do this one several times during the question and answer section at the end of the webinar.
+    
+    There you go—16 closes you can use throughout the stack to help sell your offer. I like to use a close right before I introduce a new element in the stack. Sometimes I’ll even use two or three closes in between elements. They just flow naturally one into the other. At this point, you know how to deliver a Perfect Presentation.
 
 ## The Funnels
 
 ### The Perfect Webinar Model
+
+- For those who have been in this information business for a while, this next
+section will be counterintuitive. You will fight me on it, because in the past you’ve made money by creating an offer, selling it to your audience, then creating another product the next month to sell to those same people. When I tell you that you need to do the EXACT same webinar every week for the next 12 months (minimum), you’re going to think I’m crazy. Yet this model took my company from $0 to $10 million within 12 months, and then to $30 million just 12 months later.
+
+  For the first 10 years of my business, I focused on building a cult-ure of people who loved what I did. Then I stopped bringing in new people. I had my following and I would sell them something new each month. A percentage of the people would buy and the rest would say no. The only way I could make more money the following month was to create a new product and sell it to this same list of people. So we’d create a new product, launch it, get paid, then start all over again for the next month. This is how most experts run their businesses these days.
+For me, this was a horrible cycle, which forced me to create new things every month.
+
+  In other words, learn how to drive more traffic to the same webinar every week. This model is based on a live event schedule.
+   
+  I start my promotions on Monday and keep pushing hard until Thursday before the webinar. I send emails. I drive Facebook ads. I work with joint venture partners, and a whole bunch of other activities that drive traffic to my sign-up page. Whatever I can do to get people onto this live event, I do. When the webinar starts, I stop all promotion because the rest of the week is about converting those prospects into buyers.
+Every market is different, but I like to spend only $3–$5 per webinar
+registrant.
+
+  As your costs climb higher into the $7–$8 range, it becomes challenging to stay profitable on the front end. Your goals may be different, but this will give you an idea what to shoot for.
+  - $3 Per Registrant   1,000 Registrants Per Week ($3k Ad Spend)
+  - 25% Show-up Rate (250 People)
+  - 10% Close Rate @ $997 (25 Sales / $25k)
+  - Double Sales on Follow-Up Replays (Additional $25k)
+
+  With that formula, I’m putting $3,000 a week into ads and making back $50,000 a week in sales, while adding 1,000 new people to my list! Those are the goals each week.
+  
+  So each week I do a LIVE webinar selling people on my new opportunity. I spend Monday through Thursday morning promoting that webinar to get as many people as possible to show up on Thursday night. I present the webinar live on Thursday night and make my special offer. Then I show replays on Friday, Saturday, and Sunday. At midnight Sunday, I take down the offer for those who had registered. Then I start again on Monday filling my event for the upcoming Thursday. That’s it. That’s the whole model.
+  
+  Now I’m sure some of you saw that I’m spending over $3,000 per week on Facebook alone to get people into my webinar, and got a little nervous. Don’t worry about that now. When you are spending money, start with a lower ad budget at first. Run your webinar a few times to get the kinks out and know what conversion rates to expect. Then you can spend more money on ads because you’ll know what kind of return to expect.
+  
+  STEP 1: SEND TRAFFIC TO THE WEBINAR REGISTRATION PAGE.
+
+  The key to a high-converting webinar registration page is... CURIOSITY.
+That’s it. If your registration page isn’t converting well, it’s because you’re showing people too much and they assume they know the answer. If they think they know what you’re going to talk about, then they won’t register or show up.
+
+  The headline I showed you earlier, “How to __________ without __________”, is typically the key to getting people to register.
+  
+  The picture makes NO sense. When you look at it, you have no idea what it is or why I’m doing it. It arouses curiosity. Find a picture of you that’s kinda related to the topic but kinda strange to help increase your conversions dramatically. I do NOT recommend putting video on a webinar registration page. Rarely (if ever) will it beat a strange image
+  
+  The headline builds a TON of curiosity.
+  My Weird Niche Funnel That’s Currently Making Me $17,947 Per Day...And How You Can ETHICALLY Knock It Off In Less Than 10 Minutes!
+  This headline gives you a hint about the presentation, but it leaves SO many unanswered questions.
+  - What niche is it?
+  - Is it really possible to make $17,947 per day?
+  - Can you really ETHICALLY knock it off? How? • In just 10 minutes?
+
+   The page uses urgency and scarcity. Nothing gets people to act (register, show up, and buy) better than urgency and scarcity. These are your secret weapons—use them.
+   
+   STEP 2: SEND REGISTRANTS TO A THANK-YOU PAGE WITH A SELF-LIQUIDATING OFFER.
+   
+   After people register, we take them to a thank-you page where we give them the basic information for the webinar. On this page, I DO like to include a video, with me talking about why I’m so excited for the webinar. Remember, the registration page is about curiosity. The thank-you page is about your passion and excitement for what they are about to experience on the webinar. One of the biggest secrets about the thank-you page is that you can (and should) use it to sell people something! We call this a “self-liquidating offer” or SLO.
+   - 1. Self-liquidating offer means it liquidates your ad costs. That’s right—often you can completely cover your ad costs from the product you offer on your thank-you page. That means everything you sell on the webinar is pure profit!
+   - 2. If they buy something that complements what the webinar is about, they are more likely to show up live.
+   - 3. Buyers in motion tend to stay in motion, unless you do something to offend them. That means if they buy from you BEFORE the webinar, they are a lot more likely to buy from you ON the webinar.
+
+  I like my SLO offers to be lower ticket, usually $37–$47 or a free (or $1) trial to a membership site.
+  
+  STEP 3: SEND A SERIES OF INDOCTRINATION EMAILS.
+  
+  Between the time someone registers for the webinar to the time you deliver it live, there are about 10 million distractions that could keep them from showing up. If you’re not careful, the people you paid for with advertising won’t remember who you are by Thursday. So during the in-between time, I send registrants videos to help introduce them to my philosophy, get them excited about the webinar, and presell them. For me, each of the videos is preselling them on one of my 3 Secrets. Remember, each of the 3 Secrets is tied to a false belief pattern.
+  
+  Here’s the thing—the indoctrination sequence is NOT essential to the sale. It’s an amplifier. Oftentimes one of the indoctrination emails is the thing that gets them to watch a replay or to purchase after the webinar is over.
+  
+  STEP 4: SEND REMINDERS
+  
+  The reminders start on Wednesday. Just send quick emails and / or text messages that say something like: “Hey, don’t forget we’re talking about __________ LIVE tomorrow at __________.” People don’t always read every email, so I like to send one the day before we go live, one the morning of the webinar, one an hour or so before we start, another about 15 minutes before, then a final one that says, “We’re live—join us!”
+  
+  STEP 5: PRESENT THE WEBINAR LIVE
+  
+  The webinar should be about 90 minutes long. The first 60 minutes, you focus on breaking and rebuilding their false belief patterns. This is typically the hardest part for people to get right. They try to teach, they try to share cool stuff, and they don’t understand why they don’t get lots of sales. The core teaching is identifying their false belief patterns. If you do this right, the product will sell easily. The last 30 minutes is the pitch. When the 90 minutes is over, I usually spend the remaining 15–30 minutes for Q & A. The best time of day for your webinar depends a lot on your market. I like presenting my live webinars on GoToWebinar.com. Some of my friends use WebinarJam or other software. Typically, about 25% of the registrants show up on the webinar. If fewer than 25% attend, focus more on the indoctrination sequence, sending text message reminders before the webinar, emails one hour before the webinar, and again 15 minutes before.
+  
+  What will your close rate be? At first, it will probably be pretty low. When you get it to 10%, then (I believe) you have a million-dollar-a-year webinar.
+  
+  STEP 6: SEND FOLLOW-UPS AND CREATE LAST-MINUTE URGENCY.
+  
+  As soon as a webinar is over, we shift focus to the replay campaign. Some people get REALLY intense with their replay campaigns, but the basics are urgency and scarcity. That’s what gets people to take action. I usually DOUBLE my sales between the time I end the webinar and when we close down the offer Sunday at midnight.
+  
+  STEP 7: CLOSE THE CART
+  
+  Sunday at midnight, it’s time to close the cart. The offer is done, and the Buy buttons are deactivated. That’s it. You’ve completed your Perfect Webinar funnel.
+  
+  REPEAT
+  
+  Monday morning, you start all over again with Step 1: Driving Traffic. Each time you go through this process, you will improve. You’ll figure out different ways of presenting that get more people to buy. You’ll answer more questions. You’ll fine-tune your ad targeting. The point is to never stop after one try— ESPECIALLY if you had disappointing results.
+
+  What happens if you get great results from your first live webinar? Should you automate it and move on to something else? No! This is a huge mistake people make—automating too soon. I ran the Funnel Hacking webinar 60+ times before we finally decided to automate it.
+  
+  By the time we finally automated it, that presentation was as tight as it could be. We had every objection covered. We knew exactly how to get traffic. We had just the right follow-up sequences. And now it’s all down to the numbers. Because we spent so much time perfecting the webinar, we get predictable results from the automated version.
+
 ### The 4-Question Close High Ticket
+
+- The webinar process and the Perfect Webinar script you’ve just learned works
+really well for offers between $297 and $2,997. But when you’re selling more expensive offers, you need to add another step. Instead of just sending people to an order form, send them to a page where they fill out an application. Then get on the phone and interview them to see if they’d be a good fit for the program. This works for two reasons.
+  - Reason #1: It’s much easier to sell a $2,997–$100,000 program on the phone. That extra step helps people feel more comfortable paying the higher dollar amounts.
+  - Reason #2: At the higher-level programs, you are typically going to be working more closely with people. You can screen them to make sure you’ll enjoy working with them. If they aren’t a good fit, then don’t accept them into your programs.
+
+  THE 4-QUESTION CLOSE SCRIPT
+  
+  Even though this is called the 4-Question Close Script, it’s more like a 4-phase script. There are four primary questions, but you will be asking follow-up questions to dig deeper and get more complete answers. Before prospects get on the phone with you, they fill out an application form so you can pre-qualify them. Then you should have an assistant contact them to set up a 30-minute call. Once you’re on the call, most people will want to open with small talk. That invites them to ramble on and waste time. You don’t want that. You want to set yourself up as the one running the call right from the start.
+  
+  They should answer yes, or the call can end right there. You’re getting a micro-commitment here, a little yes right at the start. You’re also setting the ground rules so you can steer the conversation where you want it to go.
+  
+  You’re trying to get them to describe their external and internal goals here. You want to hear their true desires. If they can’t answer this question, you don’t want to work with them because you’ll never be able to satisfy them. No matter how much you accomplish—and no matter how much they pay you—if they can’t articulate their desires, then you won’t be able to make them a reality.
+  
+  Most likely, they’ll start by describing external desires. They want to make $10,000 a month. Or they want a boat or a fancy new house in a better school district. They want to lose weight or have a better relationship with their spouse.
+  
+  Question #1 -- Why do you want to make $10,000 a month? Why do you want that fancy new house? What’s so important about the school district you’re in?
+
+  Then they’ll start revealing the values and beliefs that are truly important to them. Maybe they want $10,000 a month to prove to their family that they’re a good provider. Or maybe they have a favorite charity they want to support in a big way. Maybe they want to be in a good school district because their kids aren’t being challenged where they are.
+  
+  You need to know those inner reasons WHY they want what they want. So keep digging until they reveal those deep emotional connections.
+At the end of the day, we all want the same things—respect, inclusion, and purpose.
+
+  Question #2 -- Clearly, you know what you want. You’ve painted a really great picture for me. So let me ask you this—why don’t you have it yet? What’s been standing in your way or holding you back?
+  
+  Here you’re looking for their obstacles and objections. If they don’t have what they want yet, there must be a reason. And you need to know whether you can help them with those obstacles or not. If they start blaming other people, you can’t help them. Listen for them to say things like “My spouse doesn’t support me”, or “I tried XYZ program and it didn’t work. That guy was useless.” If they’re blaming other people or outside circumstances for their failures, you really don’t want them as a client.
+  
+  You want people who will take responsibility for their own actions. So listen for some version of “I don’t know how.” Maybe they say, “I tried XYZ program, but I just didn’t understand the finer details. I need to take the time to master the process.” The key here is the word I. If they talk about themselves a lot, then chances are you can help them. If they don’t know how to do something and you can help them, you’re going to have a successful relationship.
+  
+  Question #3 -- I want you to think about what resources, connections, talents, or skills you have access to that you’re not currently utilizing 100%, that we could use to help overcome your obstacles and achieve your goals.
+
+  Whatever they come up with is good. Encourage them to keep thinking. Keep asking, “What else? What else?” until they run out of ideas. And last, it looks like you have all these resources you could leverage that you’re not leveraging yet, right? I then ask them, “How much more money do you think you’d make (or how much weight would you lose or how much better would your marriage be) if you were able to eliminate the obstacles and leverage those resources?”
+  
+  “Oh man, if I could do that, I’m pretty sure I could make a million dollars (or lose a ton of weight, be so much happier in my marriage) ...”  I then transition to the final question.
+  
+  Question #4 -- So I only have one more question. Do you want me to help you?
+  
+  Then I stop talking. I don’t say another word until they answer. Most of the time, they will say yes. Then all I have to do is say:
+  
+  Great! Here’s how it works. My fee is $__________. For that money, you get __________. I’m here to help you. I can transfer you over to my assistant to take care of the financial details right now. Would you like to do that?
+
+  If they say yes, you’re done. Usually the only reason they won’t agree at this point is because they don’t have the money. If that’s the case, you can offer a payment plan.
+  
 ### The Perfect Webinar Hack
+
+- CHEAT SHEET
+  - Question #1: What’s the new opportunity I’m offering?
+  - Question #2: What is the one Big Domino for this offer?
+  - Question #3: What special offer can I create for those who purchase?
+  - Question #4: What is my Epiphany Bridge origin story?
+  - Question #5: What are three false beliefs they have about this new opportunity (the 3 Secrets), and what Epiphany Bridge stories will I tell to break those false belief patterns?
+    - A. False Belief (Vehicle)
+    - B. Epiphany Bridge Story (Vehicle) C. False Belief (Internal)
+    - D. Epiphany Bridge Story (Internal) E. False Belief (External)
+    - F. Epiphany Bridge Story (External)
+
 ### Email Epiphany Funnels
+
+- One of my biggest breakthroughs happened when I realized that I could use
+this Perfect Webinar process in ALL areas of my marketing, including email
+
+  In fact, I wonder if I could do ALL the selling by email, and not even push them into attending a presentation. It seemed so crazy, I figured it just might work. So I took the Perfect Webinar and broke down the four core stories and the stack, added each into an email, and tested it out. The results were... well, they were amazing!
+  
+  There are a few different ways that we’ve successfully used this so far. The first was just writing out each story for the emails. The second way was making videos telling each of the stories, and then linking to the video inside of the emails. Honestly the way they receive the story matters less then following the actual story structure that you learned about earlier in this book.
+  
+  One of the keys to remember in soap opera sequence like this is that each email needs to pull people into the next story in the next email. Think about how good soap operas, reality shows and most shows on TV are able to pull you through the commercial breaks and week to week by getting you excited by what is about to happen, then cutting it off.
+
 ### Conclusion
+
+- If you’re wondering where you should start, this is what I’d recommend.
+  - 1. Become VERY clear about who you want to serve and what new opportunity you will create.
+  - 2. Get results for your beta group. Your results will become the foundation your expert business will grow from.
+  - 3. Become a master storyteller. This is the most important skill you can learn.
+  - 4. Change the world. Your message has the ability to change people’s lives, so use it.
+
+  Getting people to give you money is also one of the best ways you can hold them accountable to their goals. I struggled with my business for almost two years because I was so scared of investing in myself. I was never able to ask other people to invest in the products and services I created either. It wasn’t until I started making financial commitments with different coaches and mentors that I was finally able to become congruent. Because I was investing in myself, I was able to go out and ask others to invest in themselves with my products and services.
+  
+  I know selling may not be your favorite activity. But when people pay you, it gives them the transformation they need to change their lives. It’s a cool cycle that we have a chance to go through—you get to create something, test it out and, if it works, you get paid. The more you focus on that cycle, the more lives you will be able to change.
+  
+  PS: Remember, you’re just one funnel away...
