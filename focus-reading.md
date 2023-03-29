@@ -44,3 +44,46 @@
 - [ ] The Appearance Of Power | Tanner Guzy
 - [ ] The Way Of Men | Jack Donovan
 - [ ] Courage Is Calling | Ryan Holiday
+
+# Non-Fiction Musts
+
+- [ ] The Diary of a Young Girl 
+- [ ] Sapiens: A Brief History of Humankind
+- [ ] Educated 
+- [ ] Quiet: The Power of Introverts in a World That Can't Stop Talking
+- [ ] The Immortal Life of Henrietta Lacks 
+- [ ] Freakonomics: A Rogue Economist Explores the Hidden Side of Everything
+- [ ] Outliers: The Story of Success
+- [ ] Becoming - michelle obama
+- [ ] The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America
+- [ ] A Short History of Nearly Everything
+- [ ] Night
+- [ ] The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life
+- [ ] Born a Crime: Stories From a South African Childhood
+- [ ] Between the World and Me
+- [ ] The Tipping Point: How Little Things Can Make a Big Difference
+- [ ] Guns, Germs, and Steel: The Fates of Human Societies
+- [ ] Blink: The Power of Thinking Without Thinking
+- [ ] In Cold Blood
+- [ ] Man's Search for Meaning
+- [ ] Bossypants
+- [ ] Thinking, Fast and Slow
+- [ ] When Breath Becomes Air
+- [ ] Stiff: The Curious Lives of Human Cadavers
+- [ ] A Brief History of Time
+- [ ] The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
+- [ ] Into Thin Air: A Personal Account of the Mount Everest Disaster 
+- [ ] The Glass Castle
+- [ ] On Writing: A Memoir of the Craft
+- [ ] Unbroken: A World War II Story of Survival, Resilience and Redemption
+- [ ] Wild: From Lost to Found on the Pacific Crest Trail
+- [ ] The Power of Habit: Why We Do What We Do in Life and Business 
+- [ ] I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban
+- [ ] The Man Who Mistook His Wife for a Hat and Other Clinical Tales 
+- [ ] Eat, Pray, Love
+- [ ] The Art of War
+- [ ] Homo Deus: A History of Tomorrow
+- [ ] The Omnivore's Dilemma: A Natural History of Four Meals
+- [ ] I'm Glad My Mom Die
+- [ ] Astrophysics for People in a Hurry 
+
