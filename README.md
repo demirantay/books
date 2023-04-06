@@ -22,7 +22,7 @@
 
 - [DotCom Secrets](./business/dotcom.md)
 - [Expert Secrets](./business/expert-secrets.md)
-- [Video Essay - Time Calculator](./business/video-essay-minute.md)
+- [Traffic Secrets](./business/traffic-secrets.md)
 - [Cashflow Stages](./business/cashflow-stages.md)
 
 ## Science
