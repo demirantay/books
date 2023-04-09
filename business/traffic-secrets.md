@@ -471,15 +471,287 @@ relationships with those people until their product is ready.  I immediately sta
   
   Inside of this frame, I can talk about, share, and interview people on anything related to helping people sell more of the things that they believe in. In any case, how cool is it now, six years later, that I have documented the entire journey from business failure to growing ClickFunnels to being an over $100-million-per-year company?
   
+  Step #3) Testing your material: Publishing your show daily, as you’re documenting your journey, will give you a chance to start testing your material. You’ll discover what messages connect with people, which episodes get shared, and which ones don’t. You’ll see which messages get people to show up and comment and which messages don’t connect. It’s this very process of you showing up consistently and publishing that will help you to refine your message, find your voice, and attract your dream customers to you. It doesn’t matter if your end goal is a book, a webinar, a keynote presentation, a viral video, or something else, the more you publish and test your material, the clearer your message will become and the more people you will attract.
+  
+  Step #4) Introduction to Your Dream 100: When you start your show, typically you’ll use the first few episodes to tell your origin story, why you created the show, and what people should expect. These initial episodes are important because there will be people who find your show a week from now, some a year from now, and others won’t find it for years, but when they do, and when they get hooked, most people will go back to episode one and binge-listen (or read or watch) to catch up on what they missed. Even though these early episodes are old, they’ll still likely be a starting point for many people that fall in love with your content. After the initial episodes, it’s time to start using your show to infiltrate your Dream 100.
+  
+  Who are the people on your Dream 100 that have an interesting story they could tell that will relate to your show and have a following of people that you can promote their episode to? You have a platform that you can now leverage to get people on your show, and they have a network that you can advertise their episode to. It’s a huge win-win. In a perfect world, they would promote their episode to their entire following when it goes live (and that does happen at times), but even if they don’t promote, you can still buy ads targeting their audiences on Facebook, Instagram, YouTube, or wherever their following is.
+  
+  The reality is that many people you ask will say no, and that’s okay, because you don’t need everyone. You just need one: one guest that you can then leverage to get the others. Typically, most markets have a “good ol’ boys” club atmosphere, and usually a lot of your Dream 100 will be in one or more clubs. To infiltrate and get access to that club, you don’t need to get access to all of them; you just need to have one of the cool kids think you’re cool, and then you’re in.
+  
+  So your job now is to look at your Dream 100 and start asking them to be on your show. Many will say no, but don’t let that stop you. You only need one yes. As you have a chance to interview your Dream 100 on your podcast, you’ll be giving them a platform for which they’ll be grateful. You’ll be able to spend time building a relationship as you interview them on your show (digging your well before you’re thirsty), and you can tap into their audience to promote their episode, build your show, and get access to their followers.
 
 ## Fill Your Funnel
 
+- we’ll be shifting more into the tactics of how to fill your funnels with your dream customers on the following four advertising platforms:
+  - Instagram
+  - Facebook
+  - Youtube
+  - Google
+  
+  I could have gone deep into dozens of other platforms, including LinkedIn, Snapchat, Pinterest, TikTok, and Twitch, but I’m only exploring these four platforms in order to show you a framework and pattern that you can learn and use on any platform that you’d like to get traffic from in the future. Depending on when you’re reading this book, admittedly, some of these platforms may no longer be relevant, and there will likely be many to come that no one has even heard of yet.
+  
+  Showing you the strategy and tactics on one platform is the equivalent of “giving a man a fish,” and teaching you the framework to get traffic from every platform is the equivalent of “teaching a man how to fish.”
+  
+  THE “FILL YOUR FUNNEL” FRAMEWORK
+  
+  - Step #1—Understand the history and the goal of the new platform: If you want to know where the platform is going, you have to know where it came from. How did Google start? Where did Facebook come from? How did the algorithms change and, more importantly, why did they change? What was the purpose behind them? If you can understand why they made the changes, then you can start thinking like them. This is so important because by the time you are reading some of these chapters, the algorithms may have already shifted, so it’s essential that you understand the history so you can see where we are today. As you start getting a layout of each platform’s history, you’ll quickly start to see what their end goals are.
+  
+    Google wants to make sure that they give their users the best search results possible. Facebook wants to make sure you love the things that show up in your feed. Once you understand that creating the best user experience possible is their goal, then you can start asking yourself how you can align with their goals. The goal of spammers is always to hack the algorithm to get what they want, which always provides short-term gains, because as soon as the spammers are identified, the loopholes that they have been exploiting are taken away. Instead, if you align with the wills of the network and give them what they want, then they’ll give you what you want: tons of traffic.
+  
+  - Step #2—Find and model your Dream 100: The next question is, who on this platform has already figured this out? Who has already identified your dream customers, who is publishing to them, and who is getting rewarded by the platform by getting tons of views or likes
+    - Question #1: Who is your dream customer?
+    - Question #2: Where are they congregating?
+    - Question #3: Who are your Dream 100 on this platform who have already congregated your dream customers?
+    
+    so if you want to know what the platform wants today, in real time, then you have to be watching closely what they’re doing in real time. Here are the three things it will take to funnel hack social algorithms:
+    
+    Follow each of your Dream 100 and spend 10 minutes each day watching what they are doing. Write down the answers to these questions: What are they posting?, How are they getting people to engage with what they post?, What paid ads are they running?
+
+    During these 10 minutes, try to comment, like, and engage with as many things they are doing each day as possible.
+  
+    Notice the pattern of what is working right now and model it for your posts (funnel hacking). This will give you a pulse on what is working in the market on that platform right now. It gives you the ability to see in real time what the algorithms are rewarding today.
+    
+    Funnel hacking is not copying. Funnel hacking is modeling, and there is a big difference between copying and modeling. You’re looking for the types of things the platforms’ algorithms are currently rewarding that you can then model.
+    
+    When the pattern interrupt becomes the pattern, it stops being as effective. Notice that I didn’t say they stop working; they just become less effective. So if you are starting right now, and you see all of your Dream 100 doing something, you should still model what they’re doing. It may not be as effective as a new pattern interrupt, but it is the current pattern that is working, so that’s where you start. After you model the pattern that’s working, the next phase of funnel hacking the social algorithms is to look for and test ideas that will become the next pattern interrupt
+    
+    Following your Dream 100 lets you have your fingers on the pulse of what’s working currently in each platform. You can model ideas that they’re trying, come up with your own unique ideas, and test them both to see which ones stick. Because the algorithms are always changing, it’s essential that you network with and stay close to your Dream 100.
+  - Step #3—Identify the publishing strategy and create your publishing plan:
+  
+    Each platform has multiple ways that you can publish your content, so it’s essential to understand the strategy for each section and how you can weave it into your daily publishing schedule. For example, Instagram lets you do stories that are similar to a reality show, but you also have your profile, which is more like a picture gallery. Questions I would start asking myself are: “How often should you be doing Stories and what do you post on your profile, and how often?” There are a lot of possibilities, so you want to understand all the publishing opportunities on each platform, decide which you want to focus on, and figure out a plan to make it simple to consistently publish on your chosen platform.
+    
+  - Step #4—Work your way in:
+  
+    After I start publishing on each platform and I have content that my dream customers can see, I look for ways to work my way into the Dream 100. I start asking myself the question, how can I get organic, free exposure to the audiences of the people who have already congregated my dream customers, and then get these people to join my lists and become traffic that I own?
+
+  - Step #5—Buy your way in:
+  
+    While I’m working my way in, I want to stimulate growth as fast as possible. The best way is to buy ads targeting the followers of my Dream 100 and then get these people to join my lists and become traffic that I own.
+    
+  - Step #6—Fill your funnel:
+  
+    As you’re publishing, working your way in, and buying your way in, the goal is always to convert all the traffic and attention into traffic that you own. You do that by pushing people into your funnels where you can get their contact information, sell them your front-end products, and then push them through a follow-up funnel to ascend them up your value ladder.
+
 ### Fill Your Funnel Organically (Working Your Way In)
+
+- “Well, when you go to a party, do you just talk about what you do? ‘Hey, I’m Perry, and I sell stuff. Would you like to buy some stuff from me?’ No, of course not. If you did, you’d be the biggest jerk at the party. Everyone would avoid you. “Okay, then what do we talk about on the social networking sites? As an introvert, I’ve never really networked in real life, so I’m not sure how or what I should be saying.”
+
+  “You talk about what’s going on in your life,” Social networking is just a great big party.
+  
+  “The second part of the process is how I use my personal profile on each social platform,” Perry continued. “My personal profile is my house, it’s my home, it’s where I live. It has most of my thoughts, my information, and stuff that is interesting to me. They can see the things that I like to talk about.”
+  
+  “Now, this is how it works. When I go into groups and start networking, or I see someone else’s posts in my feed, I go and participate in the conversations and make friends. As they see me consistently show up, they will want to drop by my house and see what I’m all about. Give them some free stuff like chips and dip (free content) to get them to come to your house. Then when they’re at my house, that’s where I invite them to take action with me: register for my webinar, attend my next event, read my new book, or join my newsletter list. That’s how I invite people from my house into my funnels. Those selling conversations don’t have a place on social media, but they do at your house. You can direct people into your funnels from the posts you make on your own personal profile. If you provide value on the social platforms, people will come running to your house because they want more of you, and from there, they will flow into your funnels.”
+  
+   I changed my tactics, deleted all my posts that were trying to sell my products, and started serving, interacting, being entertaining, and having fun with my followers.
+   
+   I wanted to give you this context before we discussed any of the specific networks, because this is how we “work our way in.” It’s the core concept that you have to master if you want to have success with social media, no matter which platform you are focusing on. Those who just spam their message to their followers will always think that social media doesn’t work. Even if they do get some short-term results, they won’t last. On the other hand, those who play the longer game and plant seeds with their followers will end up with a constant stream of traffic flooding into their funnels.
+   
+   PRODUCER, NOT CONSUMER
+   
+   I’ll start by saying that yes, you are currently spending way too much time on social media. I don’t care who you are; you are probably already spending way too much time consuming social media. If you’re spending more than 10 minutes a day consuming social media, then you are wasting your time. The keyword here is “consuming.” As of today, you are no longer a consumer of social media. You are a producer of social media. There is a big difference.
+   
+   The first step in this process is to do a social media reset. That means unfriending and unfollowing almost everyone on every platform that you’ll be using to generate traffic. That way, you won’t be distracted by the nonsense that everyone around you is posting. From here on out, you’ll use social media as a business tool, not a social tool. After you unfriend everyone, I suggest only following your Dream 100 on each platform. That way, when you log in to any of the platforms, you’ll be able to quickly get a glimpse of what they’re posting and get ideas for things that are working well that you can model. Also, you will be able to start digging your well with these people by commenting on their posts and messaging them through direct messages.
+   
+   Now that your social feed has been cleaned up, go and look for the social parties that have the most people engaged in them. You wouldn’t go to a party that only has a few dozen people; instead you would look for the largest parties in town where you can get the most exposure for your efforts. Depending on the platform, you’ll be looking for the largest groups, podcasts, blogs, videos, and Fan Pages that you can go to and become the life of the party. As you participate in these groups and serve their audiences, the people will naturally start coming back to your home.
+   
+    I want to bring up the concept of producer versus consumer now so you will be able to look at everything that happens in the next few chapters through this lens. This way, you can focus on serving your audience, not wasting your precious time.
 
 ### Fill Your Funnel with Paid Ads (Buying Your Way In)
 
+- Adding paid ads into the strategies you’ve been learning about is like adding lighter fluid to a pile of charcoal. You will get results faster on any funnel you want to promote and be able to more predictably control sales over the long-term. As always, we’ll be staying away from the exact tactics that often change and focus instead on the overarching strategies that will help you to build out your paid traffic plan.
+
+  One thing John told me as we were mapping out this chapter was: “While it’s true that each advertising network has little intricacies and nuances that can take a while to get used to, and there are definitely tips and tricks that can incrementally improve your performance, the good news is that the strategy of advertising on these networks is the same. The specifics of the platforms can be learned with online tutorials, or they can be hired out, but the strategy needs to be understood by you (the entrepreneur) in order to succeed.”
+  
+- WHAT IS MY ADVERTISING BUDGET?
+
+  If they have a funnel that is break even or profitable, then they don’t have an advertising budget. Their goal is to spend as much money profitably as possible because each dollar they spend turns into more dollars. We’ll keep running ads for as long as it stays profitable.
+  
+  I never like putting very much of my money at risk at any given time, so with each new funnel, as soon as it’s live, we set up a few ads, give it a small test budget, and see what happens. The funnels that flop are sent back to the drawing board to get reworked, and the funnels that work are scaled to see how much money we can profitably spend.
+  
+  PROSPECTING ADS VS. RETARGETING ADS
+
+  John explained, “Prospecting ads are the act of reaching out into the networks to find cold traffic or people who aren’t familiar with you or your offers and hook them long enough to get their attention. After we’ve gotten their attention and gotten them to engage with us (engage could mean they watched, liked, or commented on an ad), then we move them from the ‘prospecting’ pool into the ‘retargeting’ buckets. We then advertise to these people differently and work to warm them up and then get them into our value ladder.”
+  
+  STEP #1: CREATE LOTS OF PROSPECTING ADS TO “HOOK” YOUR DREAM CUSTOMERS
+  
+  When you’re thinking about prospecting ads, you’re looking at a huge ocean of people—all who need your product or service but all who have a different reason why. If you try to create just one hook, it may last for a while and grab the people who are looking for that hook, but it will dry up very fast. The more creative you can put into the prospecting ocean, the more fish (dream customers) you’re going to be able to pull out.
+  
+  Targeting for Prospecting Ads
+  
+  The next step after you have made your creative is to figure out who to show it to. John explains:
+  
+  Dream 100: The best place to start is your Dream 100 list for that platform. When you’re running ads on Facebook and Instagram, you can target people who have an interest in a certain thought leader, brand, or celebrity. You’ll find many (but probably not all) of your Dream 100’s followers targetable this way in the Ads Manager. For YouTube, you can specify that you’d like your ads to show in front of your Dream 100’s videos both individually or their channel as a whole.
+  
+  Ideal customer avatar: Second on your targeting list is your ideal customer avatar. Think about their interests, their age, their career, their home life, and anything else you can identify. Most of these ad platforms will allow you to get pretty specific on who you show your ads to.
+  
+  Overlapping sections of multiple audiences: Some ad networks let you get more specific in targeting your audiences by layering on multiple criteria and then just targeting the overlapping sections. Think of three overlapping circles, each representing one of the audiences above and then imagine a center area where they all overlap. This center area represents the sweet spot where your dream customer is most likely to be. An example of this would be to not just target Tony Robbins’s followers in one campaign, business owners in another, and women between the ages of 35–55 in a third campaign. Being smart with your audiences and layering them can really help bring your costs down and improve your results.
+  
+  Algorithms: The last thing, and honestly where the networks are working toward, is for you to rely on the algorithms to do a lot of the legwork for you. The platform algorithms can work with that data and actually start lending a hand in your targeting efforts. In Google and YouTube, they’re called Similar Audiences, and in Facebook and Instagram, they’re called Lookalike Audiences. In both cases, you decide which bucket to use as the source, the algorithm then looks deep into who those people are, and then matches up others in your specified geographical range who are most similar to them (and thus more likely to care about what you have to offer).
+  
+  80/20 Rule for Prospecting
+  
+  One thing to note when running prospecting ads is that these types of ads are the most expensive, but they are vital for two reasons. First, it’s through prospecting that you find out who is actually responding to your ads so your targeting becomes more on point (which brings your costs down). Second, it’s prospecting that fills your retargeting buckets. If you stop prospecting, you’ll soon find yourself with no one to retarget to. When you put up your first ads, they’re almost always going to a colder audience, a group of people who don’t know you and don’t know what you have to offer. It will always be more expensive and less efficient to advertise to this crowd, but when you’re getting started, you have no other choice. Results will come slower with these prospecting efforts and costs to get a lead or a sale will be much higher (sometimes even so high that you’re losing money to begin with). In fact, don’t be surprised if you spend 80 percent of your advertising budget in this category and it only generates 20 percent of your results.
+  
+  But if you hold strong, there is a light at the end of this tunnel. You see, while one purpose of the prospecting campaigns is to generate some leads and sales upfront, the bigger purpose is to fill all your retargeting audiences (which include your social followings and lists). It’s from these new followers and retargeting audiences that you’ll often see 80 percent of your results while only using 20 percent of your budget.
+  
+- STEP #2: USE A RETARGETING FUNNEL TO CREATE CUSTOMERS
+
+  In Secret #6, we talked about the power of following up with your prospects through follow-up funnels using their email address. But what about all of the people who watch your videos or come to your funnel but don’t give you their email addresses? How do you follow up with all of them? The answer is through retargeting ads. There are three specific audiences that are essential to a high- performance retargeting plan. Each is based on how far viewers got along the customer journey.
+  
+  Audience #1—Engaged: The first audience you’ll want to build is an audience based on viewers having engaged with you. Did they watch your YouTube videos this week? Did they watch one of your prospecting ads and make a comment recently? These people interacted with your post but never left the platform to pursue your offer. While they have made a minor commitment to you, it’s nothing serious. These people are worth some continued ad dollars but not too much or for too long. I tend to run an ad to this audience for up to five days. If they haven’t visited my landing page by that point, I let them fall out of the audience and return to the prospecting pools from whence they came.
+  
+  Audience #2—Landed: The second audience you’ll want to build is made up of the people who clicked through and landed on your page. These people took a bigger commitment, left the platform, and visited your sales funnel. While they trusted you with their curiosity and visited your page, they didn’t take any further action by opting in or purchasing. I tend to run an ad to this audience for up to seven days trying to get them to come back and take me up on my lead magnet. Again, if they don’t opt in or buy within seven days, I just let them fall out of this audience.
+  
+  Audience #3—Owned: The third type of audience you’ll want to have is made up of those who did take your lead magnet and those who purchased. These people have made a large commitment and have entrusted you with email addresses and credit card numbers in exchange for your goods. This is the traffic that you now own. Not only are they now on your follow-up funnel sequences, but they’re also prime candidates for seeing ads for your next offer or an offer one step up the value ladder.
+  
+  Unlike prospecting ads where I’m making new creative as often as possible, with your retargeting campaigns, you’re focusing on creating them once and you will never touch them again. It’s similar to a Soap Opera Sequence inside of a follow-up funnel that you write once, and it lasts forever. As we move people through the retargeting buckets, we use the same three closes you learned about earlier: starting with emotion, then moving to logic, and ending with fear (urgency/scarcity). That is how we pull people into action throughout each retargeting campaign.
+  
+  The lowest hanging fruit in the advertising world is running ads to your subscribers, followers, and ever-growing lists that you own. And while only a third of the emails you send may get opened, you can always run ads to your lists, often reaching those who didn’t originally open the emails and greatly increasing your overall conversions from these lists.
+
 ### Instagram Traffic Secrets
 
+- STEP #1: UNDERSTAND THE HISTORY AND THE GOAL
+
+  If you are “working your way in,” then you win this game by:
+  - Attracting followers
+  - Creating content that engages them and keeps them coming back to the platform for more
+  
+  As you do that, you can use that attention to get free, organic traffic into your funnels. If you are “buying your way in,” you win by showing your ads to your Dream 100’s followers and pushing them into your funnels. As with all platforms, I believe we should be playing both sides: working our way in and buying our way in.
+  
+  STEP #2: FIND YOUR DREAM 100 ON THIS PLATFORM
+  
+  The first step, as you’ll soon see with every platform, is to identify the Dream 100 that have already congregated your dream customers on the platform you are starting on. Follow each of them and set up a plan to spend a few minutes each day viewing all their Stories, posts, and ads. This will help you to identify the patterns that are making these people successful. Each day, I spend three to five minutes viewing my Dream 100’s posts looking for:
+  - What pictures “hook” me and make me want to read the caption
+  - Which captions make me want to take an action
+  
+  At the same time, I:
+  - Like the posts from my Dream 100 
+  - Comment on at least 10 of my Dream 100’s posts each day (digging my well)
+  
+  I also spend five minutes watching Instagram Stories from my Dream 100:
+  - Looking for cool ideas on ways they’re engaging people
+  - Checking out where their swipe-ups push me to
+  - Messaging (DM’ing) on at least 10 of their videos (digging my well)
+  - Looking for the swipe-up ads that are shown to me and funnel hacking them (swiping up on them)
+  
+  Remember, you’re now a producer of social media, not a consumer. Don’t get caught in the trap of following tons of interesting people who will distract you and waste your time.
+  
+- STEP #3: IDENTIFY THE PUBLISHING STRATEGY AND CREATE YOUR PUBLISHING PLAN
+
+  Here are the core areas of the platform we’ll be focusing on. The first I call “content hooks,” where you are producing images and videos in a way to grab your dream customers and turn them into your followers. We rarely, if ever, actually sell anything in this content; we only focus on getting people to like, comment, and follow.
+  - Instagram profile (your gallery)
+  - Instagram TV (your produced video content)
+  
+  The second section of the app is your home. This is where you’re able to direct people into your funnels and actually sell.
+  - Instagram Stories (your reality show)
+  - Instagram Live (your live show)
+  
+  Again, I want to mention that these platforms, their features, and the strategies for them are always evolving, so view this chapter as a baseline, and watch your Dream 100 closely so you can model and innovate on any and all algorithm changes as they come.
+  
+  Again, copying is not the goal; on the contrary, copying is illegal and unethical. Modeling is watching what others in your market are doing so you can get ideas on what you can create. To have success on Instagram or on any platform, you have to be you. Your brand and your personality are the keys to getting people to follow and engage with you. The differences you bring into the ecosystem that you serve is the secret that will create your true fans.
+  
+  The first step, then, when setting up Instagram is to quickly communicate in your bio who you are as the Attractive Character. When people find you on Instagram, the first thing they’ll do is check out your bio. You also get one link that you can use to direct people back into one of your funnels (converting them from traffic that you’ve earned into traffic that you own). I suggest looking at your Dream 100’s bios, seeing what’s working, choosing what you like, and modeling them to create your own unique bio.
+  
+  Instagram Profile Strategy (Your Gallery)
+
+  Your Instagram profile is the core foundation of your Instagram strategy. The hook (your pictures): After someone looks at your bio, the next thing they’ll see is a grid of all the pictures and videos that you’ve posted. Each picture is a hook that can potentially grab someone who is scrolling on Instagram and pull them into your funnels. 
+  
+  Jenna Kutcher give a presentation on her “JK5 Method” framework. I started using it a few years ago, and I still use it to this day because it makes posting to my profile simple and fun. To implement the JK5 Method, you first need to create five main categories of things you’re passionate about. This will help to give you a recognizable brand, and as you post images, you’ll simply rotate through these categories so your followers get a good understanding of who you are beyond what you sell.
+  
+  For Jenna, her five categories are marriage, body positivity, photography, fashion, and travel. If you scroll through her profile, you’ll notice that she cycles through these categories. The categories I came up with for my brand were family, funnels, faith, entrepreneurship, and personal development.
+
+  No two categories live next to each other in the grid, giving you extra visual element, but also giving people a way to find a way to connect with you, even if they currently aren’t on the market for what you’re selling.
+  
+  It’s important we talk about the overall vibe of your “grid.” Essentially, your grid is what users see when they scroll through to see multiple images all lined up in rows of three. It’s easy to get obsessive about your overall grid aesthetic but what I love about the JK5 is that it gives people an overarching view of your brand when they click to see your full profile. If you truly follow the five- category rotation, viewers will see more than just what you sell but be able to also see if they can connect to your account enough to FOLLOW you. 
+  
+  When you’re posting on your profile, never post in real time; your posts should be thought out and strategic. (Real time posting is for Instagram Stories.) I suggest creating a new album for each of the five categories in your JK5. Then look back through your camera roll and move all the existing pictures you’ve taken in the past into these albums. Moving forward, when you take new pictures with your phone, always add them into these albums.
+  
+  Instagram also allows you to post videos on your profile that are under 60 seconds, so as you capture short videos that fit into your JK5, save them in your albums as well. Before posting any picture or video, though, I highly recommend using Jenna’s “ABCDQ Test” to see if it is “on brand” and therefore worthy for your profile. Here is the test:
+  - Aesthetic: Does it visually show something that fits the personality of my brand?
+  - Brand: Is it aligned with my dream client or something they will engage with?
+  - Consistent: Is it consistent in terms of color or quality to fit within my overall feed?
+  - Diversity: Is this something different than my last post? Does it create recognition beyond what I sell?
+  - Quality: Is this up to the quality I want my clients/followers to expect? If this stood alone, would it fit my brand?
+  
+  The story (captions): After you run it through the ABCDQ Test and you’re ready to post the image, you need to think about arguably the most important question of all: “What am I going to say about this picture?” The picture is the hook that brings people in and grabs their attention, but the caption tells your story and tries to engage the reader before you make your offer or CTA.
+  
+  Goal of Post. Each post you make should have one goal. As I post any picture and write its caption, the first thing I do is decide if the hook is meant to inspire, educate, or entertain:
+  - Inspire: It compels others to feel inspired and capable of big things.
+  - Educate: It teaches or educates your followers on a subject.
+  - Entertain: It provides entertainment for your followers.
+  
+  Type of Caption. After I decide the goal of the post, I try to figure out the type of caption to post. According to Jenna, the three most common types of captions and how to use them in business are:
+  - Tell a story: The posts that do the best on Instagram have one thing in common: they invite you into the story and make you feel a part of the moment, as if you’re experiencing it beyond the screen. I’m not talking “once upon a time”–type stories but relatable life experiences that others can connect with.
+  - Ask a question: Having an audience (whether it’s 10 people or 1,000 people) gives you access to people that can help you create the perfect offer! When you’re not sure what to post, ask a question. People love to feel heard and be able to share their opinions. At least once a week I love to ask a question. Often, it’s as simple as: “What is the best book you’ve read recently?” or as complex as: “Tell me what you’re struggling with when it comes to Instagram so I can help you!”
+  - Make a list: You can have a lot of fun with captions by sharing a short list! Some examples include: three things people might not know about you, five facts about your business, three ways to use your products, or the seven best books you’ve ever read. Lists are a fun way to deliver a caption that is easy to read or interesting; they can also further connect you to your followers in unexpected ways beyond the traditional brand stories you tell!
+ 
+ Hashtags. So what is a hashtag, and why do you need it? If you think of Instagram as a huge filing cabinet, then the hashtags are the filing folders. When someone searches a hashtag, Instagram finds all the images that use that same hashtag and gives you a gallery of only those images.
+ 
+ You can use up to 30 hashtags with each post to help your images, or hooks, show up in the searches and feeds of your dream customers. Hashtags are the equivalent of keywords in search engines. Sometimes, you can put your hashtags in your actual caption (we call these overt hashtags) where your audience will see them, but typically most of your hashtags will be posted in the first comment after you post your image (we call these covert keywords).
+ 
+ There are many online research tools that can help you to figure out the best hashtags for your posts, and I do recommend using them, but the easiest way to research what hashtags you may want to use is to go back to your Dream 100.
+ 
+ The offer (your call to action): The last step in creating your post is your CTA. Every single post needs a CTA, and it can vary from being a very small ask to being a big CTA. Examples of small asks include: “Double tap,” “Hit the ‘like’ button,” “Post an emoji,” or “Comment below.” Examples of bigger calls to action include: “Share this post,” “Tag 3 friends,” “Click the link in my bio,” or “Sign up for ____.”
+ 
+ When people comment, you should be responding to their comments. This will get them more likely to comment in the future, and it gives other people extra motivation to comment as well. Now, let’s quickly recap the basic process to follow when making posts on your Instagram profile:
+ - Follow the JK5 Method and create five main categories of things you’re passionate about.
+ - Each day, post two pictures on your profile (rotate through your JK5 categories).
+ - Decide the goal of each post: Inspire, Educate, or Entertain.
+ - Decide the type of caption to use: Story, Ask a Question, or Make a List.
+ - Choose the hashtags that will make your post show up for your dream customer.
+ - Add a CTA to get your audience to engage with you.
+
+- Instagram TV Strategy (Your Produced Video Content) -- Instagram TV was originally created to be a competitor of YouTube.
+  
+  Instagram Stories Strategy (Your Reality Show) -- At the top of the Instagram app, above your feed, you’ll find a section showing the “Stories” for each of the people that you follow (your Dream 100). Each video is just 15 seconds long, and you can post as many each day as you’d like. Because they disappear after 24 hours, you don’t have to be as methodical about each post, caption, and CTA as you are with your profile posts. These Stories are more freestyle. Personally, I look at my Instagram Stories as my personal reality show where my fans and followers can see behind the scenes of what I’m doing each day. I’m literally documenting my journey through the day in short, 15-second mini videos.
+  
+  By letting them participate in the process, they’re more invested in what I’ve actually been doing. They’re more likely to buy what I am creating when it’s ready. Instagram Stories are the most powerful way I’ve ever seen to have your audience build a relationship with you as the Attractive Character. Each day, I usually try to make at least one pitch for something I’m excited for. Instagram stories are my home where I’m able to push people into my funnels and actually sell to them.
+  
+  After your account grows to 10,000 followers, though, you can unlock a really cool feature called “swipe up.” If you’ve been following others on Instagram, you’ve undoubtedly seen people do this before. They’ll make a pitch for something and tell you to swipe up to get access to it. When they swipe up on the screen, they will be redirected to any link you want.
+
+  Every day, I try to make 10–30 posts on Instagram Stories throughout the day documenting my journey. I’ll typically make one that directs people to my profile to comment on whatever picture I posted that day. I’ll also make one with a swipe-up CTA such as getting them to visit a funnel, listen to a new podcast episode, watch a video on YouTube, or engage with me in a way outside of the Instagram platform.
+ 
+  Story Highlights: These show up under your bio and above your grid. The way you use Highlights ties back to the JK5 Method, where you pick the five categories that your brand will be known for and create a “Highlight” for each one.
+  
+  “Highlights” mini webinar hack: We have a little trick that we use to leverage Highlights to sell a lot of products. About once per month, I pick one of my products that I want to promote. I block out a full day in my Stories devoted to promoting that product with a mini webinar. Basically, throughout the day, I’ll post 15–50 Stories going through a scripted presentation to sell one of my products. Of course, I’ll usually make a ton of sales on that day. But because I save it as a Highlight, it will continue to sell for me every day.
+  
+  In the first three Stories, I ask three yes or no questions that I know will hook my viewers. For those who have read Expert Secrets, these questions will seem familiar as they sync with the perfect webinar script. Question one is about the vehicle that I’m trying to put them into, question two relates to their internal struggle, and question three deals with their external fears. 
+  
+  My next few Stories will relate back to the questions I just asked. I like to use the framework: Feel, Felt, Found. I might say something like: I understand how you feel ..., I felt the same way ..., This is what I found ... Then I make a few Stories introducing a special offer I created that will solve the problems people said yes to in the first three Stories.
+  
+  Over the next 5–20 Stories, I’ll show the proof. I’ll say something like, “Don’t take my word for it. Check out what others are saying.” Then I’ll post as many proof images, slides, and videos that I have related to the offer. This is one of my favorite ways to get consistent sales from Instagram. As people land on your profile and start following you, one of the first things they look at are your Highlights, so having a few in there that push your front-end funnels
+  
+  Instagram Live Strategy
+  
+  The last way to publish on Instagram is Instagram Live. Because Instagram Live and Facebook Live are so similar in their functionality and use, I won’t be spending much time on Instagram Live. One difference between Facebook Live and Instagram Live is that all Lives on Instagram are stored on the platform for only 24 hours, and then they’re gone. On Facebook, however, your Lives are stored on the platform forever, so you can continue to boost and promote your Lives. I suggest you focus all your Live efforts on Facebook as your message can get more views over the long run.
+  
+  Your Publishing Plan
+  
+  When I first started looking at this platform, I thought that publishing on it would be another part-time job. So for me to get this to work, I had to build out a publishing plan that I could do in less than an hour each day and that was simple and effective enough for me to stick to it.
+  
+- STEP #4: WORK YOUR WAY IN
+
+  The next level of growth starts when you tap into your Dream 100 and their followers using the power of Instagram TV.
+  
+  You can do similar things when you meet your Dream 100 in real life, at conferences and events. Take a picture with them, post it to your profile tagging them, and have them post it to their profile and tag you. The possibilities are endless. Creative ideas like this are the key to working your way into the followers of your Dream 100.
+  
+- STEP #5: BUY YOUR WAY IN
+
+  To quickly grow your Instagram following, you need to show up on your Dream 100’s channel. Our favorite way to buy our way in is by getting a “shout-out.” A shout-out is exactly what it sounds like it is. Basically, one of your Dream 100 posts on their profile or in their Stories about you. In their shout-out, they’ll usually mention your name, tell people to follow you, and tag you. The tag makes a clickable link on Instagram where people can click on your tag and be taken immediately to your profile, which is why it’s so important to optimize your profile page.
+  
+  For example, we found someone on our Dream 100 list (@prbossbabe), sent her a copy of my 30 Days book when it first came out, and paid her to do a shout-out. She posted a picture of herself with the book, told the story of the book, and then “shouted me out” by tagging me. This tag directed people back to my profile to find out more. She made this post on her profile, and she also published a few Stories with swipe-ups that took people directly to the book funnel.
+  
+  You can approach people in your Dream 100 to do paid shout-outs, but there are also a lot of agencies that specialize in getting shout outs for you. You can hire them, and they’ll do all the work to find the people, get you the shout out, and get people to your profile page.
+  
+- STEP #6: FILL YOUR FUNNEL
+
+  The last step in this framework is to then use all this exposure and engagement to convert all of this traffic into traffic that you own. We use your Instagram profile and TV to find people and turn them into subscribers.
+  
+  As your following is growing, you can then start using your Instagram stories and get people to swipe up and push your followers into your funnels. You can also use our “Highlights mini webinar hack” to create mini webinars on your Highlights that will presell your people on the products or services you are selling in your funnels!
+  
+  The last step is to start running prospecting ads (as shown in Secret #9) to find more of your dream customers and move them into your retargeting buckets so you can get them into your funnels.
+  
 ### Facebook Traffic Secrets
 
 ### Google Traffic Secrets
