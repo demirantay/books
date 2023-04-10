@@ -754,7 +754,235 @@ relationships with those people until their product is ready.  I immediately sta
   
 ### Facebook Traffic Secrets
 
+- STEP #1: UNDERSTAND THE HISTORY AND THE GOAL
+
+   Yes, over one-quarter of the world’s population is plugging into the Facebook network daily. It’s the biggest social party of all time, and unless some type of government regulation breaks up their monopoly, it will continue to grow.
+   
+   Facebook has had a lot of scandals around how they handle their users’ privacy and data, which can be super annoying as a user of Facebook, but it can be a huge blessing as an advertiser on their platform. Facebook tracks everything you do: What do you like? Which things do you comment on? Which types of posts do you engage with? All in all, they have up to 52,000 data points on every individual that they accumulated as you were scrolling, clicking, and commenting. Their goal is to figure out what you like and show you more of that in your feed.
+    
+   Because Facebook is tracking so many aspects of your behavior, it gives us as advertisers the ability to target people based on what they’ll probably like (their interests).
+   
+   Facebook is a growing platform, and although I’m taking a snapshot of how it works today, it will continue to evolve. The good news is that even though Facebook’s features, tactics, and user interface change often, your overarching strategy does not. Whenever I’m diving into a new platform, I always begin by asking myself these three questions:
+  - What is the goal of the platform?
+  - What is the strategy that I can use to help the platform with its goal?
+  - What are the tactics that the platform is rewarding people for right now?
+
+  For example, the goal of Facebook is to have its users create content that will keep people on their platform for as long as possible so they can show them ads. Our strategy is to figure out what content Facebook is rewarding people for right now and how Facebook wants that content to be promoted (both free and paid)
+  
+  The tactics are what that content looks like. This changes daily, but we can get a glimpse of what is working right now by watching our Dream 100
+  
+  STEP #2: FIND YOUR DREAM 100 ON THIS PLATFORM
+
+  Surprise, surprise. The first step when you start using Facebook is to identify your Dream 100 that have already mastered this platform and congregated your dream customers. Your Dream 100 are the people, experts, influencers, and brands in your market that have already congregated your dream customers.
+  
+  There will likely be a few big names in your market that you’re already familiar with, which is where I would start. Find their Fan Pages and “like” and “follow” those pages. Then find their personal pages and try to friend request them and follow their personal profiles too. Typically, after you do that, Facebook will find other people who have similar followings that you could follow. Go down that rabbit hole and start following every influencer you can find in your market that has a following. The same is true with groups. You can search for groups in your market and join them, and as you do, more groups will be “suggested” to you by Facebook. Join the ones that your dream customers are already congregating in.
+  
+  Finding your Dream 100 is not a one-time activity but instead an “every time” activity where every time you’re on Facebook, you should look for these new congregations or people and plug into them as they start showing up in your feed. As you do this, your Facebook feed will become the best market research tool in the world. You’ll see every important conversation that your dream customers are engaging in. You’ll see every ad being run to your customers.
+  
+   This is what your Facebook feed is for: mastering your market. My goal when following all influencers in my market is to plug into an ecosystem of at least 1 million people. For example, if I’m able to find 20 people to follow, and each of them has a following of 30,000 people, then I’m plugged into about 600,000 people. That means I need to keep finding influencers or brands or groups until that whole universe of people is at least 1 million people.
+   
+   STEP #3: IDENTIFY THE PUBLISHING STRATEGY AND CREATE YOUR PUBLISHING PLAN
+   
+   there are four areas of the platform that you must master.
+   - Your personal profile (your home)—As you are “working your way in” (e.g., going out and commenting on people’s posts, joining groups and posting content and more), the friends, fans, and followers of your Dream 100 —as well as the members of those groups—will see your profile picture, click on your face and be taken from the social party to your personal profile. This is your home, and this is where you’ll be able to direct people into your funnels.
+   - Your Fan Page (your show)—I know, Facebook no longer calls this a “Fan Page,” they call it a “Page,” but I’m old school and still call it a Fan Page because it helps me to identify its goal in my marketing plan. This is where you are “buying your way in.” After you post content on your Fan Page, you will be paying (“buying your way in”) to boost it to the followers of your Dream 100.
+   - Groups (your hangout)—This is where you throw your own social networking party and build relationships with your tribe.
+   - Messenger (your distribution channel)—This is one of the most powerful distribution channels that you have to get your message quickly to your most hyperactive followers.
+
+  Your Personal Profile Strategy (Your Home)
+  
+  If you structure your profile page correctly, it will grab your dream customers who are looking for more information about you and turn them into traffic that you own. Facebook allows people to “follow” your personal profile, but you have to turn it on in the settings. Make sure you give people that ability, because even though you can only have 5,000 “friends,” you can have an unlimited number of followers.
+  
+  Getting your profile set up correctly:
+  
+  be careful because Facebook doesn’t want your personal page to be for business, so none of these elements are meant to be a hard pitch for anything; instead it serves as a landing page where people can get to know you better and decide to be a friend or follower
+  
+  Your cover photo: You can design and upload a cover photo that represents you and your brand. It’s an image that your visitors will be able to see and know that they’re in the right place. Do not put a CTA on your cover photo, as this screams that you are trying to sell something on your personal page.
+
+  Intro section (your business card): In the intro section of your profile, you’re able to tell a little bit about yourself.
+  
+  Featured Image: You can feature an image from a post you’ve made here. I have a picture of my three books. When someone clicks on that image, they are taken to a post where I have links to the three books in the description. This is the first way that I start filling my funnels from my personal profile.
+  
+  What’s on your mind? (conversations at your “home”): As you are “working your way in” and people are coming back to your “home” or profile page, they will see the recent conversations that you’ve started, and if a hook grabs them, it will pull them into your conversations and into your funnels.
+  
+  If you’ve read the earlier chapter on Instagram, you will notice that the strategy here is very similar to how we post on our Instagram profile. If you remember Jenna’s JK5 Method, we each picked five categories that represent our brand. My categories are family, funnels, faith, entrepreneurship, and personal development. Just like I rotate through these five categories as I’m posting images to my Instagram profile, I rotate through these same categories as I’m posting “what’s on my mind.” If all the personal posts are about business, oftentimes Facebook will shut you down for operating a personal page like a business page, so by diversifying what I post over those five categories, I am at less risk, and it also builds a connection with my followers outside of just my “work.”
+  
+  I try to make at least one update to my personal page each day. These updates are more than just an image and a caption; typically they are a longer form story, structured almost like a Daily Seinfeld email where I have a hook, tell a story, and make an offer. Each day, as I’m trying to figure out what to post, I ask myself, What’s the hook that will make people want to hear this story? The hook could be a quick headline or a picture, but it should be something that will stop people scrolling through their newsfeed. After I place the hook, I tell the story, give the rant, or share the big “aha” that’s been on my mind that day.
+  
+  What’s the offer I want to make to them? Sometimes the offer is as simple as wanting them to like my post, leave a comment, or tell me their story. Other times, the offer is for them to listen to a podcast episode or read a blog post. Still other times, I ask for the big offer, and I direct them to one of my front-end funnels.
+  
+  My secret for figuring out what to post each day comes back to the JK5. I open my phone and look at the picture albums I set up to categorize all of my images. I look through the album for the category that I’m posting about that day, find an image that will work as a hook, tell the story behind the image, and then make my offer.
+  
+  As people comment on your posts, be sure to spend some time replying to their comments. This one small act speaks volumes, and it helps to build relationships with your dream customers.
+  
+  Your Fan Page Strategy (Buying Your Way In)
+
+  on November 6, 2007, Facebook launched “Pages” (which I’ll refer to through this book as “Fan Pages”), where a person or a brand could have followers or fans on that page. There was no limit to the number of fans that someone could have. Adding Pages gave Facebook the ability to see the things people were interested in more closely, and this paved the way for Facebook’s advertising platform that we came to love so much.
+
+  Think of your Facebook page as the Facebook version of your website. I treat this page very carefully. I only put the most curated and the best content on this page. It is the first impression for anyone who sees your paid ads.
+  
+  I treat this page almost like my YouTube profile, where, when people come to it, they will see the brand, but then they will hopefully start engaging with all of the videos and images and things that have been posted there. My test for if something should be on my Page is this: Is this content good enough that I will spend at least $10–$20 to boost it? If you’re not willing to pay for ads to that content, then do not post it on your Fan Page.
+  
+  There are four things that we post on our Facebook Fan Pages.
+  - Produced value videos: These are videos that have a good hook and story but no offer. The direct response marketer in me hates these videos, but the branding marketers loves them. For some reason, when you have a CTA, people will rarely share your videos. By not having a CTA, if people love the videos, they’ll like, comment, and share, and that’s how you get paid for this content. This increased engagement will boost everything else you do on your Fan Page.
+  - Live value videos: These videos are almost the same as our “produced value videos” except that they aren’t pre-produced. We go Live on the platform, and in real time we deliver the message.
+  - Live perfect webinars: These are the “right hooks” that will become your big paydays. If you’ve been providing value, now you have the opportunity to actually sell to your audience.
+  - Curated content from your other platforms (reruns): I’ll take content that I’m posting on my other social networks that are getting high engagement and post it on my Fan Page. I don’t link out to that other content; I’ll actually repost it here natively. For instance, with my YouTube videos, I’ll upload them to YouTube, but I’ll also upload them separately to Facebook. I look at this reposted content similarly to how we view reruns on TV.
+  
+  After we post any of this content, we always do exactly what Julie suggested: I spend $10–$20 boosting that content. Sometimes the goal is to get engagement on the pitch-free content (with a goal to increase what happens when I post my Live perfect webinars).
+  
+  Your Groups Strategy (Your Hangout)
+  
+  Facebook wants people to build groups, and as of this writing, they are rewarding people for doing it. Your group is your own personal party. It’s a place on social media for your people to gather, hang out, and talk. I’m a big believer that most companies should have a group where the members of their community can network. It will become a huge source of traffic for you, help turn your warm audience into raving fans, I try to do a weekly “hangout” in my group where I can talk to our tribe and build a personal relationship with them. 
+  
+  Your Messenger Strategy (Your Distribution Channel)
+  
+  Messenger has rules to protect it from being used as a platform where people are sending out spam, and because of that, if you’re too aggressive, they can and will shut you down. So it’s essential to use it in a way that enhances users’ experience instead of in a way that annoys them. We rarely, if ever, send out more than one message per week. Most of our messages try to create engagement before a link is sent. A great way to do this is to send out quizzes or interactive conversations, basically anything that will keep engagement high and complaints low. If you do that, you’ll be able to use Messenger without any issues.
+  
+  Growing your Messenger list: There are three core ways that you can grow your Messenger list. First, when people come to your Fan Page, you can have Messenger pop up to start a conversation that will add them to your Messenger lists. Second, on your landing pages, you can have people select a box that will add them to your Messenger lists.
+  
+  The third (and my favorite) way is to create a simple lead magnet and leverage your Fan Page to grow your Messenger list. Some of the Messenger growth tools make it easy to add people to your lists when they do a certain action. For instance, when people click a button on your post or comment with a certain keyword, you can add them directly to a specific Messenger list and it will send them a lead magnet right away.
+
+  Publishing to your Messenger lists: Because my Messenger list is such a valuable asset, and because I don’t own it (Facebook owns it and can shut it off at any time), I treat it very carefully. About once per week, we try to send out some type of conversation. Notice that I said “conversation” and not message. We don’t just broadcast out a message for someone to go and visit a funnel. Instead, we’ll ask them a question like, “Hey, are you still looking for ways to generate more leads online?” If they respond back with a yes, then I might say something like, “Cool. I have some new training that I think you’re gonna LOVE, but I wanted to see if you’d rather have it as an audio file, a video, or a transcript.” After three buttons pop up with these options, they can click one of the choices, which will take them to the next step in the bot’s conversation.
+  
+  I personally like to use bots to guide people toward content on Facebook’s platform (like a Facebook Live on my Fan Page) and have the actual selling happen off Messenger. That gives me an arm’s distance from Messenger and selling anything directly through it.
+  
+  Your Publishing Plan
+  
+  We’ve covered a lot of things about publishing on Facebook. We talked about the core ways you publish inside Facebook with special focus on:
+  - Your personal page
+  - Your Fan Page
+  - Your groups
+  - Your Messenger lists
+  
+  Each of these sections inside of the platform has a different strategy for how you publish. To make sure you hit each part of Facebook effectively to find and serve your dream customers
+  
+  STEP #4: WORK YOUR WAY IN
+  
+  We do this by finding the groups in our marketplace that have already congregated our dream customers. First, I want you to focus on finding and joining the right groups. Similar to the strategy used for influencers and brands, your goal with groups is to get access to at least 1 million people through them. I look at the suggested groups, join the ones that have bigger member counts, and continue searching for more.
+  
+  For example, if I’m a photographer and I type “photography” into the group search in Facebook, it will pull up dozens of groups I can join. In this case, there are over 507,000 people at four parties talking about photography. These are the parties that I’ll be going to and networking at. Keep going to parties (i.e., joining groups) until your reach in these groups is over 1,000,000 people.
+  
+  spamming out links to your front-end funnels, and hoping that people will click on them and join your lists. This is not what I’m talking about. In most groups, this will get you kicked out almost immediately and will ruin your reputation in that market. Instead, every day I go into each of those groups and try to see what questions people are asking that I know the answer to. As soon as I can think of something awesome that I can share, I write a value-filled post and post it in the group. No pitch ... no ask ... just value.
+  
+  That is the secret to good networking. You are coming to serve, and if you do it consistently, people will see you, and they will follow you back to your home. But the secret is giving without withholding. This is the beginning of your value ladder, and the more value you give up front, the more people will want you.
+  
+  I spend 30 minutes total each day participating in these groups, providing value, and answering questions, and then I’m done. Remember, your goal is to become the cool kid at the party, and if you provide value, everyone will want to come back to your house to hang out. This strategy takes a little time, but if you are consistent and people see you showing up consistently, they will want to find out more.
+  
+  STEP #5: BUY YOUR WAY IN
+  
+  All the paid ads happen on your Fan Page. This is where you can boost/pay to get your content shown to the followers of your Dream 100. Every video you post, every image you publish, and each post you write on your Fan Page can be promoted through Facebook’s Ads Manager. You can also make “unpublished posts” that don’t show up on your feed, but that you can start using to throw out hooks to grab the attention of your dream customers. Remember from Secret #9 that the more creative you can put out, the more success you will have. Use all these hooks to grab your dream customers from your prospecting pools, pull them into your retargeting buckets, and direct them to your funnels.
+  
+  STEP #6: FILL YOUR FUNNEL
+  
+  As you know, the last step of the framework is to take all this attention and use it to fill your funnels. At first, you do it by “working your way in.” As you go out into Facebook’s groups and start networking and providing value, you will be pushing people back to your personal profile (your home). On your personal profile, you will be rotating through the JK5 categories and making posts that can hook people when they show up on your page, as well as your friends and followers, and direct these people into your funnels.
+  
+  To build an even stronger relationship with your friends and followers, you can invite them to come to your own social networking party (your group) where they can network with others and be part of your weekly “hangout” meetings. On your personal profile, they are only able to respond to posts you make, but here they can start their own conversations and get a sense of belonging inside your tribe.
+  
+  After your social networking strategy is up and running, transition your focus to “buying your way in” with your Fan Page, where you will be producing and posting content that you feel good enough about spending $10–$20 to boost it.
+  
+  Your number-one goal is to transition the traffic that you are earning and buying into traffic that you own by taking them through one of your front-end funnels.
+
 ### Google Traffic Secrets
+
+- STEP #1: UNDERSTAND THE HISTORY AND THE GOAL
+
+  Google wants to show its visitors the best web page for every search. Marketers like us want our web page to be shown at the top. The battle between us and each platform is why the algorithms have to constantly change and evolve. That’s why almost every book that has ever been written on getting online traffic is obsolete within months. These slaps happen with Google, and they also occur with Facebook, Instagram, and YouTube. That is why, in this book, I’m never going to tell you how to hack an exact algorithm.
+  
+  Why does Google care so much about their users’ experience? Mostly because they still make the majority of their money from paid ads, and if people have a bad experience when they search, they won’t come back. So if your goal is to try to figure out a way to deliver the best experience possible to their surfers, Google will reward you for that.
+  
+  STEP #2: FIND YOUR DREAM 100 ON THIS PLATFORM
+  
+  This is where the search engines start to become really fun for me. This process is similar to a treasure hunt, looking for the keywords and blogs that you can tap into to bring you thousands of visitors a day, sometimes overnight.
+
+  In Secret #2, we talked about two types of congregations. The first was “interest-based” congregations, such as influencers, brands, and other things that people are interested in. The second type of congregation we discussed was “search-based” congregations. Instead of targeting “interests,” we would be targeting keywords and keyword phrases. For Google, we are going to be building out two Dream 100 lists. One list will be with the top bloggers in your market, and the second list will be a list of your Dream 100 keywords.
+  
+  Your Dream 100 (bloggers): I will be utilizing these bloggers and their blogs in different ways, both buying my way into their traffic streams as well as working my way in. But for now, I just want to identify them and get them on my Dream 100 list. Finding them can be as easy as going to Google and typing in your dream keywords and the word “blog” after it. You’ll then see the top 10 listings in Google and which bloggers have made it to the top. Some of the bloggers will have their own blogs that run on their own domain, while others will use popular blogging networks like Medium.com. You can go to Medium.com (and other blog networks) and search for bloggers in your market.
+  
+  Your Dream 100 (keywords): Being ranked on page number one for one of your dream keywords is the equivalent of owning Boardwalk or Park Place in Monopoly. Owning one or more of these listings in this virtual real estate landscape can fill your funnels with traffic for years to come. When I first did this exercise with ClickFunnels, the first 10 dream keyword phrases that I wrote down were:
+  - Sales funnels
+  - Digital marketing
+  - Internet marketing
+  - Online marketing
+  - Landing page
+  - Marketing automation
+  - Growth hacking
+  - Personal branding
+  - Website traffic
+  - Social media marketing
+  
+  The next step was to find the long-tail keywords associated with each of my dream keywords. Often it can be really difficult to rank for a high-competition keyword, so I also wanted to see the long-tail keywords that would be easier to rank at first. To do this, take your number-one dream keyword phrase and type it into Google. Google will suggest other keyword phrases in the search bar that people often search for when someone types in your dream keyword phrase.
+  
+  These keywords will become your “long-tail” keyword phrases. Write down your nine long-tail keyword phrases that are associated with each of your dream keywords that you would like to target. For example: Dream Keyword: Sales Funnels, Long-Tail Keywords:
+  - Sales funnels definition
+  - Sales funnels software
+  - Sales funnels for real estate
+  - Sales funnels examples
+  - Sales funnels for artists
+  - Sales funnels templates
+  - Sales funnels explained
+  - Sales funnels 101
+  - Sales funnels for Shopify
+  
+  You can also scroll down to the bottom of Google after you search for your dream keyword, and it will show you eight more keywords that are closely related to your search term. Keep looking until you find 10 solid keywords phrases to focus on. If you do that with all 10 of your dream keywords, you will end up with a list of 100 keywords. This is the simplest way to build out your dream keyword list, but there are some amazing software tools that can help take it to the next level.
+  
+  STEP #3: IDENTIFY THE PUBLISHING STRATEGY AND CREATE YOUR PUBLISHING PLAN
+  
+  Now that we have our dream keywords, we want to funnel hack the search engines to see what is already working for that keyword. To do that, all you have to do is type your keyword phrase into Google. Then scan the top 10 results and look for patterns of what type of posts are being ranked.
+  
+  These types of linkable assets are what Google loves for a few reasons. The first is that if you structure them correctly, people will love the content so much that they can’t help but link back to it. Real, organic, quality links are what Google wants to reward you for, and writing a good article that people naturally want to link to is the secret to getting the right links.
+  
+  As I’m scanning the organic results for my dream keywords, I’m looking to see if there are any Letterman Top 10 List–type articles being ranked. If there aren’t, then I will work on creating my own linkable asset that I can post on my blog. If I do find one that is already ranking in the top 10 for my Dream 100, I will use the “skyscraper” technique
+  
+  The skyscraper technique works after you have found content that has already generated a ton of links and is already ranking for your dream keywords, and then you model it to create your own bigger, better piece of content, i.e., a bigger skyscraper. I like to try to create at least one new skyscraper article per month.
+  
+  Here are four things that Brian recommended to do to your article to make your skyscraper taller:
+  - Longer: In some cases, publishing an article that’s simply longer or includes more items will do the trick. For example, if you find a link magnet with a title of “50 Healthy Snack Ideas,” publish a list of 150 (or even 500).
+  - More up to date: If you can take an out-of-date piece of content and spruce it up, you’ve got yourself a winner.
+  - Better designed: A visually stunning piece of content can typically generate a lot more links and social shares than something similar on an ugly page.
+  - More thorough: Most lists posts are made of a bland list of bullet points without any meaty content that people can actually use. But if you add a bit of depth for each item on your list, you have yourself a list post that’s much more valuable.
+  
+  Important note: Brian recommends that you beat the existing content on all four levels.
+  
+  Getting quality links to your skyscraper: Publishing the longer, better skyscraper won’t in and of itself get your site ranked onto page number one. After you’ve written the article, you need to promote it, and the way you promote an article is by getting a lot of the right links to it. Brian taught us to get the right links by looking at the links that are pointing to the linkable asset that we modeled. If people are already linking to that content, we know a few things.
+  - They have a website in the same niche that we’re publishing.
+  - They’re interested in the topic, because they have already linked to our competitor.
+  - They’ve already linked to an article on that topic, so it’s not difficult for them to include a link to our longer, better, more updated article too.
+  
+  In your email, you can let them know that you saw they linked to your competitor and that you’d love it if they’d link to your article as well since yours is similar but much more up to date and comprehensive. Brian said that he personalized and tweaked this template for each person he reached out to, and out of the 160 emails he sent out, he got 17 people to link back! That’s an 11 percent success rate following the skyscraper method that helped him to get his article ranked.
+  
+  The next way I work to get links back to my new article is by reverse engineering (funnel hacking) the backlinks that are going to the other nine organic listings on page number one for my dream keyword. I already found the people that are linking to my competitor’s article and emailed them. I am now going to do the same thing to the people who are linking to the other nine pages that are ranked on page one. I send out a similar email to each of them asking if they’d be willing to link back to my linkable asset. By doing this, I am getting the same backlinks that are currently ranking the top 10 results for my dream keyword phrase all linking back to me.
+  
+  These manual link requests will get the process started, and then I will stimulate traffic to the skyscraper pages by promoting my new article on my other social sites (Facebook and Instagram) and email lists.
+  
+  STEP #4: WORK YOUR WAY IN
+  
+  Working your way into the search engines has two amazing benefits. The first is that you can tap into the traffic streams of the bloggers that you put on your Dream 100 list earlier. The second is you can get some of the best quality links directly from these same bloggers who have quality sites in your market (the type of links that Google loves).
+  
+  The way I work my way into the search engines is through “guest posting.” That means I am looking for someone else who has a blog in my market and I am asking if I can make a “guest post” on their site. I’ll email the blog owners and tell them that I had a few cool ideas for a post on their blog and ask them if any of them are of interest. If they say yes, then I write up the post, include a link to one or two of my skyscrapers, and have them post it. I give them good content, their readers will click on the links and I’ll get traffic from that, the spiders will see the links to my skyscraper, and it will increase my rankings from there.
+  
+  I try to post at least one guest post per week on blogs in my market, as well as work toward becoming a contributing author for the sites that bring me the most traffic and quality links.
+  
+  STEP #5: BUY YOUR WAY IN
+  
+  I quickly started to realize how much more valuable a click to your funnels is from one of these pages than even the same from the Google homepage. However, the people who do the following three-step process are actually more valuable to you:
+  - Type a phrase into Google
+  - Click on one of the results
+  - Click on the link to your funnel from this other page
+  
+  Tons of the clicks that hit Google’s homepage will be wasted on people who aren’t serious, and if you’re paying for these clicks, it can be very expensive. However, the people who have to click two clicks to get to you are the ones who are most serious and will be worth the most money to you long-term.
+  
+  When I look at my Dream 100 websites, I try to quickly weed out the ones that don’t have any advertising on them already. Instead, I’m looking for sites that have AdSense ads, banner ads, affiliate links to other products, and email newsletter subscription boxes. Then I start contacting the owners of these websites to find out my advertising options.
+  - If they have an email newsletter, I ask them if I can purchase a solo ad to their email list (more on this in Secret #17).
+  - If they have banner ads on their website, I ask them how much it costs to purchase a banner ad.
+  - If they have Google AdSense on their site, then I add their site to my list to target later with Google Display Network or GDN
+  - If they have an article on that page, then I try to see if I can get them to add a link back to one of my pages in their article.
+
+  STEP #6: FILL YOUR FUNNEL
+  
+  Are you able to see now how you can get access to the traffic that is coming from the search engines? We focus on creating blog posts that are linkable assets that will act as link magnets that you can get ranked on page one for your dream keywords. While we’re waiting for these pages to rise in the search engines, we do guest posting on the blogs in our market to get both instant traffic from their readers and more links pointing back to our linkable assets.
+  
+  We then go to the pages that are already ranked on page one for our dream keywords, and we work to buy ads on these pages so we can plug our funnels into the existing streams of traffic that are going to these pages. The last step is buying ads on Google’s paid search platforms.
 
 ### Youtube Traffic Secrets
 
