@@ -986,6 +986,120 @@ relationships with those people until their product is ready.  I immediately sta
 
 ### Youtube Traffic Secrets
 
+- There is something special about YouTube that I don’t think many people understand. YouTube is the only platform where you can create something and post it online where it will actually grow exponentially over time.  I have videos that I published five years ago that still get hundreds of views a day.
+
+  This gives us creators a reason to spend more time producing amazing videos that will serve us and our audiences for the rest of our lives and beyond.
+  
+  STEP #1: UNDERSTAND THE HISTORY AND THE GOAL
+  
+  Did you know that YouTube is the world’s second largest search engine (behind Google),
+  
+  YouTube is interesting because it functions similar to a social platform. You create content, try to get people to engage with that content and build up subscribers just like other social networks.
+  
+  YouTube also functions as a search engine, which is why, unlike social networks, your videos continue to grow over time. If you learn how to optimize your videos the way that YouTube would like you to, they will reward you by ranking you for your dream keywords inside of YouTube, and often they’ll even post those videos inside the search results of Google.
+  
+  STEP #2: FIND YOUR DREAM 100 ON THIS PLATFORM
+  
+  You need to build out two Dream 100 lists: one list with the names of the people, brands, and influencers that you would like to target, and a second list with the keyword phrases that you would like to create videos for.
+  
+  STEP #3: IDENTIFY THE PUBLISHING STRATEGY AND CREATE YOUR PUBLISHING PLAN
+  
+  The way to win at YouTube is to figure out ways to create and post videos that are in alignment with how they want videos to be posted. That’s why it’s so important to closely watch your Dream 100 and see what things they’re doing that YouTube is rewarding them for. If they change how they like descriptions, tags, or linking, you’ll see the changes in the videos that are getting a lot of views, and then you can change your strategy to match theirs.
+  
+  Set Up Your Channel
+  
+  Before we start creating any videos, we need to make sure the channel is set up 
+  - Name of your channel: For your channel name, you should focus more on branding than keywords. Your channel name will show up everywhere in searches, suggested searches, related channel suggestions, and on your videos when you leave comments. You’ll notice that my channel name is Russell Brunson— ClickFunnels. I do this because I want people to recognize my name as well as my main brand when they see my channel name come up.
+  - “About Us” page: This page is important for two reasons. First, it lets people know more about you when they’re checking you out before they subscribe. Second, the information you write here will show up in the search results for your channel and will be a big key to people finding and subscribing to your channel.
+  - Header image: When people come to your channel page, the first thing they’ll see is your header. Your header should be simple and speak clearly to your target audience so that they know the value they’ll get from your channel.
+  - Profile image: Many people mistakenly put their logos here. Instead, use a picture of yourself because it will dramatically increase engagement.
+  - Channel trailer and description: When people first come to your channel page, they’ll see an actual trailer for your channel as well as a brief description about your channel. It is only shown to new visitors who aren’t subscribers yet, so this video is speaking specifically to them. Here are Joe’s script guidelines for an engaging channel trailer: Introduce yourself and welcome your viewer to your channel. You want the viewer to feel like you are talking to them and that you understand them. Go briefly into your backstory and explain why you have the authority to be creating the content you make on YouTube. Pitch your value statement. Leave no doubt in your viewer’s mind what this channel is about. Talk about the channel, what it is about, and why it matters. Share your posting schedule so they know when to expect new content. End the video with a really strong CTA. This means you need to tell the viewer what you want them to do. Tell them to subscribe to your channel and turn on notifications so they don’t miss any of your new videos. Make sure this video is no more than 60–120 seconds long. Any longer than that and you will lose your potential viewer.  If you’re just starting out, you don’t need to buy anything fancy. I still use my iPhone for the majority of my videos.
+  
+  Identify Your Dream Keywords that You Want to Make Videos For
+
+  The first step is to find all the long-tail keywords around your dream keyword that you can make videos for. This is a tactic I learned from my good friend Jeremy Vest. He calls this tactic “finding your channel’s focus phrase.”
+  
+  The dream keyword “ABC Hack”: Here’s a trick to find hundreds of keywords you can choose from. If my root keyword is fairly broad, like “how to make money,” you can type in the same words in the YouTube search bar followed by a space and the letter a. The suggested search results will show you: “How to make money ...”
+  - As a beginner
+  - As a kid
+  - At home
+  - At school
+  
+  Then you can replace the a with b, and the suggested search results will show you: “How to make money ...”
+  - Blogging
+  - By investing
+  - By posting ads
+  
+  Then move on to c and d and so on. You will want to get at least 50 of these “how to make money” keywords to use as keyword titles in your videos.
+  
+  Create Your First Video
+  
+  Now that you’ve done all the research, set up your channel, and made a list of keywords to target, now it’s time to start creating videos. As I’m creating videos, there are two types of video that I focus on. The first are called “discoverable videos.” These are videos based on keyword phrases that I publish as hooks to rank for these keywords with a goal of grabbing people’s attention, pulling them into my channel, and turning them into subscribers. How you structure these videos is very important because if one of them takes off and gets 100K views, you want to be able to make sure that you are able to create subscribers and leads from all of these viewers.
+  - Hook: Create a 15-second concise introduction. This is where you’re going to hook people using the same keywords that they’re searching for. You’ll tell them the value of your video and present a hook for them to look forward to so they continue watching.
+  - Trailer: Place your quick branded intro or “trailer,” which should be no more than four to five seconds maximum. Do not put a 30- or 60-second branded intro here. You’ll lose the majority of your viewers right there.
+  - Intro: Talk to your viewer about who you are and why they should listen to you for the next 15–30 seconds. Share a little bit about your story so that you make a connection with that new visitor. Don’t assume that they know who you are.
+  - Story/Content: Share content and story for the next 7 to 12 minutes. Here is where you deliver the value from the hook you mentioned earlier.
+  - Offer: Add your CTA. As a discoverable video, the offer will normally be to get people to like, comment, subscribe, or turn on the notifications.
+  
+  Use this show formula as an outline to write out your video script. Once you have an outline and a tight script, take out your cell phone or camera, look right into the lens, and film yourself recording that video. Typically, I’m not selling on these videos, outside of selling the subscription to my channel. The second type of video I create is called “video webinars,” which are usually less keyword focused, as they are created to build a stronger relationship with my current subscribers.
+
+  These are the videos that I use to sell things. I’ll still try to find keywords to rank them for, but oftentimes I am trying to create or teach something that may not fit inside of a certain keyword phrase.
+  
+  Upload Your Video and Set It Live
+  
+  After I’ve created the video, there are six things that we currently do for each video we upload to make sure we’re aligned with YouTube’s algorithm.
+  
+  Look at YouTube as a TV show: YouTube wants you to create a show, schedule it, and publish it on a consistent schedule. For example, you may publish your videos every Thursday at 7:00 P.M. EST, or every Tuesday and Thursday at 7:00 A.M. EST. Create a schedule for yourself that you know you can keep up with, and be consistent as you stick to that publishing schedule.
+  
+  Find the keyword for your new video: Make sure you have identified the keyword phrases you want to use for your new video.
+  
+  Write your video title: Your title should have two elements: it must contain your keyword phrase, and it also needs a strong hook that works in tandem with your thumbnail to “sell the click.” For example, if I were trying to create a video that would rank for “potato gun,” some possible titles might be: “Potato Gun—The 17 steps to build your gun in under an hour”
+or “How to build your Potato Gun with stuff you can find at Home Depot for under $30”
+
+  Create your thumbnail “hook”: This is the visual hook that will grab people when they’re watching someone else’s video to convince them to watch your video next. Make sure it looks good when it’s shrunken down tiny. The best practices that usually get the most clicks are using large faces/images, bright colors, and as few words as possible. It needs to pop off the page. Look at your Dream 100’s video thumbnails to get an idea of how they’re grabbing attention with their thumbnails.
+  
+  Write your description: Ideally, these will be between 150– 300 words. The first two sentences should contain your keyword and CTA because this portion is “above the fold,” You will also want to add your subscribe link and a link to your front-end funnels, as well as links to other related videos and playlists you have on YouTube. To optimize your search results, I recommend adding up to three hashtags.
+
+  Add tags: While still helpful for search ranking, tags mean less than they used to. Keep your tags highly relevant to your main keyword: the more closely related to the topic, the better. If you branch out, you’ll only confuse the algorithm. Those are the core things that we’re looking at when posting each video. Again, these specific things may change, so that’s why it’s so essential to closely watch your Dream 100 to see what things are being rewarded in YouTube and then make changes as needed. After your video is posted, you want to get people watching it as soon as possible. I’ll usually encourage the traffic that I own, such as my email lists, fans, and followers, to watch the new video.
+  
+  Here are the three things we’ve noticed that have the biggest impact on your video’s success: Click-Through Rate (CTR): How many people who see your thumbnail actually click on it? The benchmarks we want for CTR are:
+  - 4 percent—Acceptable
+  - 6 percent—Good
+  - 9 percent—We should throw a party!
+  
+  Initial retention: The first minute of retention is very important. You need to hook people fast and keep them watching. Watch the videos from your Dream 100 to get ideas on how they hook people past the first minute. Try to keep minute one retention above 70 percent.
+  
+  Overall retention: As for your overall video retention, how long is the actual video being watched? We look at how many people make it to the end of the video. The benchmarks for video retention are:
+  - 35 percent—Acceptable
+  - 40 percent—Good
+  - 50 percent—Party time! (You’ll get a lot more reach if your account averages this or better)
+  
+  The “Binge-Watching”YouTube Hack
+  
+  One of the best things you can do for your channel is to get people to binge-watch your videos. When YouTube sees people going from one video in your channel to another, and another, not only will it boost your views on those videos, it will lift the entire channel. One secret is instead of putting up a longer, 30- or 60-plus minute video, create a YouTube playlist and break up your long videos into smaller 5–10 minute videos that are part of a series inside of that playlist. Then when someone watches the first video on the playlist, it automatically directs them to video two in the series,
+  - It’s a huge value add to your own list and will build a better relationship with your viewers.
+  - It gets your hottest subscribers watching your newest videos, which should give you higher initial and overall retention than a cold viewer who finds you on YouTube.
+  - You’re likely to get more likes and comments from these viewers, especially if you ask them to engage in these ways in the emails and messages you send to them promoting this new series.
+  - Most of them will move through each video in the playlist because they’re excited to see your new series, which will make these videos rank higher, which will also boost your entire channel.
+
+  This becomes such a big win-win-win for you, your viewers, and YouTube that we try to build launching a new playlist that viewers can binge-watch into our publishing plan at least once per month.
+  
+  Your Publishing Plan (create a publishing plan for yourself on a weekly basis of TODO)
+  
+  STEP #4: WORK YOUR WAY IN
+  
+  The core way we work our way in to YouTube is by following the publishing plan we just laid out. Every day, we’re picking new keywords we want to rank for, and then we go and create videos to target these keywords. If you are consistent in publishing these videos, you will continue to show up in the search results for more keyword phrases, more people will subscribe to your channel, and your videos will keep growing.
+
+  Similar to Instagram, you can also do collabs with other channels where you can make a video with another influencer and have them post it to their channel with links pointing back to you.
+  
+  STEP #5: BUY YOUR WAY IN
+  
+  You could pay people to create a video and post it on their channel for you. You could even pay them to let you put a playlist with a video series on their channel. The ideas and opportunities are endless!
+
+  STEP #6: FILL YOUR FUNNEL
+  
+  It all starts with consistently publishing keyword-based discoverable videos to get you a spot on the organic listings, as well as the Google search results. We use paid ads to place our ads on top of the other videos that are ranked for our dream keywords and the videos of our Dream 100. we will put out prospecting ads to hook our dream clients, move them into the retargeting buckets where we will turn them into traffic that we own, and then we will ascend them up our value ladder.
+
 ### After the Slaps and the Snaps
 
 ### Conversation Domination
