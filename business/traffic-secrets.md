@@ -1274,7 +1274,91 @@ or “How to build your Potato Gun with stuff you can find at Home Depot for und
 
 ### Your Affiliate Army
 
+- I looked at his response again: I rely on my own network of affiliates. I saw his brilliance. Instead of relying on his own efforts to do SEO or PPC, he could have dozens of others ranking pages for him and running ads selling his products. Instead of relying on his own email list, what if he found 10 or 20 or 100 affiliates who each had lists of tens of thousands of people? Instead of his message getting sent to thousands of people, he could reach millions. The amount of leverage you get when you build an affiliate program and rely on the efforts of other people is huge.
+
+  Instead of becoming the best person in the world at driving traffic, I needed to create an opportunity for the top affiliates to make money by promoting my products and services. Then I could focus my efforts on recruiting, training, and paying them.
+  - 1. Recruit your army of affiliates
+  - 2. Make them affiliates
+  - 3. Give your affiliates a reason to promote
+  - 4. Train your affiliates to become super affiliates
+  - 5. Compensate your affiliates
+  
+  STEP #1: RECRUIT YOUR ARMY OF AFFILIATES
+  
+  If you’ve been following the Dream 100 process, then you’ve already created lists of your potential affiliates. Every Dream 100 person has their own distribution channel. Some have an email list, others have a following on Facebook or Instagram, others have a podcast with a lot of subscribers. We’ve talked about working your way into their audiences as well as buying your way in. Asking your Dream 100 to be an affiliate is blending both of these things together.
+  
+  You’re no longer buying ads and hoping they convert. Instead, your Dream 100 is promoting you, and you only pay them after they’ve made the sale. So how do you turn your Dream 100 into an army of affiliates? The first thing you have to do is ask them to be an affiliate, even though asking is oftentimes the hardest part. If you’ve been digging your well with your Dream 100, and if you have a relationship with them, you should know the projects and ideas that they are working on.
+  
+  Because of this, we spend a lot of money sending out cool stuff in the mail to recruit affiliates. The key is getting their attention and giving them a reason to promote. As you’re recruiting affiliates to sell your product, it is important to understand that there are different types of affiliates, each with a different motivation. Some are only concerned by how much money they make and want a high- converting funnel, while others are more concerned with whether or not the product is a good fit for their audience. For me, I don’t care what their motivation is. I just want to serve their customers, so I want to make sure they’re happy at all costs.
+  
+  STEP #2: MAKE THEM YOUR AFFILIATES
+  
+  Often, your best affiliates will be your customers. I always like to let my customers know that they can actually make money by referring their friends. You can put links to your affiliate sign-up page on your funnels, on your thank-you pages, and in your emails. That way, you are helping them to earn commissions on the products they already love and helping them to spread your message.
+  
+  STEP #3: GIVE YOUR AFFILIATES A REASON TO PROMOTE
+  
+  They could promote millions of products, so you need to explain why they should promote your products, and, more importantly, why they should promote you now. Usually, we’re able to get affiliates to promote based on one of three things:
+  - A new launch
+  - Their turn on a rolling launch
+  - Something special or new
+  
+  A new launch: Launching a new product is one of the easiest ways to get affiliates to promote because you can tell them about the new project that you’ve been working on, send them copies of the product in the mail, and let them experience what you’re going to be selling 60–90 days before each launch. We send out Dream 100 packages, call them on the phone, send emails, and do whatever else we need to do to have them block out our launch dates on their calendars.
+  
+  As we get closer to the launch date, we’ll typically put everyone who has agreed to promote into a special Facebook group where we can communicate with them about everything that’s happening in the launch. This helps to build a community of affiliates and create a fun competitive environment where we share leaderboards and give people multiple reasons to promote during the launch.
+  
+  The rolling launch: A rolling launch is similar to a new launch, but instead of everyone promoting on one single launch date, you let people each have their own turn to do a launch to their lists.
+  
+  Something special or new: Often I’m recruiting affiliates who don’t want to be part of a product launch. They may be SEO marketers, or they may be really good at PPC, or they may want a higher commission because they’re so good. There could be dozens of different reasons, but my goal is to be able to serve their customers, so I’ll work with them individually to see what is best for them. I may set up a special landing page, a different offer, a higher commission, or whatever else they need that will give them a good reason to promote for me.
+  
+  STEP #4: TRAIN YOUR AFFILIATES TO BECOME SUPER AFFILIATES
+  
+  As you’ll soon find, the better the affiliate is, the lazier they often are; and the worse the affiliate is, the more training they’ll need. Both of these became problems for us. New affiliates didn’t know what to do or how to promote us; the good affiliates knew how to do it but wouldn’t promote unless we made the process very simple for them.  To solve this problem, we created affiliate training centers that had two goals:
+  - Show new affiliates how to promote our products. We trained them how to run ads, track their sales, and more.
+  - Offer copy-and-paste ads that our super affiliates could grab and quickly edit. We gave them sample email ads, banner ads, copy for Facebook posts, and more.
+
+  The affiliate center is one of the most powerful tools you can have in your traffic arsenal because it’s easy to create an affiliate center for each of your funnels.
+  
+  STEP #5: COMPENSATE YOUR AFFILIATES
+
+  While most people are always asking how little they can pay their affiliates, I want to figure out ways that I can pay them the most possible. The more you’re able to pay your affiliates, the more likely they are to promote you. and affiliates who are good have unlimited opportunities to sell anything they want. They don’t need you; you need them.
+  
+  I noticed that most of the other software companies were paying their affiliates 20– 30 percent commission on their sales. We launched immediately with a 40 percent commission for our affiliates, and because of that, we were able to recruit most of their top affiliates.
+  
+  As you can see, there are two core ways you can pay affiliates. The first is to pay out a percentage of the sale, and the second is to pay them a flat CPA for every sale they make. My rule is that I try to pay out 50 percent of the profit I make in my funnel.  Building a successful affiliate program has brought us more traffic, leads, and sales than any other marketing technique.
+
 ### Cold Traffic
+
+- Thus far, I’ve focused on two types of traffic: warm traffic (the fans and followers and lists of your Dream 100) and hot traffic (your own list). For most companies, this is all that you will ever need to focus on. I strongly believe that you can build most companies to multiple eight figures a year just by focusing on warm traffic and then turning it into hot traffic. If you want to scale beyond that, though, you’ll have to master one other type of traffic: cold traffic.
+
+  To me, it meant that traffic that was cold needed to be spoken to differently than traffic that was warm or hot because they weren’t even aware that a solution existed, let alone that there was a product to solve their problem.
+
+  Cold traffic, on the other hand, often isn’t even aware they have a problem. If you remember the three core markets, cold traffic is a group of people that are at the 3 Core Desires level. All they know is that their health, wealth, or relationship isn’t good; they don’t have any understanding yet of anything beyond that. They haven’t been congregated into groups yet, so no one is helping them.
+  
+  Getting something to work in cold traffic will seem difficult, but it’s actually as simple as changing your language patterns. Interestingly enough, the solution to both these problems is that they need a funnel, but to the people who are more unaware, my language doesn’t make sense to them. The difference in talking to hot, warm, and cold traffic is the language that you use. “Funnels” don’t make sense to the masses, so I have to change my language to “money-making website” to match what they would understand.
+  
+  STEP #1: CREATE YOUR “COLD TRAFFIC CUSTOMER AVATAR”
+  
+  The first step in this process is to create a new “cold traffic customer avatar.” This avatar will be similar to your current dream customer avatar, but cold traffic is much earlier in their journey. They are six months to a year (or more) before they became your dream customer. They know they have pain in the three core desires that you serve (health, wealth, or relationships), but they haven’t started moving toward a solution yet. 
+  
+  To identify this cold traffic customer avatar for myself, I had to look deep into my own past. For most of you, if you’ve followed a traditional entrepreneurial journey, this avatar will mostly likely be you five to ten years ago. Think about it: most entrepreneurs have struggled with the desire of health, wealth, or relationships and went on a journey to get themselves out of pain.
+  
+  So my question for you is this: What is your version of 12- year-old Rusty? What were the things that would have grabbed your attention at the beginning of your journey? What words and phrases would you have used back then to explain what it is you’re doing now? If I had seen words like “funnel” or “traffic” back then, I would have kept flipping through the magazine. Instead, they had used words that described the problem I had and the result I was trying to get in a way that I understood, and that’s why they were successful.
+  
+  STEP #2: CREATE A BRIDGE
+  
+  As you can see, the warmer the traffic, the smaller the pre- frame bridge needs to be. If your audience knows, trusts, and loves you (the hottest traffic), then your bridge could be as simple as telling them you have something cool that you think they should buy. The last and longest bridge is the cold traffic bridge. But how long does it need to be? It all depends on how cold the targeted customers are.
+  
+  When we got back the data, we found a lot of interesting trends, but one that really stuck out was that a huge percentage of our customers at the time were conservative Republicans. The report even referenced a few of the websites that this group spent a lot of time on. to prepare them for the warm funnel. After I saw that, I was ready for round two! So we spent time trying to figure out:
+  - What language patterns (words and phrases) should I use to explain what I’m trying to warm people up for?
+  - What false beliefs do people have that would keep them from buying when they did see my funnel?
+  - What stories did I have that could bridge the gaps and break their false beliefs?
+  - What content pieces did we need to create to tell these stories?
+  
+  We then wrote an article landing page which would become our cold traffic pre-frame bridge. When we bought our next solo ad to the list, we sent all the traffic to this article page. From the article page, we directed them to a lead funnel that captured their email address, and then we built a follow-up funnel that led them to different posts on our blog, videos on YouTube, and other places where we had strategically placed content to warm them up. Eventually, we introduced them to our front-end offer after we had warmed them up.
+  
+  In order for most companies to scale past nine figures per year, you’ll need to master cold traffic. To begin with, though, I’d still focus all your efforts on warm traffic and the Dream 100. 
+
+  Stop and grab the big pile of cash (your hot and warm traffic) first, and then after you have it all, you can start looking more at the cold traffic channels.
 
 ### Other Growth Hacks
 
