@@ -1102,13 +1102,175 @@ or “How to build your Potato Gun with stuff you can find at Home Depot for und
 
 ### After the Slaps and the Snaps
 
+- So what happens if you’re reading this book, and Facebook has recently been shut down by the government for controlling too big of a monopoly or a new social platform is getting traction and you want to figure out how to get in early before it’s too late? As you know, my goal with this book is not to give you a fish, but it is to teach you how to fish. In my 15 years online, I’ve watched as dozens of networks and hundreds of ads sources have come and gone.
+
+   I want to give you the exact blueprint we use as we look at every new traffic opportunity. For this example, I am going to apply the Fill Your Funnel framework to grow and monetize my podcast. To do that, I need to apply this framework to the Apple podcast directory. As I break down how to dominate the podcast network, notice how we use the same framework in order to have success.
+   
+   STEP #1: UNDERSTAND THE HISTORY AND THE GOAL
+   
+   Podcasting tends to attract a more affluent audience and people who have a higher net worth. In fact, a recent survey showed that podcast listeners are 45 percent more likely to have a net household income of over $250,000 per year.43 That tells me a few things. First, if you want to increase your own personal net income, you should be listening to podcasts instead of radio. Second, your dream customers, the cream of the crop, are those on your list who also listen to podcasts.
+
+   STEP #2: FIND YOUR DREAM 100 ON THIS PLATFORM
+   
+   Podcasting is one of the easiest platforms to find your Dream 100 on, because almost every podcast is published in the Apple podcast directory, Apple’s ranking algorithm for podcasts is currently based on three things. First (and most important) is the number of new subscribers. The more new subscribers you get, the higher your podcast will rank. That is the number-one factor and trumps the other two, so much so that my main goal is to get people to go and subscribe. We do contests, give away prizes, and talk about it in every show episode. The other two ranking factors are number of downloads and the number of new comments. Both of those are important, but not nearly as important as the number of new subscribers. To find your Dream 100, Apple will show you 200 of their “top” podcasts for each category, and this gives you a huge list to use for your Dream 100.
+   
+   STEP #3: IDENTIFY THE PUBLISHING STRATEGY AND CREATE YOUR PUBLISHING PLAN
+   
+   The strategy with podcasting is pretty simple compared to other platforms: you just have to decide which type of podcast you want to host. My guess is that if you listen to a lot of podcasts, then you probably have your own favorite format. Some people love interview-style shows, others would rather use the time to just share their own thoughts, yet still others like to do a blend of both. I don’t think it really matters which format you want to do, as long as you pick something that you can be consistent with.
+   
+   As with most things in life, consistency is the key to having success with a podcast. Podcasts have a compounding effect. Each episode that you publish will hook new fans, who will then go backward and binge-listen to your show from the beginning. Because of that, each episode’s audience will be bigger than the last,
+   
+   Your Publishing Plan
+   
+   With podcasting, you’ll want to make sure you choose a consistent publishing schedule. Your listeners will come to anticipate when your upcoming shows will be released, so help build that trust by publishing your show on the same day(s) each week.
+   
+   STEP #4: WORK YOUR WAY IN
+   
+   The average podcast listener subscribes to six shows, and that’s it. Usually, they start listening to a show based on a recommendation from a friend. This is why many people who have tried podcasting stop because it’s so hard to get the initial traction and long-term growth.
+   
+   Our strategy to grow our podcast following: build our Dream 100 list of podcasts that our dream customers were already listening to, and then go and work our way in. We messaged every podcast that we could find in our industry and asked them if I could be interviewed on their podcast. When I was interviewed, I was asked the question that almost every podcast host asks: “For those who have enjoyed this episode, how can they learn more about you?” And my answer was always the same: “I have my new podcast called Marketing Secrets And just like we thought, the podcast listeners who heard the interview and connected with me came in droves.
+   
+   STEP #5: BUY YOUR WAY IN
+   
+   you could buy ads in other people’s podcasts to promote your podcast! We are now buying ads as well as full episodes on the podcasts that our dream customers are listening to.
+   
+   STEP #6: FILL YOUR FUNNEL
+   
+   The strategies to promote your funnels are the same as how we grow the show. Every time I have a new book launch, a new webinar, or a new funnel that I quickly want to get a lot of traffic for, one of the best ways to do so is to hit up the podcast circuit. You can message hosts and see if they can get you on their show. Once you’re on, when they ask you the magic question about how people can learn more about you, simply tell them to get a copy of your book, register for your webinar, or get your free lead magnet. Then give them the URL of your funnel.
+   
+   You can also purchase podcast ads to promote your podcast or any of your other funnels. Some podcasts run their ad department in house, where you can contact the show directly. They’ll usually have a media kit that will show you information such as the demographics of the show and how many downloads they get per episode. Many podcasters work with agencies to sell their ads. Most agencies will sponsor many different shows and they can open the doors to many other podcasts that you may not have known even existed.
+   
+   A NOTE ABOUT OTHER PLATFORMS
+   
+   I desperately wanted to write chapters in this book about some of the other platforms that were market leaders at one time, like Twitter, Snapchat, and LinkedIn. There is still so much opportunity on all these platforms, and some of them may come back and beat out the ones that I did show in this book.
+
+  I also had a desire to talk about some of the newer platforms that I think are going to be huge, like Twitch or TikTok, or even a platform such as Pinterest. I picked Facebook, Instagram, Google, and YouTube so you could see the strategy behind how we attack each network as they come out. With that knowledge, you now have a process you can follow for any new network you decide to jump into and a process for how to recover during the next Google slap or Zanos snap.
+
 ### Conversation Domination
+
+- Many people think that they have to be on all platforms to be successful. That is not true. In fact, the majority of the times, the opposite is true. Often, people will try to publish and buy ads on all the platforms and never get great at publishing on any of them, or their ad dollar is spread so thin across all of them that they never actually get any traction.
+
+  For each business, there should be one primary channel that you focus on.  This will also probably be the same platform that you spend most of your own personal time on, because you’ve been a consumer of media on that platform, so it will be easier for you to see how to become a producer of media on it as well. Right now, all your focus, from your Dream 100 to paying for ads, should be on that one platform.
+  
+  I want you to understand that while I do publish on all these platforms now, I didn’t at first. If I had, I never would have become “Russell Brunson,” whatever that means. Five years ago when we first launched ClickFunnels, we picked one platform and doubled down on it, and for us, that was Facebook.
+  
+  It was a long hard process that helped us to build a company that did over $100 million in sales before we started publishing on platform number two.
+  
+  So for those of you who are reading this section now, know that for you, if you were sitting in front of me right now, I’d have you pick one platform, build your show on it, get to work on your Dream 100, and then only focus on that for at least the next 12 months of your life.
+  
+  The other thing I often hear is: “But, Russell, I’m just going to record a video, and then I’ll post the video to YouTube, rip the audio for my podcast, and transcribe the audio for my blog post. I’ll just create the content once, and then I’ll post it everywhere.” While the concept is very sexy, and there are many people selling this as the best way to be everywhere at all times, by doing it you are missing the understanding that each platform has its own unique language. Usually content that works really well on one platform will fail when copied to another one.
+  
+  People on Facebook want to hear your personal stories, talk about current events, and watch you go live. People who listen to podcasts are used to listening to longer-form interviews. People who read blogs are looking for longer-form content that is usually structured in a list with lots of examples and details. People on Instagram want images and to see behind the scenes of your journey and your life.
+  
+  If you just rip your keyword-heavy YouTube video and put the audio on your podcast, it will seem strange to someone who listens to podcasts, and really weird when someone reads it as a status update on your Facebook wall.
+  
+  Eventually, you’ll want to be omnipresent on each platform. But if you make that jump too quickly, it will more than likely cripple you before you have a chance to really build your following.
+
+  THE PROCESS TO ACHIEVE CONVERSATION DOMINATION
+  
+  I’ve seen people try to be omnipresent on every platform, and they usually try to do it in one of three ways. First, they publish a primary show and then publish that same information in different formats to every network. You can get some success with this, but your efforts will be watered down, at best. The second way is publishing completely unique content on each platform. While this is possible, it usually requires building a huge team of people to accomplish it, and it will take a ton of your own personal time.
+  
+  What if we created a master show that we streamed on Facebook and Instagram Live that was scripted out to have all the individual assets we needed for each core platform? Then we could prepare all week for the show and stream it live, where our team would have all the assets they needed to make unique content that fit the native language for each platform.
+  
+  Monologue: I start with my monologue, similar to how most talk shows start, where the host gets up, tells some stories, and tries to connect with the audience. When the monologue is over, this piece of content will become a future episode on the podcast.
+  
+  Interview: I will typically interview someone on the show, either in the office or over the phone. This interview matches the native language that people are used to listening to on a podcast, so in post-production we’ll turn this interview into another podcast episode.
+  
+  Q & A Collabs: Before we start the live show, I send a few of my Dream 100 a question by video on my phone, where I ask them to respond to the question and send a question back to me. I show their question live and give them my response, and then I ask them my question and show their video response. After the show is done, we post the edited video on IGTV and tag them, and then they will post it to their IGTV and tag me back.
+  
+  Top 10 List: I pull a “David Letterman” and share a top list. The list I am sharing is going to become my skyscraper article for my blog. I may share the “21 Best Things You Can Post on Twitter to Get More Followers,” or “My 13 Favorite Squeeze Pages for 2020.” I show an image of each item and talk briefly about it, and when the segment is done, my team will take it and quickly use my explanations to write the skyscraper post in my voice and start the link-building process.
+  
+  How-Tos: I look at the keywords that I want to rank for on YouTube and do a segment showing two to three different ways to do things. Every how-to will become a YouTube video targeting a specific keyword phrase that we will post and then rank.
+  
+  Image Stories: I go through my JK5 categories and show at least one image per category and tell the story behind it. That gives my team a better understanding about the image’s meaning when they are writing the captions and trying to get people to engage with it.
+  
+  Quotes: I like to start wrapping up the show by sharing my favorite quotes and explaining why they are my favorites. That way if my team turns them into quote cards, they will have good explanations that they can use from my own words to post in the captions.
+  
+  Final Thoughts: I want to keep something special for our live viewers to keep them engaged until the end. When the show is over, we quickly record all the information that my team will need to bridge together the content for each platform.
+  
+  PUBLISHING AND DREAM 100 ON EACH PLATFORM
+  
+  As you decide to branch into each new platform, follow the steps in the Fill Your Funnel framework:
+  - Step #1: Understand the history and the goal of the new platform
+  - Step #2: Find and model your Dream 100
+  - Step #3: Identify the publishing strategy and create your publishing plan
+  - Step #4: Work your way in
+  - Step #5: Buy your way in
+  - Step #6: Fill your funnel
 
 ## Growth Hacking
 
+- Have fun with these hacks, as they’re incredibly powerful and will give you an advantage against anyone who wants to compete against you.
+
 ### The Funnel Hub
 
+- I now believe that having both branding and direct response blended together is essential in today’s world, even more so than when I first started experimenting.
+  
+  THE BIRTH OF THE FUNNEL HUB
+  
+  The Shadow Funnel
+  
+  Then they showed me the number 251,680. “What’s this?” I asked.  “That’s how many people worldwide in the past 12 months have searched for ‘Russell Brunson,’” they said. “That’s the shadow funnel, and that’s just your name. That doesn’t include your company or product names, and as you continue to get more momentum, your shadow funnel will grow. Many people try to rank for their dream keywords, but they typically forget about their own branded names.
+  
+  As I was busy trying to rank for non-branded keywords, I didn’t realize that over 250,000 people were searching for brand keywords like my name. Because I hadn’t set up funnels for these branded terms, I was losing out on tons of traffic. 
+  EXAMPLE: branded terms - Russell Brunson, Dotcom Secrets, ClickFunnels -- Nonbranded Terms -- Digital Marketing, Sales Funnel, Courses, Sales Funnel Coach
+  
+  YOUR FUNNEL HUB
+  
+  Its goal is to organize all the funnels and offers in your value ladder in one place. When people start searching for you, it’ll let you control what they find when they search; inevitably, it will help you ascend people up your value ladder. It’s a central hub that organizes all of your funnels and offers and gives you the look and feel of a more traditional website to help build your credibility and magnify your authority.”
+  
+  You know what else? In Expert Secrets, you told us to create a lot of things as we were designing our tribe. Things like:
+  - Who is your Attractive Character? 
+  - What is your future-based cause?
+  - What is your customer manifesto?
+  - What does your value ladder look like?
+  - What do you stand for, and what do you stand against?
+  
+  “We always had those on a Google Doc, and we kind of knew what they were, but our followers never knew. The funnel hub is the place where we gather all these things together so people who are looking for us can quickly understand who we are and how we can serve them.”
+
+  Then they said, “You’re publishing on so many platforms— your blog, podcast, YouTube channel, Facebook pages, and Instagram accounts. Your funnel hub can become your brand stream to organize all your media in one place.
+  
+  HOW TO CREATE YOUR FUNNEL HUB
+  
+  Here is the basic layout of a funnel hub. Leveraging the funnel hub to take advantage of all your shadow traffic, earned media, traditional press, and word-of- mouth advertising can be huge.
+
 ### Other Peoples Distribution Channels
+
+- each of your Dream 100 has a distribution channel; that’s why they’re on your Dream 100 list. Each person has the Midas touch, and it’s your job to figure out how you can plug your products into their distribution channels.
+
+  DISTRIBUTION CHANNEL #1: EMAIL SOLO ADS
+  
+  There are hundreds of people in almost every market who have already built up their own email lists, and one of the easiest ways to quickly increase your traffic is to buy ads in their email lists.
+  
+  When I’m looking for email lists to buy ads in, I’m traditionally looking for a solo publisher, someone who has already created their own brand and list, where I can pay them to send out an email talking about my products or services.
+  
+  The solo publishers are likely already on your Dream 100, and it can be a simple process to ask them if they are willing to sell a solo ad in their newsletter. The ones who’ve had experience with this will typically say yes and have some sort of base pricing. Bigger brands will usually have an online media kit that lists their prices
+  
+  You can also find a lot of advertising opportunities in email newsletters by searching on Google. I’ll often type in “[my niche] email advertising” or “[my niche] online media kit,” Fewer clicks from a newsletter where someone has a good relationship with the publisher will always be better than more clicks from someone who has a bad relationship with their audience.
+  
+  I wish I could give you a set pricing that you’ll typically pay, but it almost always ends up in a negotiation, so keep in mind that their rates are usually negotiable. They say, “suckers pay rate card,” and I tend to believe this is true. Publishers will usually try to have you pay based on how many people are on their list because that larger number serves them, but I would prefer to pay based on how many clicks their emails typically get. To find out that number, I’ll usually ask to see a report of the last 5–10 emails they sent out and how many clicks each email got.
+  
+  If they want to send you their email list and have you send the email out, then run away fast. This is a scam and not something you should ever do. They should be emailing their list from their servers with your creative that you gave them. I like to have the email come from the publisher endorsing the landing page that I want to send the reader to.
+  
+  The best part about email ads is you get results really fast. When someone sends the email, you’ll get the majority of all your clicks within 12 hours, the rest of your clicks within 36– 48 hours, and then the clicks usually stop.
+  
+  The worst part about email ads is you can waste a lot of money fast if you’re not ready. Lastly, solo publishers will often try to sell you “sponsorship ads,” which are smaller ads embedded inside their emails. I’m not a huge fan of these, and I’ve had a really hard time getting them to be profitable. For me, if I can’t buy a solo ad, meaning the entire email is my message, then I usually won’t do it.
+  
+  DISTRIBUTION CHANNELS #2 AND #3: FACEBOOK MESSENGER AND DESKTOP PUSH
+  
+  Usually, the messages that are sent through Messenger need to be a little more stealthy because Facebook doesn’t like you sending out straight promotions. Because Messenger doesn’t allow you to send blatant promotions to your subscribers, the open and click-through rates are second to none. I recommend finding people in your Dream 100 who are actively building up Messenger lists and asking them if you can buy ads to their lists.
+  
+  OTHER DISTRIBUTION CHANNELS
+  
+  There are tons of different distribution channels out there that you will start identifying as you keep your eyes open. Some of my friends have built up big text message lists, so we’re buying text blasts from them. Others run big Facebook groups, so we’re paying to post a sponsored post in their groups. Others have big groups on LinkedIn, so we’re paying the group owners to send messages to their followers for us.
+  
+  There’s an unlimited number of ways to do this. The key is to keep your eyes open for streams of traffic and distribution channels that people own; then figure out how to buy ads in them. Each new distribution channel you plug into will give you a raise.
+  
+  INTEGRATION MARKETING
+  
+  For example, let’s say I find a partner who is getting 1,000 new leads into their funnels every day. Instead of just buying an ad one time to that list, what if my email was sent to every new lead on their email list on day three? That way, I set up the deal once, but I get the benefit of that integration every day. Now, every day 1,000 new people get my message. I’m now integrated into my partner’s sales process, and as they grow their company, mine grows as well!
+  
+  As soon as I became aware of this concept, I started looking for these integration opportunities everywhere. I looked for products that people would need immediately before they started using ClickFunnels, things like domain hosting, graphic design, and business licenses. Then I figured out a way to set up a partnership with each company.
 
 ### Your Affiliate Army
 
