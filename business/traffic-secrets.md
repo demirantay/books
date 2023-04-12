@@ -28,7 +28,6 @@ Table of Contents
   - [Other Peoples Distribution Channels](#other-peoples-distribution-channels)
   - [Your Affiliate Army](#your-affiliate-army)
   - [Cold Traffic](#cold-traffic)
-  - [Other Growth Hacks](#other-growth-hacks)
   
 ## Intro
 
@@ -1359,6 +1358,4 @@ or “How to build your Potato Gun with stuff you can find at Home Depot for und
   In order for most companies to scale past nine figures per year, you’ll need to master cold traffic. To begin with, though, I’d still focus all your efforts on warm traffic and the Dream 100. 
 
   Stop and grab the big pile of cash (your hot and warm traffic) first, and then after you have it all, you can start looking more at the cold traffic channels.
-
-### Other Growth Hacks
 
