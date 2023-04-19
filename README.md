@@ -23,6 +23,7 @@
 - [DotCom Secrets](./business/dotcom.md)
 - [Expert Secrets](./business/expert-secrets.md)
 - [Traffic Secrets](./business/traffic-secrets.md)
+- [Secrets Framework](./business/secrets-framework.md)
 - [Cashflow Stages](./business/cashflow-stages.md)
 
 ## Science
