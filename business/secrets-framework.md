@@ -46,12 +46,77 @@
     - It is the best type of traffic, that you own. Whent hey are on your list you can email them as much as you would like.
     - On average (low end) you can average 1 dollar per member. So if you have a 1000 emails you need to be making 1000$ MRR if not go back to offer-story-hook.
   - Follow up Funnels
-    - 80 percent 
-    
-    
- - `Fill your funnel`
-  - a
-  
+    - 80 percent of business happen after 5fth follow up, stack one funnel onto another. Have a follow up funnel. Attention spans are so low now you need tools here use these:
+      - Retargeting ads
+      - Facebook messanger
+      - Text messages
+    - In your follow up or anything that you are selling use this framek:
+      - Emotion
+      - Logic
+      - Fear (urgency and scarcity)
+      - Whatever you are selling weather retargeting ads, email sequence, youtube webinar (for example: 2 email emiton, 2 email lgoci, 1 email fear)
+  - Infiltrating the Dream 100
+    - your primary distrubtion channel: email
+    - your primary show channel: text, video or audio (focus on one channel) (channels: facebook, insta, youtube ..etc)
+    - for starting build one show on one channel
+    - publish daily
+    - document the journey (document - dont create) (dont create a fantasy influencer persona, be youself that is why just create, talk about your own process rather than the information you want to give them)
+    - document what you are obsessed with. You get paid to think for other people.
+    - INitial episodes are important, tell your origin story when people who find you later on most of them (pareto) go back to episode one.
+- `Fill your funnel`
+  - The main framework for filling your funnel is evergreen, it works on all platforms with tweaks.
+  - Framework:
+    - 1 - Understand the history and goal of the platform, create win win content for the history, never hack the algorithms like a spammer
+    - 2 - Find and model your dream 100 (who is your dream customer, where are they conggeregating, who is already at the top, spend 10 mins everyday like comment. keep track of the content pulse if everybody does the same pattern. Do a pattern interrupt. Algorithms and content always change dont copy but model. If pattern interrupt becoems the pattern it is still effective but less. That is when you should start testing out the next pattern intterrupt. Stay close to your dream 100.
+    - 3 - Identify the publishing strategy and create a publishing plan for the platform you are on
+    - 4 - work your way in
+    - 5 - buy your way in
+    - 6 - fill your funnel (sell them frontend products, push them followup funnels and ascend them through your value ladders)
+  - Fill your funnel organically:
+    - Delete all posts where you are trying to forecfully sell them. Start serving and interacting, be entertainig have fun with your followers. Dont spam your followres. Dont be a consumer be a producer on the platform where you will generate traffic.
+  - Fill your funnel with Paid Ads (buying your way in)
+    - Have a break even funnel that will be profitable to run ads so that you dont have a budget. You will run ads until it is profitable.
+    - Have a small test budget with each new funnel, set up few ads. If the funnel flops send back to the drawing board and rework.
+    - Proespecting Ads - Pool (re read notes)
+    - Retargeting Ads (re read notes)
+  - YouTube Traffic Secrets:
+    - 1 - Find your dream 100 on this platform, two dream lists: one with people, brands and influencers, second with keyword phrases that you would like to create videos for
+    - 2/3 - Identify and create publishing (before creating a video set up channel:
+      - name: Demir Antay -- Company Name
+      - about us page
+      - header image
+      - profile image (use picture not logo)
+      - channel trailer (intro-backstory-why you have authority, value statement - posting schedule - cta - no more than 60 - 120 sec)
+      - Identify your dream keywords that you want videos for ABC hack. Have a root key word "how to make moeny" and just type the latter A the suggest bar will show you results, then note all down. Relace it with B, C, D after all letters in alphabet you can change base phrase and try it agagin. You can have 1000s of ideas very quickliy. Be efficent not an artist.
+      - two types of videos you will create, discoverable videos (keyword based, publish as hooks) turning people into subscribers:
+        - hooks (15 seconds)
+        - Brand intro or trailer (no more than 5 seconds)
+        - Intro (who you are why they should listen to you, dont assume they know who you are)
+        - Story/Content - value from hook
+        - Offer - CTA (like, comment, sub)
+        - Dont sell in these videos
+      - Second type of videos (webinars - they are less keyword focused as they are created to build stronger relationship with current subscribers. You can sell in these. Still use keywords but try to teach or create something that may not fit in.
+      - Setyour videos live in some time. Youtube wants you to treat it like it is a TB
+      - Title - has to have your keywords phrase and a strong hook
+      - Thumbnail - look at your dream 100 - grab attention
+      - Add three hasthags
+      - Add tags related to your main keyword
+      - Use description to sell frontend funnels, watch how dream 100 does it.
+      - Metrics to look for in youtube: 
+        - CTR (4% OK , 6% Good, 9% Golden!)
+        - Initial retention -> try to keep it above 70%
+        - Overall retention (35% - acceptable, 40% - good, 50% - party)
+      - Create playlists in your categories, this is so important. It creates binge watching in your channel. 
+      - Create your publihsing Plan on a weekly basis stick to ti.
+    - 4 - Work your way in. (collab with other youtubers, comment on their videos, not lie by not watching.
+    - 5 - Buy your way in, ideas are endless throw money.
+    - 6 - Fill your funnels.
+  - Conversion Domination
+    - For each business these there should be one primary channel. You need a different and big team for each new platform. Never do all at the first time.
 - `Growth Hacking`
-  - a
+  - Hacks to use if everything is set up.
+  - 1 - The Funnel Hub
+  - 2 - Other Peoples Distrubtion Channel
+  - 3 - Your Affiliate Army
+  - 4 - Cold Traffic
    
