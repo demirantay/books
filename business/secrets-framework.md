@@ -4,14 +4,122 @@
 
 ## DotCom Secrets
 
-- `Intro`
-  - ...
 - `Ladders and Funnels`
-  - ...
+  - The Secret Formula: Consists of 4 simple questions:
+    - 1) Who is your dream client, who do I want to work with
+    - 2) Where can I find them
+    - 3) What bait will I use to attract them
+    - 4) What results do you want to give them. (A business is not about product or services it is about what results you want to give your dream customers)
+  - The value ladder - have a value ladder and a membership (continuity) program. The value ladder is the key. Usually it is 4 steps, never go below 4 steps, upper there is no limit.
+  - From ladder to a funnel: 
+    - traffic > bait > frontend > middle > backend > $
+    - At every step of the vallue ladder we provide value and every product we sell have its own sales funnel.
+  - How to find your dream customers:
+    - question #1 -> Who is your target market?
+    - question #2 -> Where is your target market conggegarating?
+    - question #3 -> how can you get a customer to leave the conggregation and check out your page?
+  - The three types of traffic
+    - Traffic you control
+    - Traffic you don't control
+    - Traffic you Own
+  - Traffic I won -> email list, customers .. etc. this is the best type of traffic.
+  - Traffic I control: email ads (solo ads, banners, links, mentions), pay-per-click ads (facebook, google .etc.), Banner Ads, Native Ads, Affiliates and joint ventures. (goal is always send the purchased traffic to a squeeze page. One goal of that page convert traffic that you control into that you own.
+  - Traffic You Don't Control -> social media, search traffic, guest blog traffic, youtube, guest interviews. (you have no control over this, but again your only goal is to turn this into owned traffic push all of it back to your blog.
 - `Your Comminucation Funnel`
-  - ...
+  - The Attractive Character: (3 elements of an attractive character) - Elements, Identity, Storylines
+  - 4 Elements of an attractive character:
+    - 1 - Backstory (relate to the product you are selling, if selling investing add financial background story)
+    - 2 - Parables (little stories, easy to remember. A parable is a story about something that happened.
+    - 3 - Attractive character shares flaws, this is really important! it makes you relatable and real.
+    - 4 - Attractive Character harness the power of polarity being neutral is boring. Be polirizing.
+  - Identity of a Attractive Character (take one of these, change it if you want to)
+    - The leader
+    - The Adventurer or Crusader
+    - The Reporter or evangelist
+    - The Reulctant Hero
+  - The attractive character story lines. You do not have ot pick one switch it uo:
+    - Loss and redemption
+    - Us vs Them
+    - Before and After
+    - Amazing Discovery
+    - Secret Telling
+    - Third Person
+  - The Soap Opera Sequence:
+    - When somebody joins your list. Bond with them immediately.
+    - Email #1 - set the stage
+    - Email #2 - Open with high drama
+    - Email #3 - Epiphany
+    - Email #4 - Hidden Benefits
+    - Email #5 - Urgency and CTA
+  - Daily Seinfield Sequence
+    - Email Content - 90% entertainment - 10% content
+    - Email everyday it is the best metric. Not once a month.
+  - Seinfield Content Ideas:
+    - Whats happening in attractive characters life
+    - What happened thats embarrasing
+    - How are you getting through holdiay season
+    - Where are you planning your vocation this yeaer
+    - What did you buy recently that you regret
+    - What did you buy recently you just adore
+    - What made you scream with rage or laughing today
+    - What crazy antics did you. kid, dog get into yesterday
+    - What funny thing happened to you in the past that teaches you a lesson
+    - (use these and add your scheduled funnel pitches in between)
 - `Funnelogy Leading Your Customers`
-  - ...
+  - Reverse Engineering a successful Funnel (before building you r own slaes funnel, find others who already have funnel. If you cannot find. Do not continue! NEVER start a funnel without at least 4 out of 5:
+    - demographcis
+    - offer
+    - landing page
+    - traffic source
+    - ad copy
+  - How to reverse engineer:
+    - step 1 -> where your competitiors (both direct and indirect)  
+    - step 2 -> What are they doing (similar web)
+    - step 3 -> Purchase competitors value ladder
+  - Seven phases of a funnel (pre frames):
+    - 1 - determine traffic temperature
+    - 2 - Set up the pre frame bridge
+    - 3 - Qualify subscribers
+    - 4 - Qualify Buyers
+    - 5 - Identify Hyperactive buyers
+    - 6 - Age and ascend relationship
+    - 7 - Change the selling envioronment
+  - The Twenty Three Building Blocks of a Funnell
+    - Pre Frame:
+      - 1 - Quizez
+      - 2 - Articles
+      - 3 - News
+      - 4 - Blogs
+      - 5 - Videos
+      - 6 - Email
+      - 7 - Presell Pages
+    - Qualify Subscribers
+      - 8 - Pop-Ups
+      - 9 - Squeeqe pages
+      - 10 - Squeeze pop
+      - 11 - Two step form
+      - 12 - webinar registration
+      - 13 - Free Account
+      - 14 - Exit pop
+    - Qualify Buyers
+      - 15 - Free plus Shopping
+      - 16 - Trial
+      - 17 - Tipwire
+      - 18 - Self Liquidating Offer
+      - 19 - Straight Sale
+    - Identify Buyers in Heat
+      - 20 - Bumps
+      - 21 - One Time Offers
+      - 22 - Down Sales
+      - 23 - Affiliate Reccommendations
+  - Frontend Vs Backend funnels:
+    - Cold traffic -> start at front of vlaue ladder (low level funnel or SLO funnel)
+    - Warm/Hot -> Knows you , you can start them from middle layer and sascend for higher levels, use two step funnel. For each product in value ladder try to use a different sales funnel.
+  - Look at your framework and build a roadmap dont do everything at once.
+  - The Best Bait ->
+    - The one-hundred visitor test
+    - The free - plus - shipping order form bump (If not digital product you can still use this)
+  - Funnels and Scripts -> These are all frameworks you can change them, but know that these are very fine tuned.
 
 ## Traffic Secrets
 
@@ -130,4 +238,6 @@
   - 2 - Other Peoples Distrubtion Channel
   - 3 - Your Affiliate Army
   - 4 - Cold Traffic
+
+## Expert Secrets
    
