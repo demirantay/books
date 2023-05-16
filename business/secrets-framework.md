@@ -120,6 +120,16 @@
     - The one-hundred visitor test
     - The free - plus - shipping order form bump (If not digital product you can still use this)
   - Funnels and Scripts -> These are all frameworks you can change them, but know that these are very fine tuned.
+    - Frontend Funnels
+      - Funnel 1 (two step free plus shipping / who what, why, how script / OTO script)
+      - Funnel 2 (self liquidating offer / star, story, solution script)
+      - Funnel 3 (Continuity)
+    - Middle Funnels
+      - Funnel 4 (perfect webinar / sales webinar funnel / automated webinar funnel / perfect webinar script )
+      - Funnel 5 (invisible funnel webinar / invisible webinar content)
+      - Funnel 6 (Product Launch video 1,2,3,4)
+    - Backend Funnel
+      - Funnel 7 (high ticket, three step application)  
 
 ## Traffic Secrets
 
