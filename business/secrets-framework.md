@@ -250,4 +250,55 @@
   - 4 - Cold Traffic
 
 ## Expert Secrets
+
+- `Creating Your Mass Movement`
+  - 3 Things needed for creating a mass movement:
+    - They had a charismatic leader or attractive character
+    - Focused on a future based cause that was bigger then themselves.
+    - They each offered their audience a new opportunity.
+  - You only need 1000 true fans to make a living.
+  - The Attractive Character (Look at what you geek out on. That is your super power. Be just one step ahead of your audience)
+  - Select 1 from 3 core markets - health, weatlh, relationships
+  - Core - submarket - niche
+    - for ex: health -> nutrition -> high-fat-diets
+  - Questions to ask about your niche:
+    - #1 -> Would people in this submarket be exited about the new opportunity im presenting in my niche?
+    - #2 -> Are the people in this market irrationaly passionate? (communities, forums, feedback groups, events, talks)
+    - #3 -> Are these people willing and able to spend money on information?
+    - #4 -> Who do you need to become as a leader?
+      - Rule 1 - live the life your audience wishes they could live
+      - Rule 2 - Maintain absolute certainty
+      - Rule 3 - Dont be boring. Cause polarity without going into the crazy zone. neutrality is boring.
+      - Rule 4 - Understand how to use persuasion (encrourage dreams, justify failures, allay fears, confirm suspicion, throw rock at enemies, us vs them.)
+      - Rule 5 - Care ... A LOT! (it is important ot make money but dont be in it just for the money sake)
+      - Rule 6 - Offer them value from their percieved relationship with you. Don't try to define the value you are giving. Allow them to define your value. Maybe they just want to be part of a community. Dont force success.
+  - The Cause (to create a future based cause)
+    - All mass movements are built on hope. (create hope for their future)
+    - Help them break their 4 minute mile
+    - Let them self-identify
+    - Create your own title of liberty
+  - The New Opportunity
+    - Dont fix what is not working, replace what is not working with something better. "people dont want imporvement offers" only %2 of the world is ambitious. Improvement offers are only sold to them. Dont exclude the other 98% of the population.
+  - Status - the only thing that causes poeple to move or not move. Load up the elevated status value and decrease the risk of failure. few status to give to poeple:
+    - apperance of intelligence (anything that makes them look smarter)
+    - apperance of wealth, power or happiness
+    - physical apperance (weight loss, makeup, supplements)
+    - Style (Mac vs PC)
+  - 2 ways to offer a new opportunity:
+    - 1 - opportunity switch
+    - 2 - opportunity stack
+  - The Opportunity Switch
+    - What is the RESULT you want for your people?
+    - What is the VEHICLE or PROCESS you are going to take them through to get that result?
+    - Give them what they want (The Ask Campaign)
+    - Deliver your free master class
+  - 5 Different Ways to Present Opportunity
+    - Little Known, big differences
+    - Well known, little understood
+    - This changes everything with this
+    - The crystal ball theory
+    - Revisiting the fundementals
+- `Creating Belief`
+- `Your Moral Obligation`
+- `The Funnels`
    
