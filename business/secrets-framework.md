@@ -299,6 +299,126 @@
     - The crystal ball theory
     - Revisiting the fundementals
 - `Creating Belief`
+  - The Big Domino
+    - If you ask or make them believe in more than ONE thing (The big domino) your sales will suffer in half.
+  - The Epiphany Bridge
+    - Provide emotional connection
+    - Bridge gap from emotional side to logical side
+  - Effective story telling
+    - Dont use big words or try to sound too smart. Use "kinda, like" bridge to concepts or ideas that is past a third-grade level. Add feelings and emotions to your stories.
+  - The Hero Two Journey
+    - Good Story Template (character + desire + conflict = plot)
+    - 1 - Build rapport with the hero (sharing flaws is critical, no one cares about superman until cryptonite)
+    - 2 - Introduce Desire for something more
+      - Towards pleasure (love, fame, money, competition, prestige)
+      - Away from pain
+      - The journey of achievemnt
+      - The journey of transformation
+    - 3 - Introduce the conflict
+      - The new opportunity
+      - Change of plans
+      - Point of no return
+      - The major setback
+      - The climax now
+  - The Epiphany Brdige Script
+    - This is another framework other than hero's two joueny outline and answer of each question will give you the framework to tell any story:
+      - 1 - the backstroy
+      - 2 - your desires
+      - 3 - the wall
+      - 4 - the epiphany
+      - 5 - the plan
+      - 6 - the conflict
+      - 7 - the achievement
+      - 8 - the transformation
+  - Have a schedule -> 80% sotries content - 20% actual helpful + sales
+  - False Belief Patterns
+    - step #1 - list all the false beliefs your customers have related to new opportunity
+    - step #2 - what experiences caused these beliefs, list experience for each false belief
+    - step #3 - what stories are they telling themselves, because of these experiences
+    - step #4 - think about epiphany bridge story for each of these false beliefs 
+  - The 3 secrets (3 core beliefs to break)
+    - 1 - the vehicle - doubts about the new behicle
+    - 2 - internal belief - doubts about their own abilities
+    - 3 - external belief - thing they cant control: economy/time
 - `Your Moral Obligation`
+  - The Stack Slide:
+    - element #1 - The opporunity switch masterclass
+    - element #2 - The Tools provided by you
+    - element #3 - Tangible #1 (related to vehicle)
+    - element #4 - Tangible #2 (related to internal struggle)
+    - element #5 - Tangible #3 (related to external struggle)
+    - element #6 - Exclusive Bonus (urgency, scarcity)
+  - The Perfect Webinar
+    - Only get them to believe in One Thing
+      - Part 1 - Introduction / building rapport, get curiosity
+      - Part 2 - Identify Big Domino (One Thing) tell your first epiphany bridge story (origin story)
+      - Part 3 - The Three Secrets (break rebuild belief patterns)
+        - 1 - the vehicle or new oportunity
+        - 2 - their ability to use the vehicle (internal beliefs)
+        - 3 - the #1 thing they believe keeping them from getting started (external beliefs)
+      - Part 4 - The Stack - more from teaching to selling
+  - The One Thing (on power poinrt, keynote or landing page)
+    - 1 - Title slide
+    - 2 - Intro / Rapport
+    - 3 - The Ruler: Goal #1 - The New Opportunity (make it inclusive)
+    - 4 - The Ruler: Goal #2 - The Big Domino
+    - 5 - Qualify Yourself
+    - 6 - Epiphany Bridge Story #1 (origin story)
+    - 7 - Liken your story to them
+    - 8 - Case Study / Proof
+    - 9 - Transition to the 3 secrets
+    - 10 - State the secret - state first secret
+    - 11 - share epiphany bridge
+    - 12 - show other peoples results
+    - 13 - break the related beliefs
+    - 14 - restake the new belief as an undeniable
+    - 15-24 - rinse and repeat for secrets #2 and #3
+    - 25 - The transition to selling
+    - 26 - The question
+  - The Stack
+    - 27 - What you re gonna get
+    - 28 - Quick high-level recap of deliverables
+    - 29 - show 3 case studies
+    - 30 - Who this works for
+    - 31 - Destroy the #1 reason people dont get started
+    - 32 - Stack slide #1
+    - 33 - Introduce element #2 (the tools)
+    - 34 - You'll be able to / you will be able to get rid of
+    - 35 - The problem this tool solved for you
+    - 36 - How much time/money this tool will save them
+    - 37 - Break related beliefs about the tools
+    - 38 - Stack slide #2 
+    - 39 - Introduce tangible by product #1 (related to secret #1)
+    - 40 - Pain and Cost
+    - 41 - Ease and Speed for them
+    - 42 - Break related beliefs
+    - 43 - Stack slide #3
+    - 44-53 - Introduce your other two tangible by products
+    - 54 (stack slide #5 (the big stack)
+    - 55-59 - If - all statements
+    - 59 - Price Reveal
+    - 60 - Price Justification
+    - 61 - You've got 2 choices
+    - 62 - Gurantee
+    - 64 - Stack Slide
+    - 65 - Urgency + Scarcity Bonus
+    - 66 - Closing Call to Action / QA Slide
+  - Trial Closes (at the end of presentation use the following trial closes pick one or two)
+    - 1 - money is good
+    - 2 - dispossible income
+    - 3 - money replenishes
+    - 4 - break old habits
+    - 5 - information alone
+    - 6 - money or excuses
+    - 7 - Your Two Choices
+    - 8 - Their two choices
+    - 9 - Us vs. Them
+    - 10 - The Hand hold
+    - 11 - say goodbye
+    - 12 - now and later
+    - 13 - only excuses
+    - 14 - reluctant hero
+    - 15 - if you only got
+    - 16 - close-close
 - `The Funnels`
-   
+  - 
