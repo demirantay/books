@@ -421,4 +421,32 @@
     - 15 - if you only got
     - 16 - close-close
 - `The Funnels`
-  - 
+  - The Perfect Webinar Model
+    - Do the esact same webinar every week for the next 12 months, Learn to drive more traffic to the same webinar every week
+    - Step 1 - send traffic to webinar registration page
+    - Step 2 - send registrants to a thank you page with self liquidatiing offer
+    - Step 3 - send a series of indoctrination emails
+    - Step 4 - Send reminders
+    - Step 5 - Present the webinar live
+    - Step 6 - Send follow-ups and create last-minute urgency
+    - Step 7 - Close the Cart
+    - REPEAT
+  - The 4 question close high ticket
+    - When you are selling a product more than 3000$ use 4 question close script:
+      - Question #1
+      - Question #2
+      - Question #3
+      - Question #4
+  - Perfect Webinar Hack (cheatsheet)
+    - Question 1 - What is the new opportunity I'm offering
+    - Question 2 - What is the one big domino for this offer
+    - Question 3 - What special offer can I create for those who purchase
+    - Question 4 - What is my epiphany bridge origin story
+    - Question 5 - What are the false beliefs they have about this new opportunity (3 secrets)
+      - A - False belief (vehicle)
+      - B - Epiphany bridge story (vehicle)
+      - C - False beleif (internal)
+      - D - Epiphany Bridge (internal)
+      - E - False belief (external)
+      - F - Epiphany Bridge (external)
+  - Epiphany Bridge -> Email Funnels
