@@ -44,6 +44,7 @@
 - [ ] The Appearance Of Power | Tanner Guzy
 - [ ] The Way Of Men | Jack Donovan
 - [ ] Courage Is Calling | Ryan Holiday
+- [ ] ... add self improvement tier lists
 
 # Non-Fiction Musts
 
