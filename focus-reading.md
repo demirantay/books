@@ -1,5 +1,9 @@
 # Focus Reading
 
+Tier list book additions 
+- self imporvement
+- ... 
+
 # Hamza
 
 - [ ] Deep Work | Cal Newport
