@@ -6,14 +6,16 @@ Tier list book additions
 
 # Hamza
 
-- [ ] Deep Work | Cal Newport
+- [x] Deep Work | Cal Newport
 - [ ] The 4-Hour Work Week | Tim Ferriss
-- [ ] Dotcom secrets
-- [ ] Traffic secrets
-- [ ] Expert secrets
+- [x] Dotcom secrets
+- [x] Traffic secrets
+- [x] Expert secrets
 - [ ] The Personal MBA
 - [ ] The Way Of The Superior Man | David Delda
 - [ ] Ego Is The Enemy (+ Stillness Is The Key & The Obstacle Is The Way) | Ryan Holiday
+- [ ] 50 cent Fiftht law robert greene ekle
+- [ ] King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine
 - [ ] Complex PTSD: From Surviving To Thriving | Pete Walker
 - [ ] The way of the Wolf
 - [ ] The thank you economy
