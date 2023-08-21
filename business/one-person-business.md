@@ -62,6 +62,9 @@
 
 - Marketing → You won’t make a single penny if you never promote yourself. Use Traditional Marketing, Russell Brunson dream customers …etc. you have to play the traditional game.
 
+
+- The traditional business model will have you create a customer avatar based on someone with a profitable problem you can solve. My way, The Experience Model, turns YOU into the customer avatar. That way, you can solve your own problems, attract people that are on a similar path as you, and help them do the same. Another bonus, you don’t have to spend countless hours doing market research to understand what will sell. All you have to do is become obsessed with achieving a goal, solve problems that arise, and create a system to help others do it faster. A system is just a step-by-step method for how *you* would go back and solve that problem quick.
+
 ---
 
 - Distrubiton Network (dan koe)
@@ -116,3 +119,26 @@
 - But, don’t worry, I also fell into the trap of wanting to live the life of someone else. That was, until I experienced it.
 
   People of depth and value are the ones that get paid the most. They aren’t one-dimensional. They train their mind just as much as their body. They are the generalists that hire the specialists — and the specialists, 90% of the time, are going to be the robots that were designed to take on repetitive tasks. Automations, no-code tools, and software that weren’t a thing 10 years ago.
+
+  The biggest killer is that people don’t believe that business is for them, or that they don’t have enough experience. If you’ve helped your friends or family with any topic that you’ve ever learned about in your life, you have enough experience.
+
+---
+
+- Content
+    - Your brand (especially on social media) is formed through 1-3 months of content. Content compounds. And I don’t mean in terms of views or reach. I mean the message compounds in people’s minds until your entire message clicks. People aren’t going to understand you from one tweet, video, or article alone. You write about the interests, skills, and topics that you plan to master. The ones that will help you achieve your goals in a way that is unique to you.
+
+- Domain of Mastery
+  - interest #1 (makes money) > interest #2 (excites you) > interest #3 (development)
+  - Content to talk about (principles, know-how, topics, mentors, connections, real world problems)
+
+- Offer:
+  - No, you don’t have to wait to start monetizing. I’m tired of hearing that sh*t. Gatekeeper mindset.
+  - You need to start monetizing (charging low) ASAP. You NEED something to iterate on. You need something to build, improve, and make more valuable.
+  - Your first offer WILL suck. There’s no escaping it. You should get that first crappy iteration out immediately.
+  - The MVO is either a:
+    - 1. Single-skill freelance service that you can sell for $500-$1000
+    - 2. Single interest consulting service where you can sell a pack of 4 consult calls for $500-$1000
+
+    I would almost always recommend option 2 if you are joining the creator economy. I would not start off with time-sucking client work that makes you feel like you don’t have time to create content.
+  - 1) You can start monetizing immediately - No need for a landing page if you understand the sales process. The ability to DM someone, a questionnaire software, and a calendar booking link is all you need. (And a way to send invoices of course)
+  - 2) You can build out a scalable product based on what gets results. - To increase the value of your consulting offer, you will be outlining a curriculum of sorts to help organize the structure of calls. You should also create things like worksheets and Notion dashboards to help your clients get more results. These can be turned into a product that you can sell as your audience grows.
