@@ -24,7 +24,7 @@
 - [Expert Secrets](./business/expert-secrets.md)
 - [Traffic Secrets](./business/traffic-secrets.md)
 - [Secrets Framework](./business/secrets-framework.md)
-- [Cashflow Stages](./business/cashflow-stages.md)
+- [One Person Business](./business/one-person-business.md)
 
 ## Science
 
