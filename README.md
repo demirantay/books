@@ -2,6 +2,7 @@
 
 ## Important
 
+- [Decision Matrix](./important/decision-matrix.md)
 - [Hamza Notes](./important/hamza-notes.md)
 - [Deep Work](./important/deep-work.md)
 - [Atomic habits](./important/atomic-habits.md)
