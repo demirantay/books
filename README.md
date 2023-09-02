@@ -44,6 +44,7 @@
 - [Conceptual-Emprical Knowledge](./self/concept-empric.md)
 - [percentage-income](./self/percentage-income.md)
 - [Glow Up](./self/glow-up.md)
+- [Framework for Moving](moving-framework.md)
 
 ## Literature
 
