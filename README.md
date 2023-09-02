@@ -15,6 +15,7 @@
 
 ## Psychology
 
+- [Narcissistic Family](./psychology/narc-family.md)
 - [Intelligence](./psychology/intelligence.md)
 - [Masculinity](./psychology/masc-femin.md)
 - [Cipolla-Aptalligin Yasasi](./psychology/cipolla-aptallik.md)
