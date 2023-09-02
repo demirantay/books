@@ -2,6 +2,7 @@
 
 ## Important
 
+- [Solomons Paradox](./important/solomons-paradox.md)
 - [Decision Matrix](./important/decision-matrix.md)
 - [Hamza Notes](./important/hamza-notes.md)
 - [Deep Work](./important/deep-work.md)
