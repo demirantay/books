@@ -24,6 +24,7 @@
 
 ## Business
 
+- [Elon Musk 5 Step](./business/elon-musk-five-step.md)
 - [People Efficency](./business/people-efficency.md)
 - [DotCom Secrets](./business/dotcom.md)
 - [Expert Secrets](./business/expert-secrets.md)
