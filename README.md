@@ -24,6 +24,7 @@
 
 ## Business
 
+- [People Efficency](./business/people-efficency.md)
 - [DotCom Secrets](./business/dotcom.md)
 - [Expert Secrets](./business/expert-secrets.md)
 - [Traffic Secrets](./business/traffic-secrets.md)
