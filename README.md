@@ -3,6 +3,7 @@
 ## Important
 
 - [Anxiety and Depression](./important/ax-dp.md)
+- [Chaos and Order](./important/chaos-order.md)
 - [Solomons Paradox](./important/solomons-paradox.md)
 - [Decision Matrix](./important/decision-matrix.md)
 - [Hamza Notes](./important/hamza-notes.md)
