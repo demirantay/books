@@ -96,4 +96,6 @@
      ask yourself what you want today, month, year,10 years your life should have a purpose.
  
  
- 
+-----
+
+Going for a walk gives you more mental happiness than a 30k year raise.
