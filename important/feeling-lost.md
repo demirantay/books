@@ -1,4 +1,4 @@
-# Feeling Lost
+# Feeling Lost - Dan Koe
 
 These letters are always the hardest to write.
 
