@@ -2,6 +2,7 @@
 
 ## Important
 
+- [Manifesto](./manifest.md)
 - [Feeling Lost](./important/feeling-lost.md)
 - [Anxiety and Depression](./important/ax-dp.md)
 - [Chaos and Order](./important/chaos-order.md)
