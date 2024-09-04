@@ -21,6 +21,7 @@
 - [Stutz Tools](./important/stutz-tools.md)
 - [Alain Tools](./important/alain-tools.md)
 - [1stman](./important/1stman-notes.md)
+- [jordan peterson 5](./important/jordan-5.md)
 
 ## Psychology
 
