@@ -1,0 +1,31 @@
+- Ship fast.
+- [Acquire.com](http://Acquire.com) there are marketplaces to sell your mini startups, it is information age.
+- Have a marekting launch system.
+- Have marketing in your deep maintain block that is not related to launch (ads-cold-cont)
+- Solve your own problems with your apps. (list them out when generating)
+- If you run out of your own problems, just solve universal problems (companies want more money, people want better relationship, people want more health)
+- Or you can try new hobbies, travel to see if there are any problems that come to your mind (even solving problems creating new problems) problems never go away :)
+- Don’t build a startup for fucking 1-2 years. You will burn out, you don’t have the capitals it is a 5m+ ARR game. don’t dwell on it.
+- That is why build and ship fast with a single (1-2 features that are essential) keep everything away, market a couple of time and maintain it, if it does not work move on.
+- General rule of thumb: Build just one feature.
+- Pricing is so important because you will validate if there is a need in the market.
+    - Avoid Free Plans. It is for the VC world, freeplan→burn money acquire market
+    - For solopreneurs, the above is not possible.
+    - Don’t do subscription, everything is a subscription these days. It is easier to sell a one time fee for yearly, or lifetime access type of deals.
+    - If you want a lead magnet, make some part of the essential feature free so that if people want more they have to convert also.
+- Stick to your tech stack. Don’t change it, improve your boilerplate.
+- There are three ways to beat the free plan model
+    - One free credits
+    - 7 day trial
+    - a standalone feature that does not require signup that is free (and allowed to be posted on reddit, hackernews, product hunt) but you have to sihnup and pay to get access to the rest.  (lead magnet)
+- Don’t change your tech stack too much. Every week there is a new fucking UI library, users don’t care about ti. they care if they have a solution to their problems. pick a tech stack and stick to it.
+- You like subscriptions as a business owner, clients hate them. Give them one-time payments if that is what they like.
+- Selling a 100$ on time payment is as hard as 9$ monthly subscription so just give them them one-time if that is what they want and the difficulty of selling is the same, maybe do 2-3 annual x of the monthly sub price.
+- And if your service explodes and you are so successful you can keep the old one timer users and can just basically sell the new ones on a subscription basis.
+- Or you can use pay-per-use like openai.
+- start with one time — move to pay-peruse if you want you can add subs in the future.
+- Your headline, landing page is the most influential part of your app It is so IMPORTANT. The good numbers to hit for conversions are visitors → customers are about 1-2% so 100 visitors 1-2 paying customers. SO MAKE SURE YOU SPEND ENOUGH TIME CRAFTING A GOOD HEADLINE AND GOOD COPY that converts you at 2%, it is like a feature.
+- Don’t over engineer, just 1-2 essential main feature.
+    - Be fast, don’t test code, don’t do versioning with git branches, tags, ship directly to prod if finished
+    - remove things that are not directly important to customers, no darkmode, no professional logo
+    - remove any secondary feature, customers come to your website with one problem, it is usually solved with one feature. anything that is not about that feature will be removed from the first version of that app, goal is to get user feedback early and build the right features for them early.
