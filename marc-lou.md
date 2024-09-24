@@ -1,3 +1,5 @@
+## Marc Lou Notes
+
 - Ship fast.
 - [Acquire.com](http://Acquire.com) there are marketplaces to sell your mini startups, it is information age.
 - Have a marekting launch system.
