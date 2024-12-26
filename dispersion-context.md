@@ -6,3 +6,7 @@
 
 - context switch
   - you need an ordered (bulk) input goals for each IQ goal you have and they should have a roadmap.
+
+
+
+that is the true BOSS FIGHT
