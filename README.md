@@ -1,5 +1,11 @@
 > Books
 
+## Chapters
+
+- [Software](./chapters/software.md)
+- [Self Improvement](./chapters/self-improvement.md)
+- [Money Making](./chapters/money-making.md)
+
 ## Before Reorder
 
 - [dispersion and context](./dispersion-context.md)
