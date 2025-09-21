@@ -2,6 +2,8 @@
 
 ## Chapters
 
+- [dating](./dating.md)
+
 - [Software](./chapters/software.md)
 - [Self Improvement](./chapters/self-improvement.md)
 - [Money Making](./chapters/money-making.md)
