@@ -4,13 +4,13 @@
 
 SONRA not et:
 
-İtalya’da (Ascoli Piceno) 1529 yılında yazılmış Latince duvar yazısı;
+İtalya’da (Ascoli Piceno) 1529 yılında yazılmış Latince duvar yazısı;<br>
 
-Yapabilen istemiyor,
-İsteyen yapamıyor,
-Bilen yapmıyor,
-Yapan bilmiyor ve
-Dünya böyle böyle kötüye gidiyor.
+Yapabilen istemiyor,<br>
+İsteyen yapamıyor,<br>
+Bilen yapmıyor,<br>
+Yapan bilmiyor ve<br>
+Dünya böyle böyle kötüye gidiyor.<br><br>
 
 
 
