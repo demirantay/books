@@ -20,5 +20,7 @@ Kasim 2025, Semiramis
 2026 june, Tugrul
 - "Cebine parani ben koydum! diye salondan bagirma" (kendisinin param ile alakasi yok)
 - Bagirma cagirma. Tantrum sekilde cocukca bagirma.
+- "Hasta iken sigara icti, cok dissapointim" (karisi yerine ben gidip kendi paramla, sabah kahvalti aliyorum sonra yemek, ilac aliyorum.) Uzerine disspointim deniyor. 
 
-My own reflection: I am done. 
+My own reflection: I am done. NC.
+"Ben benim yasimda birinden scapegoat'luk cekmem. (my own reflection))
