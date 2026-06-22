@@ -16,3 +16,9 @@ Kasim 2025, Semiramis
 
 2026 Mayis 27
 - Iara, bagira bagira holun ortasindan bostancida, "if you did not ahve ocd, I would beat you" "If you did not have OCD I would touch you 3x" bagirarak. Havaalaninda "be crafeul he will beat you" bunuda hep uyarildiktan sonra yapiyor. Boyle bir insanla merhabalasmak istemem. 
+
+2026 june, Tugrul
+- "Cebine parani ben koydum! diye salondan bagirma" (kendisinin param ile alakasi yok)
+- Bagirma cagirma. Tantrum sekilde cocukca bagirma.
+
+My own reflection: I am done. 
