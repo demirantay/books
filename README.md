@@ -13,7 +13,7 @@ Yapan bilmiyor ve<br>
 Dünya böyle böyle kötüye gidiyor.<br><br>
 
 
-
+- [6-needs](./6-needs.md)
 - [dating](./dating.md)
 
 - [Software](./chapters/software.md)
