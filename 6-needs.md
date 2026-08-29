@@ -2,27 +2,32 @@ Evet, aradığın şey büyük ihtimalle Chase Hughes’un “Six Social Needs�
 
 Aslında 5 değil, 6 tane:
 
-Pity — Acınma / mağduriyet
+- Pity — Acınma / mağduriyet
 “İnsanlar ne kadar zor şeyler yaşadığımı fark ediyor mu?”
 Sürekli başına gelen haksızlıkları, zorlukları, hastalıkları, kötü şansları anlatma.
 Temel arayış: “Benim ne kadar zorlandığımı gör.”
-Significance — Önem / anlamlı hissetme
+
+- Significance — Önem / anlamlı hissetme
 “Ben önemli miyim? Fark yaratıyor muyum?”
 Para, statü, başarı, pozisyon, tanınma, “ben bunu yaptım” hikâyeleri.
 Temel arayış: “Ben önemli biriyim.”
-Strength / Power — Güç / iktidar
+
+- Strength / Power — Güç / iktidar
 “Kontrol bende mi?”
 Otorite, dominantlık, insanları yönetme, fiziksel güç, hiyerarşi ve meydan okumalar.
 Temel arayış: “Güçlü olan benim.”
-Intelligence — Zeki görülmek
+
+- Intelligence — Zeki görülmek
 “Beni akıllı ve bilgili görüyorlar mı?”
 Eğitimini, uzmanlığını, kitaplarını, teknik bilgisini, karmaşık şeyleri anlama becerisini vurgulama.
 Temel arayış: “Ben zekiyim / biliyorum.”
-Approval — Onaylanma
+
+- Approval — Onaylanma
 “Yaptığım şey doğru ve iyi mi?”
 Sürekli başkalarının fikrini alma, “sence iyi miydi?”, hata yapmaktan çekinme, reassurance arama.
 Temel arayış: “Beni onayla.”
-Acceptance — Kabul edilme / ait olma
+
+- Acceptance — Kabul edilme / ait olma
 “Ben grubun bir parçası mıyım?”
 “Biz”, arkadaş grupları, topluluklar, network, aidiyet, ortak kimlikler üzerinden konuşma.
 Temel arayış: “Beni aranıza alın.”
